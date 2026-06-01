@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Diego Antonio Ribas — Advocacia | Penal, Ambiental, Compliance, Saúde e Sucessões</title>
+<meta name="description" content="Assessoria e consultoria jurídica especializada em Direito Penal e Penal Econômico, Ambiental, Compliance, Saúde e Sucessões. Atuação diligente em Curitiba (PR) e Joinville (SC). OAB/PR 63.861 · OAB/SC 65.175.">
+<meta name="robots" content="index,follow">
+<meta property="og:title" content="Diego Antonio Ribas — Advocacia">
+<meta property="og:description" content="Assessoria e consultoria jurídica especializada, conduzida com diligência e discrição.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:url" content="https://diegoribas.adv.br">
+<link rel="canonical" href="https://diegoribas.adv.br">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Attorney",
+  "name":"Diego Antonio Ribas Advocacia",
+  "legalName":"D. Ribas Sociedade de Advocacia",
+  "founder":"Diego Antonio Ribas",
+  "url":"https://diegoribas.adv.br",
+  "email":"contato@diegoribas.adv.br",
+  "image":"https://diegoribas.adv.br/assets/logo-diego-ribas.svg",
+  "areaServed":["Curitiba - PR","Joinville - SC","Brasil"],
+  "knowsAbout":["Direito Penal","Direito Penal Econômico","Compliance","Direito Ambiental","Sucessões e Inventário","Direito da Saúde"],
+  "sameAs":["https://www.instagram.com/diegoribas.adv/"],
+  "address":[
+    {"@type":"PostalAddress","streetAddress":"Rua General Aristides Athayde Junior, 530 - Bigorrilho","addressLocality":"Curitiba","addressRegion":"PR","postalCode":"80730-370","addressCountry":"BR"},
+    {"@type":"PostalAddress","streetAddress":"Rua Major Navarro Lins, 1241 - Anita Garibaldi","addressLocality":"Joinville","addressRegion":"SC","postalCode":"89203-500","addressCountry":"BR"}
+  ]
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#18181B;        /* grafite — base escura */
+    --ink-2:#101012;      /* mais profundo */
+    --slate-800:#27272A;
+    --slate-600:#52525B;
+    --slate-400:#A1A1AA;
+    --slate-200:#E4E4E7;
+    --paper:#F5F4F2;      /* papel */
+    --bronze:#B87A4B;     /* acento cobre */
+    --bronze-soft:#C68C5E;
+    --serif:'Cinzel', Georgia, 'Times New Roman', serif;
+    --sans:'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:var(--sans);
+    color:var(--ink);
+    background:var(--paper);
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+  }
+  .wrap{max-width:1140px;margin:0 auto;padding:0 28px}
+  h1,h2,h3{font-family:var(--serif);font-weight:500;line-height:1.12;letter-spacing:-.01em}
+  .eyebrow{
+    font-size:12px;letter-spacing:.28em;text-transform:uppercase;
+    color:var(--bronze);font-weight:600;display:inline-block;margin-bottom:18px;
+  }
+  a{color:inherit;text-decoration:none}
+
+  /* ─────────── NAV ─────────── */
+  header{
+    position:fixed;top:0;left:0;right:0;z-index:50;
+    background:rgba(24,24,27,.0);transition:background .3s ease,border-color .3s ease,padding .3s ease;
+    border-bottom:1px solid transparent;padding:22px 0;
+  }
+  header.scrolled{background:rgba(16,16,18,.92);backdrop-filter:blur(10px);border-bottom:1px solid rgba(184,122,75,.18);padding:14px 0}
+  .nav{display:flex;align-items:center;justify-content:space-between}
+  .brand{font-family:var(--serif);font-size:21px;color:#fff;letter-spacing:.02em;white-space:nowrap}
+  .brand b{font-weight:500}
+  .nav-links{display:flex;gap:26px;align-items:center}
+  .nav-links a{color:rgba(255,255,255,.78);font-size:14.5px;letter-spacing:.01em;transition:color .2s}
+  .nav-links a:hover{color:var(--bronze-soft)}
+  .nav-cta{border:1px solid rgba(184,122,75,.55);color:var(--bronze-soft)!important;padding:9px 18px;border-radius:2px;font-size:13.5px;letter-spacing:.04em;transition:all .25s}
+  .nav-cta:hover{background:var(--bronze);color:var(--ink)!important;border-color:var(--bronze)}
+  .menu-btn{display:none;background:none;border:0;color:#fff;font-size:26px;cursor:pointer;line-height:1}
+
+  /* ─────────── HERO ─────────── */
+  .hero{
+    background:
+      radial-gradient(1200px 600px at 78% -10%, rgba(184,122,75,.14), transparent 60%),
+      linear-gradient(180deg,var(--ink-2) 0%, var(--ink) 100%);
+    color:#fff;padding:200px 0 130px;position:relative;overflow:hidden;
+  }
+  .hero:before{
+    content:"";position:absolute;inset:0;
+    background-image:linear-gradient(rgba(255,255,255,.025) 1px,transparent 1px);
+    background-size:100% 46px;opacity:.5;pointer-events:none;
+  }
+  .hero .wrap{position:relative;z-index:2;max-width:920px}
+  .hero h1{font-size:clamp(34px,5.4vw,62px);color:#fff;margin-bottom:26px}
+  .hero h1 em{font-style:italic;color:var(--bronze-soft)}
+  .hero p.lead{font-size:clamp(16px,2vw,20px);color:rgba(255,255,255,.74);max-width:660px;font-weight:400}
+  .hero-actions{display:flex;gap:16px;margin-top:42px;flex-wrap:wrap}
+  .btn{display:inline-flex;align-items:center;gap:10px;font-size:15px;letter-spacing:.02em;padding:15px 30px;border-radius:2px;font-weight:500;transition:all .25s;cursor:pointer}
+  .btn-primary{background:var(--bronze);color:var(--ink)}
+  .btn-primary:hover{background:var(--bronze-soft);transform:translateY(-1px)}
+  .btn-ghost{border:1px solid rgba(255,255,255,.28);color:#fff}
+  .btn-ghost:hover{border-color:var(--bronze-soft);color:var(--bronze-soft)}
+  .hero-meta{margin-top:64px;padding-top:26px;border-top:1px solid rgba(255,255,255,.12);display:flex;gap:40px;flex-wrap:wrap;font-size:13.5px;color:rgba(255,255,255,.6);letter-spacing:.04em}
+  .hero-meta span{display:flex;align-items:center;gap:9px}
+  .hero-meta .dot{width:5px;height:5px;border-radius:50%;background:var(--bronze)}
+
+  /* ─────────── SECTIONS ─────────── */
+  section{padding:104px 0}
+  .sec-head{max-width:680px;margin-bottom:58px}
+  .sec-head h2{font-size:clamp(28px,3.6vw,42px);margin-bottom:18px}
+  .sec-head p{color:var(--slate-600);font-size:17px}
+  .light{background:var(--paper);color:var(--ink)}
+  .dark{background:var(--ink);color:#fff}
+  .dark .sec-head p{color:rgba(255,255,255,.66)}
+
+  /* Áreas */
+  .areas{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--slate-200);border:1px solid var(--slate-200)}
+  .area{background:var(--paper);padding:38px 32px;transition:background .3s,transform .3s;position:relative}
+  .area:hover{background:#fff}
+  .area .num{font-family:var(--serif);font-size:14px;color:var(--bronze);letter-spacing:.1em}
+  .area h3{font-size:22px;margin:16px 0 12px}
+  .area p{color:var(--slate-600);font-size:15px}
+  .area .rule{width:34px;height:2px;background:var(--bronze);margin:18px 0 0;opacity:.0;transition:opacity .3s,width .3s}
+  .area:hover .rule{opacity:1;width:52px}
+
+  /* Diferencial */
+  .pillars{display:grid;grid-template-columns:repeat(3,1fr);gap:40px;margin-top:10px}
+  .pillar{padding-top:26px;border-top:1px solid rgba(255,255,255,.16)}
+  .pillar .icn{color:var(--bronze-soft);margin-bottom:18px}
+  .pillar h3{font-size:20px;color:#fff;margin-bottom:12px}
+  .pillar p{color:rgba(255,255,255,.66);font-size:15px}
+
+  /* Sobre */
+  .about{display:grid;grid-template-columns:340px 1fr;gap:52px;align-items:start}
+  .about p{color:var(--slate-600);font-size:16.5px;margin-bottom:18px}
+  .about p strong{color:var(--ink);font-weight:600}
+  .credentials{background:#fff;border:1px solid var(--slate-200);border-radius:3px;padding:32px}
+  .credentials .ct{font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--bronze);font-weight:600;margin-bottom:20px}
+  .credentials li{list-style:none;padding:14px 0;border-bottom:1px solid var(--slate-200);font-size:15px;color:var(--slate-600)}
+  .credentials li:last-child{border-bottom:0}
+  .credentials li b{display:block;color:var(--ink);font-family:var(--serif);font-size:17px;font-weight:500;margin-bottom:2px}
+  .portrait{position:relative;border-radius:4px;overflow:hidden;border:1px solid var(--slate-200);background:var(--ink);min-height:400px}
+  .portrait img{display:block;width:100%;height:auto;filter:grayscale(100%) contrast(1.06) brightness(1.03);transition:filter .5s ease}
+  .portrait:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(24,24,27,.05) 0%,transparent 35%,rgba(184,122,75,.20) 100%);pointer-events:none}
+  .portrait:hover img{filter:grayscale(0%) contrast(1.02)}
+  .creds{margin-top:56px;padding-top:34px;border-top:1px solid var(--slate-200);display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:26px 40px}
+  .cred{font-size:14px;color:var(--slate-600);line-height:1.5}
+  .cred b{display:block;color:var(--ink);font-family:var(--serif);font-size:16px;font-weight:500;margin-bottom:4px}
+
+  /* Contato */
+  .contact{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
+  .contact .lead{font-size:18px;color:rgba(255,255,255,.74);margin:18px 0 30px;max-width:440px}
+  .contact-list li{list-style:none;display:flex;gap:16px;padding:16px 0;border-top:1px solid rgba(255,255,255,.12);align-items:flex-start}
+  .contact-list .k{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--bronze-soft);min-width:104px;padding-top:3px}
+  .contact-list .v{color:#fff;font-size:16px}
+  .contact-list .v small{color:rgba(255,255,255,.55);font-size:13.5px;display:block;margin-top:2px}
+  .contact-card{background:rgba(255,255,255,.04);border:1px solid rgba(184,122,75,.25);border-radius:4px;padding:40px}
+  .contact-card h3{color:#fff;font-size:24px;margin-bottom:14px}
+  .contact-card p{color:rgba(255,255,255,.66);font-size:15px;margin-bottom:26px}
+
+  /* Footer */
+  footer{background:var(--ink-2);color:rgba(255,255,255,.6);padding:64px 0 36px;font-size:14px}
+  .foot-top{display:flex;justify-content:space-between;gap:40px;flex-wrap:wrap;padding-bottom:34px;border-bottom:1px solid rgba(255,255,255,.1)}
+  .foot-brand{font-family:var(--serif);font-size:22px;color:#fff;margin-bottom:10px}
+  .foot-brand+div{max-width:340px;font-size:14px}
+  .foot-links{display:flex;gap:46px;flex-wrap:wrap}
+  .foot-col h4{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--bronze-soft);margin-bottom:16px;font-weight:600}
+  .foot-col a{display:block;color:rgba(255,255,255,.62);padding:5px 0;font-size:14px;transition:color .2s}
+  .foot-col a:hover{color:var(--bronze-soft)}
+  .foot-bottom{padding-top:28px;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;font-size:12.5px;color:rgba(255,255,255,.42)}
+  .disclaimer{max-width:720px;line-height:1.7}
+
+  /* Insights */
+  .posts{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+  .post{border:1px solid rgba(255,255,255,.14);border-radius:4px;padding:26px 24px;transition:border-color .3s,transform .3s}
+  .post:hover{border-color:var(--bronze);transform:translateY(-2px)}
+  .post .tag{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--bronze-soft);font-weight:600}
+  .post h3{color:#fff;font-size:18px;margin:14px 0 10px;line-height:1.32}
+  .post .soon{font-size:12.5px;color:rgba(255,255,255,.5);letter-spacing:.04em}
+  /* Área do cliente / portal */
+  .portal{display:grid;grid-template-columns:1.05fr .95fr;gap:56px;align-items:center}
+  .portal .feats{list-style:none;margin-top:20px}
+  .portal .feats li{padding:13px 0;border-top:1px solid var(--slate-200);display:flex;gap:13px;align-items:flex-start;color:var(--slate-600);font-size:15px}
+  .portal .feats li b{color:var(--ink);font-weight:600}
+  .portal .feats .ic{color:var(--bronze);flex:none;margin-top:2px}
+  .portal-card{background:var(--ink);border-radius:6px;padding:40px;text-align:center}
+  .portal-card .lock{color:var(--bronze-soft);margin-bottom:14px}
+  .portal-card h3{color:#fff;font-size:22px;margin-bottom:10px}
+  .portal-card p{color:rgba(255,255,255,.66);font-size:14.5px;margin-bottom:24px}
+  @media(max-width:880px){.posts{grid-template-columns:1fr}.portal{grid-template-columns:1fr;gap:34px}}
+
+  /* Valores */
+  .values{display:grid;grid-template-columns:repeat(3,1fr);gap:30px 40px}
+  .value{padding-top:22px;border-top:1px solid rgba(255,255,255,.16)}
+  .value h3{font-size:19px;color:#fff;margin-bottom:8px}
+  .value p{color:rgba(255,255,255,.66);font-size:15px}
+  @media(max-width:880px){.values{grid-template-columns:1fr 1fr}}
+  @media(max-width:680px){.values{grid-template-columns:1fr}}
+
+  /* Reveal */
+  .reveal{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
+  .reveal.in{opacity:1;transform:none}
+
+  /* ─────────── RESPONSIVE ─────────── */
+  @media (max-width:880px){
+    .areas{grid-template-columns:1fr 1fr}
+    .pillars{grid-template-columns:1fr;gap:28px}
+    .about{grid-template-columns:1fr;gap:32px}
+    .portrait{max-width:300px}
+    .contact{grid-template-columns:1fr;gap:36px}
+  }
+  @media (max-width:680px){
+    .nav-links{
+      position:fixed;inset:0 0 0 auto;width:78%;max-width:320px;background:var(--ink-2);
+      flex-direction:column;align-items:flex-start;gap:8px;padding:96px 32px;transform:translateX(100%);
+      transition:transform .3s ease;border-left:1px solid rgba(184,122,75,.2);
+    }
+    .nav-links.open{transform:none}
+    .nav-links a{font-size:18px;padding:10px 0}
+    .nav-cta{margin-top:10px}
+    .menu-btn{display:block;z-index:60}
+    .areas{grid-template-columns:1fr}
+    section{padding:76px 0}
+    .hero{padding:150px 0 96px}
+    .hero-meta{gap:18px}
+  }
+
+  /* ─── Ajustes para Cinzel (capitulares romanas, largas) ─── */
+  .brand{font-size:16px;letter-spacing:.08em}
+  h1,h2,h3,.foot-brand,.credentials li b,.area h3,.post h3{letter-spacing:.02em}
+  .hero h1{font-size:clamp(26px,4.2vw,48px);line-height:1.24}
+  .hero h1 em{font-style:normal}
+  .sec-head h2{font-size:clamp(24px,3.2vw,36px);line-height:1.22}
+  .area h3{font-size:18px;line-height:1.3}
+</style>
+</head>
+<body>
+
+<header id="hdr">
+  <div class="wrap nav">
+    <a href="#topo" class="brand"><b>Diego Antonio Ribas</b></a>
+    <nav class="nav-links" id="menu">
+      <a href="#atuacao">Atuação</a>
+      <a href="#metodo">Método</a>
+      <a href="#insights">Insights</a>
+      <a href="#area-cliente">Área do Cliente</a>
+      <a href="#sobre">Sobre</a>
+      <a href="#valores">Valores</a>
+      <a href="https://app.diegoribas.adv.br" target="_blank" rel="noopener">Acessar ↗</a>
+      <a href="#contato" class="nav-cta">Falar com o escritório</a>
+    </nav>
+    <button class="menu-btn" id="menuBtn" aria-label="Abrir menu">☰</button>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero" id="topo">
+  <div class="wrap">
+    <span class="eyebrow">Diego Antonio Ribas · Advocacia</span>
+    <h1>Estratégia jurídica,<br>conduzida com <em>diligência e discrição</em>.</h1>
+    <p class="lead">Assessoria e consultoria especializada em Direito Penal e Penal Econômico, Ambiental, Compliance, Saúde e Sucessões — com acompanhamento atento a cada detalhe do seu caso.</p>
+    <div class="hero-actions">
+      <a href="#contato" class="btn btn-primary">Falar com o escritório</a>
+      <a href="#atuacao" class="btn btn-ghost">Áreas de atuação</a>
+    </div>
+    <div class="hero-meta">
+      <span><i class="dot"></i> OAB/PR 63.861 · OAB/SC 65.175</span>
+      <span><i class="dot"></i> Curitiba · Joinville</span>
+      <span><i class="dot"></i> Atuação consultiva e contenciosa</span>
+    </div>
+  </div>
+</section>
+
+<!-- ÁREAS -->
+<section class="light" id="atuacao">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <span class="eyebrow">Áreas de atuação</span>
+      <h2>Especialidades para questões de alta complexidade.</h2>
+      <p>Atuação técnica e dedicada, do aconselhamento preventivo à defesa em juízo, sempre orientada à efetivação dos interesses do cliente.</p>
+    </div>
+    <div class="areas reveal">
+      <div class="area">
+        <span class="num">01</span>
+        <h3>Penal &amp; Penal Econômico</h3>
+        <p>Defesa técnica e assessoria preventiva em matéria criminal, com ênfase em crimes econômicos, empresariais e financeiros.</p>
+        <div class="rule"></div>
+      </div>
+      <div class="area">
+        <span class="num">02</span>
+        <h3>Compliance</h3>
+        <p>Estruturação de programas de integridade, gestão de riscos e adequação regulatória para empresas e instituições.</p>
+        <div class="rule"></div>
+      </div>
+      <div class="area">
+        <span class="num">03</span>
+        <h3>Direito Ambiental</h3>
+        <p>Consultoria e contencioso ambiental, licenciamento e questões de responsabilização para pessoas e empreendimentos.</p>
+        <div class="rule"></div>
+      </div>
+      <div class="area">
+        <span class="num">04</span>
+        <h3>Sucessões &amp; Inventário</h3>
+        <p>Planejamento sucessório, inventários e partilhas, com foco na preservação e na transmissão ordenada do patrimônio.</p>
+        <div class="rule"></div>
+      </div>
+      <div class="area">
+        <span class="num">05</span>
+        <h3>Direito da Saúde</h3>
+        <p>Atuação nas relações entre pacientes, profissionais, operadoras e instituições de saúde, nos âmbitos consultivo e judicial.</p>
+        <div class="rule"></div>
+      </div>
+      <div class="area">
+        <span class="num">06</span>
+        <h3>Consultoria empresarial</h3>
+        <p>Aconselhamento jurídico contínuo a empresas, com leitura de risco e suporte a decisões estratégicas.</p>
+        <div class="rule"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MÉTODO / DIFERENCIAL -->
+<section class="dark" id="metodo">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <span class="eyebrow">Método</span>
+      <h2>Tecnologia a serviço do sigilo e da diligência.</h2>
+      <p>O escritório combina técnica jurídica e tecnologia própria de gestão para conduzir cada caso com segurança, controle e atenção integral.</p>
+    </div>
+    <div class="pillars reveal">
+      <div class="pillar">
+        <div class="icn">
+          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 2 4 6v6c0 5 3.5 8 8 10 4.5-2 8-5 8-10V6l-8-4z"/><path d="m9 12 2 2 4-4"/></svg>
+        </div>
+        <h3>Sigilo e segurança</h3>
+        <p>Gestão de informações com criptografia, autenticação em duas etapas e trilha de auditoria, em conformidade com a LGPD e o sigilo profissional.</p>
+      </div>
+      <div class="pillar">
+        <div class="icn">
+          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+        </div>
+        <h3>Acompanhamento contínuo</h3>
+        <p>Monitoramento de prazos e movimentações processuais para que nenhum detalhe escape ao andamento do seu caso.</p>
+      </div>
+      <div class="pillar">
+        <div class="icn">
+          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        </div>
+        <h3>Relação diligente</h3>
+        <p>Comunicação clara e atenção dedicada — a relação com o cliente voltada à efetivação de seus interesses e necessidades.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SOBRE -->
+<section class="light" id="sobre">
+  <div class="wrap">
+    <div class="about">
+      <div class="portrait reveal"><img src="assets/diego-ribas.jpg.jpeg" alt="Diego Antonio Ribas — advogado" onerror="this.style.display='none'"></div>
+      <div class="reveal">
+        <span class="eyebrow">Sobre</span>
+        <h2 style="font-size:clamp(28px,3.6vw,40px);margin-bottom:24px">Diego Antonio Ribas</h2>
+        <p><strong>Advogado inscrito na OAB/PR (63.861) e na OAB/SC (65.175)</strong>, sócio fundador da D. Ribas Sociedade de Advocacia (OAB/PR 13.261). Exerce advocacia criminal especializada, com ênfase em Direito Penal Econômico e Compliance Ambiental, atuando em Curitiba, Joinville e em demandas em todo o território nacional.</p>
+        <p>Graduado em Direito pela Faculdade de Direito de Curitiba, é pós-graduado (lato sensu) em Inteligência Policial (UniBF), em Direito Penal e Processo Penal (UniBF, 2020) e em Direito Penal Econômico e Processo Penal Econômico (PUC/PR), além de mestrando em Direito Empresarial e Cidadania pelo Centro Universitário Curitiba — Unicuritiba.</p>
+        <p>É membro da Comissão de Defesa das Prerrogativas Profissionais da OAB/PR.</p>
+        <p>O trabalho é orientado por um princípio constante: uma relação próxima e diligente com o cliente, voltada à efetivação concreta de seus interesses.</p>
+      </div>
+    </div>
+    <div class="creds reveal">
+      <div class="cred"><b>D. Ribas Sociedade de Advocacia</b>OAB/PR 13.261</div>
+      <div class="cred"><b>Diego Antonio Ribas</b>OAB/PR 63.861 · OAB/SC 65.175</div>
+      <div class="cred"><b>Mestrando — Unicuritiba</b>Direito Empresarial e Cidadania — Penal Econômico</div>
+      <div class="cred"><b>Especializações</b>Penal Econômico (PUC/PR) · Penal e Processo Penal · Inteligência Policial</div>
+      <div class="cred"><b>Comissão de Prerrogativas</b>Membro — OAB/PR</div>
+    </div>
+  </div>
+</section>
+
+<!-- VALORES -->
+<section class="dark" id="valores" style="background:var(--ink-2)">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <span class="eyebrow">Valores</span>
+      <h2>Princípios que orientam o escritório.</h2>
+    </div>
+    <div class="values reveal">
+      <div class="value"><h3>Sigilo</h3><p>Confidencialidade absoluta como base de toda relação profissional.</p></div>
+      <div class="value"><h3>Diligência</h3><p>Atenção integral e acompanhamento próximo de cada caso.</p></div>
+      <div class="value"><h3>Técnica</h3><p>Rigor jurídico e atualização constante como método de trabalho.</p></div>
+      <div class="value"><h3>Ética</h3><p>Atuação pautada pelo Estatuto da Advocacia e pelo Código de Ética e Disciplina da OAB.</p></div>
+      <div class="value"><h3>Independência</h3><p>Liberdade técnica para defender, com firmeza, o interesse do cliente.</p></div>
+      <div class="value"><h3>Transparência</h3><p>Comunicação clara sobre estratégia, riscos e andamento do caso.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- INSIGHTS -->
+<section class="dark" id="insights">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <span class="eyebrow">Insights</span>
+      <h2>Publicações e análises.</h2>
+      <p>Conteúdo técnico e informativo sobre temas das áreas de atuação — sem aconselhamento a casos concretos.</p>
+    </div>
+    <div class="posts reveal">
+      <article class="post">
+        <span class="tag">Compliance · Penal Econômico</span>
+        <h3>Programas de integridade: o que é criminal compliance e por onde começar</h3>
+        <span class="soon">Em breve</span>
+      </article>
+      <article class="post">
+        <span class="tag">Sucessões</span>
+        <h3>Inventário extrajudicial: requisitos, vantagens e quando é cabível</h3>
+        <span class="soon">Em breve</span>
+      </article>
+      <article class="post">
+        <span class="tag">Direito da Saúde</span>
+        <h3>Judicialização da saúde: pontos de atenção nas relações com operadoras</h3>
+        <span class="soon">Em breve</span>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ÁREA DO CLIENTE -->
+<section class="light" id="area-cliente">
+  <div class="wrap">
+    <div class="portal">
+      <div class="reveal">
+        <span class="eyebrow">Tecnologia</span>
+        <h2 style="font-size:clamp(28px,3.6vw,40px);margin-bottom:18px">Área do cliente, com segurança de verdade.</h2>
+        <p style="color:var(--slate-600);font-size:16.5px">Acompanhe o andamento do seu caso, acesse documentos e fale com o escritório em um ambiente protegido — sob sigilo profissional e em conformidade com a LGPD.</p>
+        <ul class="feats">
+          <li><svg class="ic" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><span><b>Acompanhamento do processo</b> — andamentos e prazos em tempo real.</span></li>
+          <li><svg class="ic" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5"/></svg><span><b>Documentos centralizados</b> — acesso seguro aos arquivos do seu caso.</span></li>
+          <li><svg class="ic" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2 4 6v6c0 5 3.5 8 8 10 4.5-2 8-5 8-10V6l-8-4z"/><path d="m9 12 2 2 4-4"/></svg><span><b>Sigilo e proteção</b> — criptografia, autenticação em duas etapas e trilha de auditoria.</span></li>
+        </ul>
+      </div>
+      <div class="portal-card reveal">
+        <div class="lock"><svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg></div>
+        <h3>Acessar o sistema</h3>
+        <p>Área restrita a clientes e à equipe do escritório.</p>
+        <a href="https://app.diegoribas.adv.br" target="_blank" rel="noopener" class="btn btn-primary" style="width:100%;justify-content:center">Entrar — Aplicação</a>
+        <a href="https://api.diegoribas.adv.br" target="_blank" rel="noopener" class="btn btn-ghost" style="width:100%;justify-content:center;margin-top:12px">API · Sistema</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTATO -->
+<section class="dark" id="contato">
+  <div class="wrap">
+    <div class="contact">
+      <div class="reveal">
+        <span class="eyebrow">Contato</span>
+        <h2 style="font-size:clamp(28px,3.6vw,40px);color:#fff">Vamos conversar sobre o seu caso.</h2>
+        <p class="lead">Atendimento mediante agendamento. Sua mensagem é tratada com confidencialidade.</p>
+        <ul class="contact-list">
+          <li><span class="k">E-mail</span><span class="v"><a href="mailto:contato@diegoribas.adv.br">contato@diegoribas.adv.br</a></span></li>
+          <li><span class="k">Telefone</span><span class="v"><a href="https://wa.me/5541992020190" target="_blank" rel="noopener">+55 (41) 99202-0190</a><small>Telefone e WhatsApp</small></span></li>
+          <li><span class="k">Curitiba</span><span class="v">Rua General Aristides Athayde Junior<small>Bigorrilho · Curitiba/PR</small></span></li>
+          <li><span class="k">Joinville</span><span class="v">Rua Major Navarro Lins<small>Anita Garibaldi · Joinville/SC</small></span></li>
+          <li><span class="k">Horário</span><span class="v">10h às 18h<small>Atendimento mediante agendamento</small></span></li>
+        </ul>
+      </div>
+      <div class="contact-card reveal">
+        <h3>Falar com o escritório</h3>
+        <p>Envie um e-mail com um breve resumo da sua demanda e o melhor horário para contato. Retornaremos com a maior brevidade possível.</p>
+        <a href="mailto:contato@diegoribas.adv.br?subject=Contato%20pelo%20site%20%E2%80%94%20Diego%20Antonio%20Ribas%20Advocacia" class="btn btn-primary" style="width:100%;justify-content:center">Enviar e-mail</a>
+        <a href="https://www.instagram.com/diegoribas.adv/" target="_blank" rel="noopener" class="btn btn-ghost" style="width:100%;justify-content:center;margin-top:12px">Instagram @diegoribas.adv</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="wrap">
+    <div class="foot-top">
+      <div>
+        <div class="foot-brand">Diego Antonio Ribas</div>
+        <div>Assessoria e consultoria jurídica especializada, conduzida com diligência e discrição.</div>
+      </div>
+      <div class="foot-links">
+        <div class="foot-col">
+          <h4>Atuação</h4>
+          <a href="#atuacao">Penal &amp; Penal Econômico</a>
+          <a href="#atuacao">Compliance</a>
+          <a href="#atuacao">Ambiental</a>
+          <a href="#atuacao">Sucessões &amp; Inventário</a>
+          <a href="#atuacao">Saúde</a>
+        </div>
+        <div class="foot-col">
+          <h4>Escritório</h4>
+          <a href="#sobre">Sobre</a>
+          <a href="#metodo">Método</a>
+          <a href="#insights">Insights</a>
+          <a href="#area-cliente">Área do Cliente</a>
+          <a href="#contato">Contato</a>
+          <a href="https://www.instagram.com/diegoribas.adv/" target="_blank" rel="noopener">Instagram</a>
+          <a href="privacidade.html">Política de Privacidade</a>
+        </div>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <div class="disclaimer">
+        © <span id="ano"></span> D. Ribas Sociedade de Advocacia · OAB/PR 13.261 · Diego Antonio Ribas — OAB/PR 63.861 · OAB/SC 65.175 · diegoribas.adv.br<br>
+        Conteúdo de caráter exclusivamente informativo, em conformidade com o Código de Ética e Disciplina da OAB e o Provimento nº 205/2021. Este site não constitui oferta de serviços nem captação de clientela.<br>
+Consulte nossa <a href="privacidade.html" style="color:var(--bronze-soft)">Política de Privacidade</a>. Tratamos seus dados de acordo com a LGPD; para solicitações relativas a dados pessoais, escreva para <a href="mailto:contato@diegoribas.adv.br" style="color:var(--bronze-soft)">contato@diegoribas.adv.br</a>.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Nav background ao rolar
+  const hdr=document.getElementById('hdr');
+  addEventListener('scroll',()=>hdr.classList.toggle('scrolled',scrollY>40));
+  // Menu mobile
+  const btn=document.getElementById('menuBtn'),menu=document.getElementById('menu');
+  btn.addEventListener('click',()=>menu.classList.toggle('open'));
+  menu.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>menu.classList.remove('open')));
+  // Reveal on scroll
+  const io=new IntersectionObserver((es)=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.14});
+  document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+  // Ano
+  document.getElementById('ano').textContent=new Date().getFullYear();
+</script>
+</body>
+</html>
