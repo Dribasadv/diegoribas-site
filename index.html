@@ -176,8 +176,11 @@
   .disclaimer{max-width:720px;line-height:1.7}
 
   /* Insights */
-  .posts{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
-  .post{border:1px solid rgba(255,255,255,.14);border-radius:4px;padding:26px 24px;transition:border-color .3s,transform .3s}
+  .posts{display:grid;grid-auto-flow:column;grid-template-rows:repeat(3,1fr);grid-auto-columns:calc((100% - 48px)/3);gap:24px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:16px;scrollbar-width:thin;scrollbar-color:var(--bronze) rgba(255,255,255,.08)}
+  .posts::-webkit-scrollbar{height:6px}
+  .posts::-webkit-scrollbar-track{background:rgba(255,255,255,.08);border-radius:3px}
+  .posts::-webkit-scrollbar-thumb{background:var(--bronze);border-radius:3px}
+  .post{border:1px solid rgba(255,255,255,.14);border-radius:4px;padding:26px 24px;transition:border-color .3s,transform .3s;scroll-snap-align:start}
   .post:hover{border-color:var(--bronze);transform:translateY(-2px)}
   .post .tag{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--bronze-soft);font-weight:600}
   .post h3{color:#fff;font-size:18px;margin:14px 0 10px;line-height:1.32}
@@ -192,7 +195,7 @@
   .portal-card .lock{color:var(--bronze-soft);margin-bottom:14px}
   .portal-card h3{color:#fff;font-size:22px;margin-bottom:10px}
   .portal-card p{color:rgba(255,255,255,.66);font-size:14.5px;margin-bottom:24px}
-  @media(max-width:880px){.posts{grid-template-columns:1fr}.portal{grid-template-columns:1fr;gap:34px}}
+  @media(max-width:880px){.posts{grid-template-rows:repeat(3,auto);grid-auto-columns:86%}.portal{grid-template-columns:1fr;gap:34px}}
 
   /* Valores */
   .values{display:grid;grid-template-columns:repeat(3,1fr);gap:30px 40px}
