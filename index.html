@@ -291,31 +291,31 @@
       <div class="area">
         <span class="num">01</span>
         <h3>Penal &amp; Penal Econômico</h3>
-        <p>Defesa técnica e assessoria preventiva em matéria criminal, com ênfase em crimes econômicos, empresariais e financeiros.</p>
+        <p>Defesa técnica e assessoria preventiva em matéria criminal, com ênfase em crimes econômicos, empresariais, financeiros e tributários, da investigação aos tribunais superiores.</p>
         <div class="rule"></div>
       </div>
       <div class="area">
         <span class="num">02</span>
         <h3>Compliance</h3>
-        <p>Estruturação de programas de integridade, gestão de riscos e adequação regulatória para empresas e instituições.</p>
+        <p>Estruturação de programas de integridade, gestão de riscos, adequação regulatória, LGPD e governança de inteligência artificial para empresas e instituições.</p>
         <div class="rule"></div>
       </div>
       <div class="area">
         <span class="num">03</span>
         <h3>Direito Ambiental</h3>
-        <p>Consultoria e contencioso ambiental, licenciamento e questões de responsabilização para pessoas e empreendimentos.</p>
+        <p>Consultoria e contencioso ambiental, licenciamento e responsabilidade civil, administrativa e penal em matéria ambiental, para pessoas e empreendimentos.</p>
         <div class="rule"></div>
       </div>
       <div class="area">
         <span class="num">04</span>
         <h3>Sucessões &amp; Inventário</h3>
-        <p>Planejamento sucessório, inventários e partilhas, com foco na preservação e na transmissão ordenada do patrimônio.</p>
+        <p>Planejamento sucessório, inventários judiciais e extrajudiciais, partilhas e cessão de direitos hereditários, com foco na preservação e na transmissão ordenada do patrimônio.</p>
         <div class="rule"></div>
       </div>
       <div class="area">
         <span class="num">05</span>
         <h3>Direito da Saúde</h3>
-        <p>Atuação nas relações entre pacientes, profissionais, operadoras e instituições de saúde, nos âmbitos consultivo e judicial.</p>
+        <p>Atuação nas relações entre pacientes, profissionais, operadoras de planos de saúde e instituições, nos âmbitos consultivo e judicial.</p>
         <div class="rule"></div>
       </div>
       <div class="area">
@@ -413,6 +413,11 @@
       <p>Conteúdo técnico e informativo sobre temas das áreas de atuação — sem aconselhamento a casos concretos.</p>
     </div>
     <div class="posts reveal">
+      <a class="post" href="insight-ludopatia-jogo-responsavel.html" style="text-decoration:none;display:block">
+        <span class="tag">Consumidor · Reparação Civil</span>
+        <h3>Ludopatia e o dever de jogo responsável: quando a casa de apostas é obrigada a devolver o dinheiro</h3>
+        <span class="soon" style="color:var(--bronze)">Ler análise →</span>
+      </a>
       <a class="post" href="insight-busca-pessoal-stj.html" style="text-decoration:none;display:block">
         <span class="tag">Direito Penal · Processo Penal</span>
         <h3>Nervosismo, fuga e denúncia anônima: o STJ vai definir o que autoriza uma abordagem policial</h3>
@@ -566,25 +571,4 @@
       <div class="disclaimer">
         © <span id="ano"></span> D. Ribas Sociedade de Advocacia · OAB/PR 13.261 · Diego Antonio Ribas — OAB/PR 63.861 · OAB/SC 65.175 · diegoribas.adv.br<br>
         Conteúdo de caráter exclusivamente informativo, em conformidade com o Código de Ética e Disciplina da OAB e o Provimento nº 205/2021. Este site não constitui oferta de serviços nem captação de clientela.<br>
-Consulte nossa <a href="privacidade.html" style="color:var(--bronze-soft)">Política de Privacidade</a>. Tratamos seus dados de acordo com a LGPD; para solicitações relativas a dados pessoais, escreva para <a href="mailto:contato@diegoribas.adv.br" style="color:var(--bronze-soft)">contato@diegoribas.adv.br</a>.
-      </div>
-    </div>
-  </div>
-</footer>
-
-<script>
-  // Nav background ao rolar
-  const hdr=document.getElementById('hdr');
-  addEventListener('scroll',()=>hdr.classList.toggle('scrolled',scrollY>40));
-  // Menu mobile
-  const btn=document.getElementById('menuBtn'),menu=document.getElementById('menu');
-  btn.addEventListener('click',()=>menu.classList.toggle('open'));
-  menu.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>menu.classList.remove('open')));
-  // Reveal on scroll
-  const io=new IntersectionObserver((es)=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.14});
-  document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
-  // Ano
-  document.getElementById('ano').textContent=new Date().getFullYear();
-</script>
-</body>
-</html>
+Consulte nossa <a href="privacidade.html" style="color:var
