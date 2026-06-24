@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Comparador de logo — Diego Antonio Ribas Advocacia</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Marcellus&family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{--slate:#0F172A;--deep:#0B1120;--paper:#F8FAFC;--gray:#94A3B8;--line:#334155;
+        --bronze-manual:#B08D57;--bronze-site:#B87A4B;}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--deep);color:var(--paper);font-family:'Inter',sans-serif;padding:48px 20px;}
+  h1{font-family:'Cinzel',serif;font-weight:500;font-size:24px;text-align:center;letter-spacing:.02em;margin-bottom:6px}
+  .sub{text-align:center;color:var(--gray);font-size:14px;margin-bottom:40px}
+  .grid{max-width:860px;margin:0 auto;display:flex;flex-direction:column;gap:26px}
+  .card{background:linear-gradient(180deg,var(--slate),var(--deep));border:1px solid var(--line);border-radius:14px;
+        padding:46px 30px 30px;position:relative;text-align:center}
+  .tag{position:absolute;top:14px;left:18px;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--bronze-site)}
+  .lockup{display:inline-block}
+  .name{color:var(--paper);line-height:1;white-space:nowrap}
+  .rulewrap{display:flex;align-items:center;justify-content:center;gap:14px;margin-top:14px}
+  .rulewrap span{font-family:'Inter',sans-serif;font-size:14px;letter-spacing:.55em;color:var(--bronze-site);padding-left:.55em}
+  .rl{width:64px;height:1.4px;background:var(--bronze-site)}
+  /* fonts */
+  .fraunces .name{font-family:'Fraunces',serif;font-weight:400;font-size:62px;letter-spacing:1px}
+  .cinzel   .name{font-family:'Cinzel',serif;font-weight:500;font-size:48px;letter-spacing:1px}
+  .marcellus .name{font-family:'Marcellus',serif;font-weight:400;font-size:58px;letter-spacing:.5px}
+  .sans     .name{font-family:'Inter',sans-serif;font-weight:600;font-size:44px;letter-spacing:8px}
+  .note{text-align:center;color:var(--gray);font-size:12px;margin-top:10px}
+  .bronzes{max-width:860px;margin:46px auto 0;text-align:center}
+  .sw{display:inline-flex;align-items:center;gap:10px;margin:0 18px;font-size:13px;color:var(--gray)}
+  .chip{width:26px;height:26px;border-radius:6px;border:1px solid #ffffff22}
+  footer{max-width:860px;margin:40px auto 0;color:var(--gray);font-size:12px;text-align:center;line-height:1.6}
+</style>
+</head>
+<body>
+  <h1>Comparador de logo</h1>
+  <div class="sub">As quatro variantes com as fontes reais. Escolha a tipografia e a tonalidade de bronze.</div>
+
+  <div class="grid">
+    <div class="card fraunces">
+      <div class="tag">Opção 1 · Fraunces (atual do &lt;img&gt; do site)</div>
+      <div class="lockup">
+        <div class="name">Diego Antonio Ribas</div>
+        <div class="rulewrap"><i class="rl"></i><span>ADVOCACIA</span><i class="rl"></i></div>
+      </div>
+      <div class="note">Serifada contemporânea, alto contraste. Distinta e moderna.</div>
+    </div>
+
+    <div class="card cinzel">
+      <div class="tag">Opção 2 · Cinzel (fonte dos títulos do site)</div>
+      <div class="lockup">
+        <div class="name">Diego Antonio Ribas</div>
+        <div class="rulewrap"><i class="rl"></i><span>ADVOCACIA</span><i class="rl"></i></div>
+      </div>
+      <div class="note">Romana clássica em capitulares. Sóbria, institucional — coerente com os títulos do site.</div>
+    </div>
+
+    <div class="card marcellus">
+      <div class="tag">Opção 3 · Marcellus</div>
+      <div class="lockup">
+        <div class="name">Diego Antonio Ribas</div>
+        <div class="rulewrap"><i class="rl"></i><span>ADVOCACIA</span><i class="rl"></i></div>
+      </div>
+      <div class="note">Romana elegante e mais leve. Refinada, discreta.</div>
+    </div>
+
+    <div class="card sans">
+      <div class="tag">Opção 4 · Inter (sans, caixa-alta)</div>
+      <div class="lockup">
+        <div class="name">DIEGO ANTONIO RIBAS</div>
+        <div class="rulewrap"><i class="rl"></i><span>ADVOCACIA</span><i class="rl"></i></div>
+      </div>
+      <div class="note">Minimalista e moderna. Menos “tradicional”, mais corporativa.</div>
+    </div>
+  </div>
+
+  <div class="bronzes">
+    <div style="color:var(--paper);font-size:14px;margin-bottom:12px;letter-spacing:.04em">Tonalidade do bronze</div>
+    <span class="sw"><i class="chip" style="background:#B08D57"></i> Bronze manual · #B08D57</span>
+    <span class="sw"><i class="chip" style="background:#B87A4B"></i> Bronze do site (CSS) · #B87A4B</span>
+    <div class="note" style="margin-top:12px">Hoje o site mistura os dois. Convém fixar um só (filetes, rótulos, botões).</div>
+  </div>
+
+  <footer>
+    Diego Antonio Ribas — OAB/PR 63.861 · OAB/SC 65.175 · diegoribas.adv.br<br>
+    Depois de escolher, eu padronizo o logo no site (index.html) e refaço os cards com a mesma fonte e bronze.
+  </footer>
+</body>
+</html>
