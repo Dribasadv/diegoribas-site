@@ -48,7 +48,9 @@ Dentro desse quadro, as tampas têm uma particularidade técnica. Nas garrafas d
 
 ### 2.2 Economia circular e responsabilidade estendida do produtor
 
-A economia circular propõe manter materiais e produtos em uso pelo maior tempo possível, com prioridade para redução, reutilização e reciclagem em detrimento da disposição final. Kirchherr, Reike e Hekkert (2017), ao analisarem 114 definições, mostram que o conceito só se mantém consistente quando articula as três camadas: o produto, a empresa e o sistema econômico. A Fundação Ellen MacArthur, no relatório *The New Plastics Economy*, insere o desenho das embalagens no centro da agenda: o que não se projeta para circular tende a vazar (ELLEN MACARTHUR FOUNDATION; WORLD ECONOMIC FORUM; MCKINSEY & COMPANY, 2016).
+A economia circular propõe manter materiais e produtos em uso pelo maior tempo possível, com prioridade para redução, reutilização e reciclagem em detrimento da disposição final. Kirchherr, Reike e Hekkert (2017), ao analisarem 114 definições, mostram que o conceito só se mantém consistente quando articula as três camadas: o produto, a empresa e o sistema econômico. A Fundação Ellen MacArthur, no relatório *The New Plastics Economy*, insere o desenho das embalagens no centro da agenda: o que não se projeta para circular tende a vazar (GAJDOŠ KLJUSURIĆ, Jasenka; ČAČIĆ, Jasna. Mandatory tethered caps on plastic beverage bottles: Croatian consumer perception and acceptance pre- and post-implementation of the EU Single-Use Plastic Directive. **Beverages**, Basel, v. 12, n. 4, art. 43, 2026. DOI: 10.3390/beverages12040043.
+
+ELLEN MACARTHUR FOUNDATION; WORLD ECONOMIC FORUM; MCKINSEY & COMPANY, 2016).
 
 A responsabilidade estendida do produtor (REP) é o princípio que atribui ao fabricante deveres ambientais sobre o produto também na fase pós-consumo (LINDHQVIST, 2000). Ela se expressa por instrumentos administrativos (metas, retomada, padrões de produto), econômicos (taxas, depósitos) e informacionais. O requisito de tampa presa é um **padrão de produto** derivado da REP. Ele transfere ao produtor, que controla o desenho, um custo que de outro modo recairia sobre a coletividade, na forma de poluição e limpeza urbana. No direito brasileiro, isso concretiza o princípio do poluidor-pagador e o da responsabilidade compartilhada (BRASIL, 2010, arts. 6º, II, e 30), bem como o dever de prevenção que a doutrina extrai do art. 225 da Constituição (MACHADO, 2018; MILARÉ, 2018).
 
@@ -76,7 +78,7 @@ Em 2026, a Comissão revisou suas orientações interpretativas (Comunicação C
 
 ### 3.2 A transposição espanhola
 
-A Espanha transpôs a Diretiva SUP pela Ley 7/2022, cujo Título V trata da redução do impacto de determinados produtos de plástico (ESPANHA, 2022a). O requisito de tampas presas reproduz o art. 6º da Diretiva e é exigível desde 3 de julho de 2024.
+A Espanha transpôs a Diretiva SUP pela Ley 7/2022, cujo Título V trata da redução do impacto de determinados produtos de plástico (ESPANHA, 2022a). O art. 57 da lei ("Requisitos de diseño para recipientes de plástico para bebidas") reproduz o art. 6º da Diretiva: desde 3 de julho de 2024, só podem ser introduzidos no mercado os produtos de plástico de uso único da Parte C do Anexo IV cujas tampas permaneçam unidas ao recipiente durante a fase de utilização prevista.
 
 A experiência espanhola se distingue pelo pacote de instrumentos que cerca o requisito:
 
@@ -96,7 +98,7 @@ Primeiro, a medida é recente (julho de 2024), e a avaliação formal da Diretiv
 
 Segundo, há problemas de identificação causal. Comentários críticos apontam que, nos Países Baixos, a queda na contagem de tampas no lixo disperso coincidiu com a ampliação do sistema de depósito para garrafas pequenas, que reduziu fortemente o número de garrafas abandonadas. Isso torna difícil atribuir o resultado à tampa presa e não ao depósito (ADAM SMITH INSTITUTE, 2025). A crítica vem de um *think tank* com posição ideológica definida e deve ser lida com cautela, mas a objeção metodológica é pertinente.
 
-Terceiro, a aceitação pelo consumidor é um fator relevante. Estudo do Conselho de Consumidores do DIN, o instituto alemão de normalização, identificou dificuldades de abrir, fechar, servir e beber com tampas presas, especialmente para crianças, idosos e pessoas com limitações físicas. Os entrevistados perceberam pouco benefício ambiental (DIN VERBRAUCHERRAT, 2024). Pesquisa encomendada por fabricante de equipamentos indicou que apenas 26% dos respondentes acreditavam que a medida reduziria o lixo disperso (SIDEL, 2024). Estudo acadêmico posterior, com consumidores croatas antes e depois da implementação, publicado no periódico *Beverages* (MDPI), relata aceitação predominantemente negativa e levanta hipóteses sobre aumento da massa de plástico por unidade e efeitos sobre a reciclagem, que merecem investigação.
+Terceiro, a aceitação pelo consumidor é um fator relevante. Estudo do Conselho de Consumidores do DIN, o instituto alemão de normalização, identificou dificuldades de abrir, fechar, servir e beber com tampas presas, especialmente para crianças, idosos e pessoas com limitações físicas. Os entrevistados perceberam pouco benefício ambiental (DIN VERBRAUCHERRAT, 2024). Pesquisa encomendada por fabricante de equipamentos indicou que apenas 26% dos respondentes acreditavam que a medida reduziria o lixo disperso (SIDEL, 2024). Gajdoš Kljusurić e Čačić (2026), em estudo com consumidores croatas antes e depois da implementação (inquéritos de 2024 e 2025), relatam atitudes predominantemente negativas quanto ao manuseio, embora a concordância com a justificativa ambiental tenha aumentado de forma significativa após a implementação e levanta hipóteses sobre aumento da massa de plástico por unidade e efeitos sobre a reciclagem, que merecem investigação.
 
 Esses achados não invalidam a medida, mas qualificam seu desenho regulatório. Deles decorrem quatro implicações:
 
@@ -113,7 +115,7 @@ O art. 225 da Constituição consagra o direito ao meio ambiente ecologicamente 
 
 ### 5.2 Legislação federal
 
-A PNRS institui a responsabilidade compartilhada pelo ciclo de vida dos produtos (BRASIL, 2010, art. 30) e impõe que as embalagens sejam fabricadas com materiais que propiciem a reutilização ou a reciclagem (art. 32). O art. 33 prevê a logística reversa. O Decreto 10.936/2022 regulamenta a lei. O Decreto 12.688/2025 instituiu o sistema de logística reversa de embalagens plásticas, com metas progressivas de recuperação (da ordem de 32% em 2026, até 50% em 2040) e de conteúdo reciclado (de 22% em 2026, até 40% em 2040), ressalvadas as embalagens sujeitas a regulamentação sanitária específica (BRASIL, 2025; ESG INSIGHTS, 2025).
+A PNRS institui a responsabilidade compartilhada pelo ciclo de vida dos produtos (BRASIL, 2010, art. 30) e impõe que as embalagens sejam fabricadas com materiais que propiciem a reutilização ou a reciclagem (art. 32). O art. 33 prevê a logística reversa. O Decreto 10.936/2022 regulamenta a lei. O Decreto 12.688/2025 instituiu o sistema de logística reversa de embalagens plásticas, com metas progressivas de recuperação (Anexo I: 32% em 2026, 33% em 2027 e 35% em 2028, até 50% em 2040) e de conteúdo reciclado (Anexo II: 22% em 2026, 24% em 2027 e 26% em 2028, até 40% em 2040). As metas de conteúdo reciclado valem desde janeiro de 2026 para as empresas de grande porte e desde julho de 2026 para as de pequeno e médio porte. Ficam ressalvadas as embalagens sujeitas a regulamentação sanitária específica (BRASIL, 2025; ESG INSIGHTS, 2025).
 
 O decreto, porém, regula **resultados** (quanto se recupera, quanto se recicla), e não **desenho**. Não há norma federal sobre fechos, nem norma técnica brasileira equivalente à EN 17665. A Lei 9.605/1998 e o Decreto 6.514/2008 oferecem a moldura sancionatória ambiental, e o Código de Defesa do Consumidor oferece a moldura informacional (arts. 6º, III, e 31).
 
@@ -277,7 +279,7 @@ PACKAGING EUROPE. Sealed aluminium foil excluded from EU's tethered lid requirem
 
 PARANÁ. **Lei nº 12.493, de 22 de janeiro de 1999**. Estabelece princípios, procedimentos, normas e critérios referentes a geração, acondicionamento, armazenamento, coleta, transporte, tratamento e destinação final dos resíduos sólidos no Estado do Paraná. Curitiba: Assembleia Legislativa, 1999.
 
-PARANÁ. **Lei nº 20.607, de 2021**. Dispõe sobre o Plano Estadual de Resíduos Sólidos do Paraná. Curitiba: Assembleia Legislativa, 2021.
+PARANÁ. **Lei nº 20.607, de 10 de junho de 2021**. Dispõe sobre o Plano Estadual de Resíduos Sólidos do Paraná. Curitiba: Assembleia Legislativa, 2021.
 
 RÁDIO SENADO. Está pronto para votação o projeto que regulamenta a economia circular do plástico. **Rádio Senado**, Brasília, 27 out. 2026. Disponível em: https://www12.senado.leg.br/radio/1/noticia/2026/10/27/esta-pronto-para-votacao-o-projeto-que-regulamenta-a-economia-circular-do-plastico. Acesso em: 1 nov. 2026.
 

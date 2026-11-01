@@ -16,7 +16,7 @@
 
 ### CAPÍTULO I – DISPOSIÇÕES GERAIS
 
-**Art. 1º** Esta Lei estabelece normas suplementares de proteção do meio ambiente, de controle da poluição e de defesa do consumidor relativas às tampas e fechos plásticos de recipientes de bebidas. Ela se fundamenta no art. 24, incisos V, VI e VIII e §§ 2º e 3º, da Constituição Federal e concretiza, no território estadual, os arts. 6º, 30, 31 e 32 da Lei Federal nº 12.305, de 2 de agosto de 2010, a Lei Estadual nº 12.493, de 22 de janeiro de 1999, e o Plano Estadual de Resíduos Sólidos instituído pela Lei Estadual nº 20.607, de 2021.
+**Art. 1º** Esta Lei estabelece normas suplementares de proteção do meio ambiente, de controle da poluição e de defesa do consumidor relativas às tampas e fechos plásticos de recipientes de bebidas. Ela se fundamenta no art. 24, incisos V, VI e VIII e §§ 2º e 3º, da Constituição Federal e concretiza, no território estadual, os arts. 6º, 30, 31 e 32 da Lei Federal nº 12.305, de 2 de agosto de 2010, a Lei Estadual nº 12.493, de 22 de janeiro de 1999, e o Plano Estadual de Resíduos Sólidos instituído pela Lei Estadual nº 20.607, de 10 de junho de 2021.
 
 **Art. 2º** Para os fins desta Lei, considera-se:
 
@@ -161,7 +161,6 @@ Curitiba, ___ de __________ de 2026.
 - **Comissões prováveis na ALEP:** Constituição e Justiça; Ecologia, Meio Ambiente e Proteção aos Animais; Defesa do Consumidor; Indústria, Comércio, Emprego e Renda. Na ALEP tramita o PL 186/2018 (plásticos de uso único, com substitutivo aprovado em comissão), que pode atrair apensamento.
 - **Antes do protocolo, conferir:**
   - o artigo da Constituição do Estado do Paraná sobre meio ambiente e as hipóteses de iniciativa privativa do Governador, para eventual citação;
-  - a data e a ementa da Lei Estadual 20.607/2021;
   - a vigência da Lei 12.493/1999;
   - o nome atual do fundo estadual de meio ambiente;
   - se há lei estadual ou PL na ALEP sobre tampas presas, para evitar duplicidade.
