@@ -8,7 +8,7 @@
 
 ---
 
-**Ementa:** Institui, no Estado do Paraná, a obrigatoriedade de tampas e fechos plásticos que permaneçam presos aos recipientes de bebidas, cria o Programa Estadual Tampa Presa, Ciclo Fechado e dá outras providências.
+**Ementa:** Institui, no Estado do Paraná, a obrigatoriedade de tampas e fechos plásticos que permaneçam presos aos recipientes de bebidas, cria o Programa Estadual Tampa Presa, Ciclo Fechado, estabelece incentivos à adesão antecipada e dá outras providências.
 
 ---
 
@@ -80,9 +80,7 @@ V – produção e divulgação de dados sobre a presença de tampas e fechos pl
 
 VI – cooperação com Municípios, instituições de ensino e pesquisa, organizações da sociedade civil e setor produtivo.
 
-**Art. 7º** Os fabricantes, envasadores e importadores que comprovarem o atendimento integral ao disposto nos arts. 3º a 5º antes do término do prazo previsto no art. 11 poderão utilizar, em sua comunicação, a expressão "Tampa Presa – Paraná", vedada a sua utilização de forma enganosa, nos termos dos arts. 37 e 38 da Lei Federal nº 8.078, de 1990.
-
-**Art. 8º** As ações de monitoramento previstas no inciso V do art. 6º observarão, sempre que possível:
+**Art. 7º** As ações de monitoramento previstas no inciso V do art. 6º observarão, sempre que possível:
 
 I – a definição de linha de base anterior à exigibilidade desta Lei;
 
@@ -90,9 +88,49 @@ II – protocolos padronizados de contagem e caracterização de resíduos em po
 
 III – a publicidade dos resultados em formato aberto.
 
-### CAPÍTULO IV – DA FISCALIZAÇÃO E DAS SANÇÕES
+### CAPÍTULO IV – DOS INCENTIVOS À ADESÃO ANTECIPADA
 
-**Art. 9º** O descumprimento do disposto nesta Lei sujeita o infrator:
+**Art. 8º** Considera-se aderente antecipado o fabricante, envasador ou importador que comprovar, na forma do parágrafo único do art. 4º, o atendimento integral ao disposto nos arts. 3º a 5º antes do término do prazo que lhe seja aplicável, nos termos do art. 14.
+
+**Art. 9º** Ao aderente antecipado poderão ser assegurados, observada a legislação específica:
+
+I – o uso, em sua comunicação, da expressão "Tampa Presa – Paraná", vedada a sua utilização de forma enganosa, nos termos dos arts. 37 e 38 da Lei Federal nº 8.078, de 1990;
+
+II – o reconhecimento da adesão no âmbito dos planos e sistemas estaduais de logística reversa de embalagens;
+
+III – a redução de 50% (cinquenta por cento) nos valores das taxas estaduais de licenciamento e de controle ambiental relativas às suas unidades de envase localizadas no Estado;
+
+IV – o acesso a linhas de financiamento com condições favorecidas, oferecidas pelas instituições financeiras de fomento de que o Estado participe, para aquisição e adaptação de moldes, equipamentos e linhas de envase, com prioridade para as microempresas e empresas de pequeno porte.
+
+**§ 1º** O financiamento de que trata o inciso IV não poderá ter seu valor, prazo ou encargos calculados ou vinculados ao montante do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços (ICMS) devido pelo beneficiário.
+
+**§ 2º** A redução de que trata o inciso III produzirá efeitos a partir do exercício financeiro seguinte ao da publicação desta Lei, observado o disposto no art. 14 da Lei Complementar Federal nº 101, de 4 de maio de 2000, e no art. 113 do Ato das Disposições Constitucionais Transitórias.
+
+**§ 3º** Os incentivos previstos nos incisos II a IV são temporários e se extinguem, para cada beneficiário, no termo do prazo que lhe seja aplicável nos termos do art. 14. A partir de então, o atendimento ao disposto nesta Lei passa a ser obrigação geral.
+
+**§ 4º** A relação dos beneficiários e o custo estimado dos incentivos serão divulgados anualmente em formato aberto.
+
+**Art. 10.** Nas contratações públicas estaduais que tenham por objeto água mineral ou outras bebidas acondicionadas nos recipientes de que trata esta Lei, poderão ser adotados:
+
+I – a margem de preferência para bens reciclados, recicláveis ou biodegradáveis, nos termos do art. 26, inciso II, da Lei Federal nº 14.133, de 1º de abril de 2021, e de seu regulamento;
+
+II – critérios de sustentabilidade que considerem a utilização de tampa presa e o conteúdo reciclado da embalagem, em atenção ao art. 11, inciso IV, da Lei Federal nº 14.133, de 2021.
+
+**Art. 11.** O Poder Executivo poderá propor, no âmbito do Conselho Nacional de Política Fazendária (CONFAZ), a celebração de convênio que autorize as unidades federadas a conceder benefício fiscal de ICMS nas operações com recipientes de bebidas dotados de tampa presa, ou com tampas presas, moldes e equipamentos destinados à sua fabricação, observadas as seguintes diretrizes:
+
+I – caráter temporário, limitado ao período de transição previsto no art. 14 e ao cronograma de extinção do ICMS fixado pela Emenda Constitucional nº 132, de 20 de dezembro de 2023;
+
+II – prioridade para as microempresas e empresas de pequeno porte;
+
+III – condicionamento à comprovação de conformidade, na forma do parágrafo único do art. 4º;
+
+IV – publicidade dos beneficiários e do custo fiscal.
+
+**Parágrafo único.** Nenhum benefício fiscal de ICMS será concedido com fundamento nesta Lei sem prévia celebração do convênio de que trata o *caput*, nos termos do art. 155, § 2º, inciso XII, alínea *g*, da Constituição Federal e da Lei Complementar Federal nº 24, de 7 de janeiro de 1975.
+
+### CAPÍTULO V – DA FISCALIZAÇÃO E DAS SANÇÕES
+
+**Art. 12.** O descumprimento do disposto nesta Lei sujeita o infrator:
 
 I – às sanções administrativas previstas no art. 56 da Lei Federal nº 8.078, de 1990, aplicadas pelos órgãos de defesa do consumidor, no âmbito de suas atribuições legais;
 
@@ -102,23 +140,23 @@ II – às sanções previstas na legislação ambiental, por constituir infraç
 
 **§ 2º** Na infração ao art. 3º, os órgãos de fiscalização priorizarão a atuação junto ao fabricante, envasador ou importador. O comerciante que comprovar ter adquirido o produto de fornecedor regular e que, após notificado, retirar o produto da venda no prazo fixado responderá apenas se reincidir.
 
-**Art. 10.** Os valores arrecadados com as multas aplicadas com fundamento no inciso II do art. 9º serão destinados, preferencialmente, ao fundo estadual de meio ambiente, observada a legislação específica.
+**Art. 13.** Os valores arrecadados com as multas aplicadas com fundamento no inciso II do art. 12 serão destinados, preferencialmente, ao fundo estadual de meio ambiente, observada a legislação específica.
 
-### CAPÍTULO V – DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+### CAPÍTULO VI – DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-**Art. 11.** Os arts. 3º, 4º, 5º e 9º desta Lei tornam-se exigíveis após 24 (vinte e quatro) meses da data de sua publicação.
+**Art. 14.** Os arts. 3º, 4º, 5º e 12 desta Lei tornam-se exigíveis após 24 (vinte e quatro) meses da data de sua publicação.
 
 **§ 1º** Para as microempresas e empresas de pequeno porte, assim definidas pela Lei Complementar Federal nº 123, de 14 de dezembro de 2006, o prazo previsto no *caput* será de 36 (trinta e seis) meses.
 
 **§ 2º** Os produtos fabricados ou importados antes do término do prazo aplicável poderão ser comercializados por até 12 (doze) meses após esse termo, para escoamento de estoques.
 
-**Art. 12.** A superveniência de lei federal que estabeleça normas gerais sobre a matéria suspende a eficácia desta Lei no que lhe for contrário, nos termos do art. 24, § 4º, da Constituição Federal.
+**Art. 15.** A superveniência de lei federal que estabeleça normas gerais sobre a matéria suspende a eficácia desta Lei no que lhe for contrário, nos termos do art. 24, § 4º, da Constituição Federal.
 
-**Art. 13.** O Poder Executivo poderá regulamentar esta Lei, inclusive quanto aos procedimentos de fiscalização e à dosimetria das sanções.
+**Art. 16.** O Poder Executivo poderá regulamentar esta Lei, inclusive quanto aos procedimentos de fiscalização, à dosimetria das sanções e à comprovação da adesão antecipada.
 
-**Art. 14.** Decorridos 5 (cinco) anos de sua exigibilidade, os resultados desta Lei serão objeto de avaliação, com base nos dados produzidos na forma do art. 8º, para fins de eventual revisão.
+**Art. 17.** Decorridos 5 (cinco) anos de sua exigibilidade, os resultados desta Lei, inclusive o custo e a efetividade dos incentivos do Capítulo IV, serão objeto de avaliação, com base nos dados produzidos na forma do art. 7º e do § 4º do art. 9º, para fins de eventual revisão.
 
-**Art. 15.** Esta Lei entra em vigor na data de sua publicação.
+**Art. 18.** Esta Lei entra em vigor na data de sua publicação.
 
 ---
 
@@ -136,17 +174,21 @@ Senhoras e Senhores Deputados,
 
 - aplica-se igualmente a produtos fabricados no Paraná e fora dele;
 - aceita como conformes os produtos que atendam à norma técnica europeia (EN 17665) ou equivalente, de modo que quem já cumpre o padrão internacional não precisa de adaptação específica para o Paraná (art. 4º);
-- prevê prazo de 24 meses, de 36 meses para micro e pequenas empresas, e de mais 12 meses para escoamento de estoques (art. 11);
+- prevê prazo de 24 meses, de 36 meses para micro e pequenas empresas, e de mais 12 meses para escoamento de estoques (art. 14);
 - exclui vidro, metal e embalagens retornáveis, em simetria com o modelo europeu (art. 3º, § 1º);
-- concentra a responsabilidade no fabricante e protege o pequeno comerciante de boa-fé (art. 9º, § 2º);
-- prevê expressamente a suspensão de sua eficácia diante de lei federal superveniente (art. 12; CF, art. 24, § 4º);
+- concentra a responsabilidade no fabricante e protege o pequeno comerciante de boa-fé (art. 12, § 2º);
+- prevê expressamente a suspensão de sua eficácia diante de lei federal superveniente (art. 15; CF, art. 24, § 4º);
 - não cria órgãos, cargos nem atribuições novas, e remete a fiscalização aos órgãos de defesa do consumidor e de meio ambiente no âmbito de suas atribuições já existentes. Isso respeita a iniciativa reservada do Chefe do Poder Executivo, conforme o Tema 917 do STF.
 
 **5. Cuidados com o consumidor.** A experiência europeia mostrou queixas sobre a dificuldade de uso de algumas tampas presas, especialmente por idosos, crianças e pessoas com deficiência. Por isso o projeto exige usabilidade e acessibilidade (art. 3º, § 2º, I), além da compatibilidade com a reciclagem (inciso II), para que a solução não crie novos problemas.
 
-**6. Política baseada em evidências.** A avaliação europeia da medida ainda está em curso. Por isso o projeto institui monitoramento com linha de base e protocolos padronizados (art. 8º) e prevê avaliação em cinco anos (art. 14). O Paraná poderá produzir dados úteis a todo o país.
+**6. Política baseada em evidências.** A avaliação europeia da medida ainda está em curso. Por isso o projeto institui monitoramento com linha de base e protocolos padronizados (art. 7º) e prevê avaliação em cinco anos (art. 17). O Paraná poderá produzir dados úteis a todo o país.
 
 **7. Inclusão produtiva.** O Programa Estadual Tampa Presa, Ciclo Fechado valoriza as cooperativas de catadores (art. 6º, III). Elas são as primeiras beneficiárias de um fluxo maior e mais limpo de material reciclável, em linha com os arts. 7º, XII, e 36, § 1º, da Política Nacional de Resíduos Sólidos.
+
+**8. Incentivos à adesão antecipada.** O projeto não se limita a obrigar: ele também estimula as empresas a se adaptarem antes do prazo (Capítulo IV). Quem comprovar a conformidade antecipadamente poderá usar o selo "Tampa Presa – Paraná", ter a adesão reconhecida na logística reversa, obter redução de 50% nas taxas estaduais de licenciamento e controle ambiental e acessar linhas de crédito favorecidas para a troca de moldes, com prioridade para micro e pequenas empresas (art. 9º). As compras públicas estaduais poderão dar preferência a esses produtos, nos termos da Lei de Licitações (art. 10).
+
+Quanto ao ICMS, o projeto respeita a Constituição. Benefícios de ICMS exigem convênio no CONFAZ (CF, art. 155, § 2º, XII, *g*; LC 24/1975), e o próprio Paraná já teve benefício concedido sem convênio declarado inconstitucional pelo STF (ADI 4.481). Além disso, a reforma tributária (EC 132/2023) extingue o ICMS em 2033 e veda incentivos no novo IBS. Por isso o projeto apenas orienta o Poder Executivo a propor no CONFAZ um convênio autorizativo, temporário e focalizado, e proíbe expressamente qualquer benefício de ICMS sem convênio (art. 11). Todos os incentivos são temporários e se extinguem quando a obrigação se torna geral (art. 9º, § 3º). O custo e os beneficiários serão divulgados anualmente (art. 9º, § 4º). Não há reserva de iniciativa do Executivo em matéria tributária (STF, Tema 682), e a redução de taxas produzirá efeitos apenas no exercício seguinte, observada a Lei de Responsabilidade Fiscal (art. 9º, § 2º).
 
 Pelas razões expostas, conto com o apoio dos nobres Pares para a aprovação deste Projeto de Lei.
 
@@ -163,5 +205,8 @@ Curitiba, ___ de __________ de 2026.
   - o artigo da Constituição do Estado do Paraná sobre meio ambiente e as hipóteses de iniciativa privativa do Governador, para eventual citação;
   - a vigência da Lei 12.493/1999;
   - o nome atual do fundo estadual de meio ambiente;
-  - se há lei estadual ou PL na ALEP sobre tampas presas, para evitar duplicidade.
+  - se há lei estadual ou PL na ALEP sobre tampas presas, para evitar duplicidade;
+  - a lei estadual que institui as taxas ambientais do IAT, para eventualmente citá-la no art. 9º, III, e calibrar o percentual de redução.
+- **Responsabilidade fiscal (obrigatório):** o art. 113 do ADCT exige que a proposição que crie renúncia de receita venha acompanhada de estimativa do impacto orçamentário e financeiro. Antes do protocolo, é preciso anexar a estimativa da redução das taxas (art. 9º, III), com base na arrecadação das taxas de licenciamento das unidades de envase de bebidas, ou retirar esse inciso. Os demais incentivos (selo, reconhecimento, crédito de fomento, compras públicas, proposta ao CONFAZ) não implicam renúncia de receita.
+- **Fomento:** contatar a Fomento Paraná e o BRDE para verificar se já existem linhas de crédito para economia circular que possam receber a prioridade do art. 9º, IV.
 - **Articulação sugerida:** audiência pública com ABIPET, Abiplast, Fiep, Sindicato das Indústrias de Bebidas, Procon-PR, IAT, Ministério Público (CAOP Meio Ambiente), cooperativas de catadores e universidades (UFPR, UTFPR) para validar prazos e protocolo de monitoramento.

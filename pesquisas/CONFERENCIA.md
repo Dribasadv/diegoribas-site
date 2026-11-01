@@ -15,5 +15,14 @@ Os portais oficiais (BOE, EUR-Lex, Planalto, Senado, Câmara, STF, ALEP, MDPI) e
 - [x] Lei PR 20.607, de 10/6/2021: confirmada (AEN, LegisWeb).
 - [ ] Completar nota do autor (titulação, vínculo, ORCID) e adequar ao template da revista escolhida (tamanho, citação numérica ou autor-data, resumo estruturado).
 
+### Seção 7 (incentivos), incluída em 1/11/2026
+- [~] ADI 4.481/PR (Lei PR 14.985/2006): rel. Barroso, j. 11/3/2015, com modulação. Confirmado por Migalhas e Conjur, conferir no acórdão.
+- [ ] ARE 743.480/MG (Tema 682): relator e data (10/10/2013, Gilmar Mendes), conferir.
+- [ ] EC 132/2023: redação literal dos arts. 145, § 3º, e 156-A, § 1º, X, e cronograma de redução dos benefícios de ICMS (2029-2032). Conferir também a redução do IPI a zero (ressalva da ZFM).
+- [ ] LC 214/2025: data (16/1/2025) e dispositivos do Imposto Seletivo sobre bebidas açucaradas. Verificar se a lei ordinária de alíquotas já foi editada.
+- [~] Lei 14.133/2021, art. 26, II e § 1º (até 20%), e Decreto 11.890/2024 (alterado pelo Decreto 12.218/2024): confirmado por fontes secundárias (TCU, Migalhas).
+- [ ] New State Ice Co. v. Liebmann, 285 U.S. 262, 311 (1932): conferir a página da citação de Brandeis.
+- [ ] Tôrres (org.), Direito tributário ambiental, Malheiros, 2005: conferir edição.
+
 ## PL estadual (`pl-estadual-pr-tampas-presas.md` / `.docx`)
 - Ver a "Nota técnica de tramitação" ao final do arquivo.
