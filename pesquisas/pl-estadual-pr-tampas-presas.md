@@ -78,7 +78,9 @@ IV – educação ambiental e informação ao consumidor sobre o descarte conjun
 
 V – produção e divulgação de dados sobre a presença de tampas e fechos plásticos no lixo disperso em praias, rios, reservatórios e áreas urbanas do Estado;
 
-VI – cooperação com Municípios, instituições de ensino e pesquisa, organizações da sociedade civil e setor produtivo.
+VI – cooperação com Municípios, instituições de ensino e pesquisa, organizações da sociedade civil e setor produtivo;
+
+VII – articulação com instituições científicas e tecnológicas e com agências de fomento para apoiar o desenvolvimento de tampas, fechos e lacres que não se desprendam do recipiente, e orientação às empresas sobre o acesso aos incentivos federais à inovação tecnológica previstos na Lei Federal nº 11.196, de 21 de novembro de 2005, e na Lei Federal nº 10.973, de 2 de dezembro de 2004.
 
 **Art. 7º** As ações de monitoramento previstas no inciso V do art. 6º observarão, sempre que possível:
 
@@ -189,6 +191,8 @@ Senhoras e Senhores Deputados,
 **8. Incentivos à adesão antecipada.** O projeto não se limita a obrigar: ele também estimula as empresas a se adaptarem antes do prazo (Capítulo IV). Quem comprovar a conformidade antecipadamente poderá usar o selo "Tampa Presa – Paraná", ter a adesão reconhecida na logística reversa, obter redução de 50% nas taxas estaduais de licenciamento e controle ambiental e acessar linhas de crédito favorecidas para a troca de moldes, com prioridade para micro e pequenas empresas (art. 9º). As compras públicas estaduais poderão dar preferência a esses produtos, nos termos da Lei de Licitações (art. 10).
 
 Quanto ao ICMS, o projeto respeita a Constituição. Benefícios de ICMS exigem convênio no CONFAZ (CF, art. 155, § 2º, XII, *g*; LC 24/1975), e o próprio Paraná já teve benefício concedido sem convênio declarado inconstitucional pelo STF (ADI 4.481). Além disso, a reforma tributária (EC 132/2023) extingue o ICMS em 2033 e veda incentivos no novo IBS. Por isso o projeto apenas orienta o Poder Executivo a propor no CONFAZ um convênio autorizativo, temporário e focalizado, e proíbe expressamente qualquer benefício de ICMS sem convênio (art. 11). Todos os incentivos são temporários e se extinguem quando a obrigação se torna geral (art. 9º, § 3º). O custo e os beneficiários serão divulgados anualmente (art. 9º, § 4º). Não há reserva de iniciativa do Executivo em matéria tributária (STF, Tema 682), e a redução de taxas produzirá efeitos apenas no exercício seguinte, observada a Lei de Responsabilidade Fiscal (art. 9º, § 2º).
+
+**9. Inovação e incentivos federais.** A Lei federal nº 11.196/2005 (Lei do Bem) permite às empresas do lucro real deduzir do IRPJ e da CSLL de 60% a 80% dos gastos com pesquisa e desenvolvimento, inclusive no desenvolvimento de tampas e lacres que não se desprendem. O Estado não pode alterar esse incentivo, que é federal. Pode, porém, ajudar as empresas paranaenses a acessá-lo e articular com universidades, institutos de ciência e tecnologia e agências de fomento (Finep, BNDES, Fomento Paraná, BRDE) o desenvolvimento dessas soluções (art. 6º, VII). O Paraná pode, assim, tornar-se um polo de inovação em fechos sustentáveis.
 
 Pelas razões expostas, conto com o apoio dos nobres Pares para a aprovação deste Projeto de Lei.
 

@@ -24,5 +24,14 @@ Os portais oficiais (BOE, EUR-Lex, Planalto, Senado, Câmara, STF, ALEP, MDPI) e
 - [ ] New State Ice Co. v. Liebmann, 285 U.S. 262, 311 (1932): conferir a página da citação de Brandeis.
 - [ ] Tôrres (org.), Direito tributário ambiental, Malheiros, 2005: conferir edição.
 
+### Direito comparado (seção 3.3 a 3.7) e Lei do Bem (seção 7.5), incluídos em 1/11/2026
+- [~] Portugal: DL 78/2021, art. 9º (fonte: apresentação da APA) e DL 83/2022. Conferir a redação no Diário da República. SDR "Volta" desde 10/4/2026: confirmado pela DGAE.
+- [ ] Itália: D.Lgs. 196/2021, artigo das sanções (2.500 a 25.000 €) e eventual derrogação para plástico compostável. Data final da *plastic tax* (1/1/2027 ou 1/7/2027), a conferir no texto da Lei de Orçamento de 2026.
+- [ ] Alemanha: EWKKennzV § 3 (fonte: IHK). Conferir também a reorganização em curso (VerpackG/VerpackDG), a alíquota de 0,181 €/kg da EWKFondsV e o tratamento dos recipientes sujeitos a depósito.
+- [ ] Reino Unido: aplicação do requisito na Irlanda do Norte (DAERA/Quadro de Windsor), ausência de obrigação na Grã-Bretanha, título e número das Deposit Scheme Regulations (Inglaterra e Irlanda do Norte), alíquota de £ 228,82/t desde 1/4/2026 (HMRC).
+- [ ] Recurso próprio da UE de 0,80 €/kg (Decisão (UE, Euratom) 2020/2053): conferir.
+- [ ] Lei do Bem: art. 17, § 1º (conceito de inovação tecnológica), art. 19 (percentuais), Decreto 5.798/2006, IN RFB 1.187/2011. Conferir também a LC 224/2025 e a IN RFB 2.305/2025 (preservação da exclusão de P&D) e o andamento do PLP 6/2026.
+- [ ] Finep/BNDES: chamadas vigentes em economia circular (a rodada Mais Inovação de 2026 tinha prazo até 31/8/2026, segundo fonte secundária).
+
 ## PL estadual (`pl-estadual-pr-tampas-presas.md` / `.docx`)
 - Ver a "Nota técnica de tramitação" ao final do arquivo.

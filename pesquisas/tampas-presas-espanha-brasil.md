@@ -210,6 +210,20 @@ Diego Antonio Ribas Advocacia · versão de trabalho de 1º/11/2026
 
 ---
 
+## 6-A. Atualização: outros países e incentivos federais à inovação
+
+**Direito comparado ampliado** (detalhes e fontes na seção 3 do artigo):
+- **Portugal:** DL 78/2021, art. 9º (tampas presas desde 3/7/2024). Sistema de depósito "Volta" desde 10/4/2026, com 0,10 € por embalagem e meta de 90% em 2029.
+- **Itália:** D.Lgs. 196/2021 (tampas presas, multa de 2.500 a 25.000 €). A *plastic tax* de 0,45 €/kg, criada em 2019, foi adiada oito vezes e agora está prevista para 2027.
+- **Alemanha:** EWKKennzV § 3. Depósito obrigatório (*Einwegpfand*) desde 2003. Fundo de plásticos de uso único desde 2024, com alíquota menor para garrafas que já pagam depósito.
+- **Reino Unido:** a Grã-Bretanha não tem obrigação legal, mas a indústria adota a tampa presa voluntariamente ("efeito Bruxelas"). Na Irlanda do Norte a tampa presa é obrigatória pelo Quadro de Windsor. *Plastic Packaging Tax* de £ 228,82/t para embalagens com menos de 30% de reciclado. Depósito e devolução a partir de out. 2027.
+
+**Lei do Bem (Lei 11.196/2005, arts. 17 a 26):**
+- Exclusão adicional de 60% a 80% (até +20% com patente) dos gastos de P&D no IRPJ e na CSLL. Depreciação integral e amortização acelerada. Esses benefícios sobrevivem à reforma tributária e foram preservados do corte linear da LC 224/2025 **[conferir]**.
+- **Alcança o desenvolvimento**, mas não a mera compra, de tampas e lacres que não se desprendem: modelos mais leves, acessíveis, monomaterial, com lacre integrado, moldes próprios.
+- Só vale para empresas do lucro real com lucro fiscal. As micro e pequenas empresas precisam de subvenção e crédito (Lei 10.973/2004; Finep, BNDES, Fundo Clima) e dos instrumentos estaduais.
+- A Lei do Bem não é linha de crédito: ela dá dedução de imposto. O crédito vem da Finep, do BNDES e das agências estaduais (no Paraná, a Fomento Paraná e o BRDE).
+
 ## 7. Próximos passos sugeridos
 
 1. Confirmar, nos textos oficiais, os pontos marcados **[conferir]**, em especial o art. 57 da Lei 7/2022 (BOE), as metas por ano do Decreto 12.688/2025 (DOU) e o andamento dos PLs 3.615/2024 e 2.524/2022.
