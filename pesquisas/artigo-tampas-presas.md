@@ -80,7 +80,7 @@ A Espanha transpôs a Diretiva SUP pela Ley 7/2022, cujo Título V trata da redu
 
 A experiência espanhola se distingue pelo pacote de instrumentos que cerca o requisito:
 
-a) **Imposto especial sobre embalagens de plástico não reutilizáveis** (Ley 7/2022, arts. 67 a 83): incide desde 1º de janeiro de 2023, à alíquota de 0,45 euro por quilograma de **plástico não reciclado** contido na embalagem. Como a base de cálculo exclui a fração reciclada, o tributo funciona como incentivo direto ao conteúdo reciclado (GARRIGUES, 2022; EY, 2022).
+a) **Imposto especial sobre embalagens de plástico não reutilizáveis** (Ley 7/2022, arts. 67 a 83): incide desde 1º de janeiro de 2023, à alíquota de 0,45 euro (art. 78) por quilograma de **plástico não reciclado** contido na embalagem. Como a base de cálculo exclui a fração reciclada, o tributo funciona como incentivo direto ao conteúdo reciclado (GARRIGUES, 2022; EY, 2022).
 
 b) **Responsabilidade ampliada do produtor de embalagens** (Real Decreto 1055/2022): reorganiza os sistemas de gestão de embalagens e prevê um mecanismo de gatilho. Se as metas intermediárias de coleta de garrafas não fossem atingidas, seria obrigatória a implantação de um **sistema de depósito, devolução e retorno** (SDDR) (ESPANHA, 2022b). Constatado o descumprimento no relatório oficial de 2023, divulgado em novembro de 2024, abriu-se prazo até novembro de 2026 para a implantação, com depósito mínimo de 0,10 euro por recipiente. O cumprimento do prazo é objeto de controvérsia no setor (INFINEWS, 2025; MERCA2, 2026).
 

@@ -1,9 +1,11 @@
+> Acesso aos portais oficiais liberado em 14/11/2026 (ambiente "diegoribas-site (pesquisa comparada)"). STF, Planalto, MDPI e Diário da República (por exigir JavaScript) ainda recusam o acesso automatizado.
+
 # Lista de conferência antes da submissão do artigo e do protocolo do PL
 
 Os portais oficiais (BOE, EUR-Lex, Planalto, Senado, Câmara, STF, ALEP, MDPI) estavam bloqueados na sessão de pesquisa. Itens a confirmar na fonte primária:
 
 ## Artigo (`artigo-tampas-presas.md` / `.docx`)
-- [x] Ley 7/2022, art. 57: confirmado por várias fontes. Falta só conferir BOE n. 85, de 9/4/2022.
+- [x] Ley 7/2022, art. 57 (redação conferida no BOE consolidado em 14/11/2026), BOE n. 85, de 9/4/2022, e art. 78 (alíquota de 0,45 €/kg): confirmados na fonte oficial.
 - [ ] Real Decreto 1055/2022: data de publicação no BOE.
 - [ ] Decisão de Execução (UE) 2023/1060: data exata do JO L 142.
 - [~] Decreto 12.688/2025: 32/33/35% (recuperação) e 22/24/26% (PCR) em 2026-2028, segundo fontes secundárias convergentes. Uma fonte diverge para 2028 (36%). Conferir nos Anexos I e II no Planalto.
@@ -25,9 +27,10 @@ Os portais oficiais (BOE, EUR-Lex, Planalto, Senado, Câmara, STF, ALEP, MDPI) e
 - [ ] Tôrres (org.), Direito tributário ambiental, Malheiros, 2005: conferir edição.
 
 ### Direito comparado (seção 3.3 a 3.7) e Lei do Bem (seção 7.5), incluídos em 1/11/2026
-- [~] Portugal: DL 78/2021, art. 9º (fonte: apresentação da APA) e DL 83/2022. Conferir a redação no Diário da República. SDR "Volta" desde 10/4/2026: confirmado pela DGAE.
+- [~] Portugal: DL 78/2021, art. 9º (fonte: apresentação da APA; o Diário da República exige JavaScript e não abriu por linha de comando) e DL 83/2022. Conferir a redação no Diário da República. SDR "Volta" desde 10/4/2026: confirmado pela DGAE.
 - [ ] Itália: D.Lgs. 196/2021, artigo das sanções (2.500 a 25.000 €) e eventual derrogação para plástico compostável. Data final da *plastic tax* (1/1/2027 ou 1/7/2027), a conferir no texto da Lei de Orçamento de 2026.
-- [ ] Alemanha: EWKKennzV § 3 (fonte: IHK). Conferir também a reorganização em curso (VerpackG/VerpackDG), a alíquota de 0,181 €/kg da EWKFondsV e o tratamento dos recipientes sujeitos a depósito.
+- [x] Alemanha: EWKKennzV § 3 conferido em gesetze-im-internet.de (recipientes de até 3,0 L, tampas presas desde 3/7/2024, presunção pela norma harmonizada).
+- [ ] Alemanha: Conferir também a reorganização em curso (VerpackG/VerpackDG), a alíquota de 0,181 €/kg da EWKFondsV e o tratamento dos recipientes sujeitos a depósito.
 - [ ] Reino Unido: aplicação do requisito na Irlanda do Norte (DAERA/Quadro de Windsor), ausência de obrigação na Grã-Bretanha, título e número das Deposit Scheme Regulations (Inglaterra e Irlanda do Norte), alíquota de £ 228,82/t desde 1/4/2026 (HMRC).
 - [ ] Recurso próprio da UE de 0,80 €/kg (Decisão (UE, Euratom) 2020/2053): conferir.
 - [ ] Lei do Bem: art. 17, § 1º (conceito de inovação tecnológica), art. 19 (percentuais), Decreto 5.798/2006, IN RFB 1.187/2011. Conferir também a LC 224/2025 e a IN RFB 2.305/2025 (preservação da exclusão de P&D) e o andamento do PLP 6/2026.
