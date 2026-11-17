@@ -42,13 +42,13 @@ Quanto ao método, adota-se abordagem dedutiva, com pesquisa documental (atos no
 
 ### 2.1 A escala do problema
 
-Estima-se que, até 2015, a humanidade tenha produzido cerca de 8,3 bilhões de toneladas de plásticos virgens, dos quais apenas 9% foram reciclados, 12% incinerados e 79% acumulados em aterros ou no ambiente (GEYER; JAMBECK; LAW, 2017). Jambeck *et al.* (2015) estimaram que, em 2010, entre 4,8 e 12,7 milhões de toneladas de plástico entraram nos oceanos a partir de fontes terrestres, e o Brasil figurava entre os países com volumes relevantes de resíduos mal geridos. A OCDE projeta que, sem novas políticas, o uso e o resíduo plástico continuarão crescendo nas próximas décadas, com vazamentos persistentes para o ambiente (OECD, 2022).
+Estima-se que, até 2015, a humanidade tenha produzido cerca de 8,3 bilhões de toneladas de plásticos virgens e gerado cerca de 6,3 bilhões de toneladas de resíduos plásticos, dos quais apenas cerca de 9% foram reciclados, 12% incinerados e 79% acumulados em aterros ou no ambiente (GEYER; JAMBECK; LAW, 2017). Jambeck *et al.* (2015) estimaram que, em 2010, entre 4,8 e 12,7 milhões de toneladas de plástico entraram nos oceanos a partir de fontes terrestres, e o Brasil figurava entre os países com volumes relevantes de resíduos mal geridos. A OCDE projeta que, sem novas políticas, o uso e o resíduo plástico continuarão crescendo nas próximas décadas, com vazamentos persistentes para o ambiente (OECD, 2022).
 
 Dentro desse quadro, as tampas têm uma particularidade técnica. Nas garrafas de bebidas, o corpo costuma ser de poli(tereftalato de etileno) (PET), e a tampa, de polipropileno (PP) ou polietileno de alta densidade (PEAD). Os dois materiais se separam na reciclagem por diferença de densidade, na etapa de flotação após a moagem. Por isso a tampa não impede a reciclagem da garrafa e é, ela própria, matéria-prima valiosa, desde que chegue à recicladora (HOPEWELL; DVORAK; KOSIOR, 2009). O problema da tampa, portanto, não é a reciclabilidade, mas a **perda**: ela escapa da coleta.
 
 ### 2.2 Economia circular e responsabilidade estendida do produtor
 
-A economia circular propõe manter materiais e produtos em uso pelo maior tempo possível, com prioridade para redução, reutilização e reciclagem em detrimento da disposição final. Kirchherr, Reike e Hekkert (2017), ao analisarem 114 definições, mostram que o conceito só se mantém consistente quando articula as três camadas: o produto, a empresa e o sistema econômico. A Fundação Ellen MacArthur, no relatório *The New Plastics Economy*, insere o desenho das embalagens no centro da agenda: o que não se projeta para circular tende a vazar (ELLEN MACARTHUR FOUNDATION; WORLD ECONOMIC FORUM; MCKINSEY & COMPANY, 2016).
+A economia circular propõe manter materiais e produtos em uso pelo maior tempo possível, com prioridade para redução, reutilização e reciclagem em detrimento da disposição final. Kirchherr, Reike e Hekkert (2017), ao analisarem 114 definições, mostram que o conceito é frequentemente reduzido à soma de reduzir, reutilizar e reciclar, sem a mudança sistêmica que pressupõe, e propõem entendê-lo como sistema econômico que opera nos níveis micro (produtos, empresas, consumidores), meso (parques ecoindustriais) e macro (cidade, região, nação). A Fundação Ellen MacArthur, no relatório *The New Plastics Economy*, insere o desenho das embalagens no centro da agenda: o que não se projeta para circular tende a vazar (ELLEN MACARTHUR FOUNDATION; WORLD ECONOMIC FORUM; MCKINSEY & COMPANY, 2016).
 
 A responsabilidade estendida do produtor (REP) é o princípio que atribui ao fabricante deveres ambientais sobre o produto também na fase pós-consumo (LINDHQVIST, 2000). Ela se expressa por instrumentos administrativos (metas, retomada, padrões de produto), econômicos (taxas, depósitos) e informacionais. O requisito de tampa presa é um **padrão de produto** derivado da REP. Ele transfere ao produtor, que controla o desenho, um custo que de outro modo recairia sobre a coletividade, na forma de poluição e limpeza urbana. No direito brasileiro, isso concretiza o princípio do poluidor-pagador e o da responsabilidade compartilhada (BRASIL, 2010, arts. 6º, II, e 30), bem como o dever de prevenção que a doutrina extrai do art. 225 da Constituição (MACHADO, 2018; MILARÉ, 2018).
 
@@ -68,11 +68,11 @@ Uma medida regulatória ambiental não precisa aguardar certeza científica comp
 
 A Diretiva 2019/904, conhecida como Diretiva SUP (*single-use plastics*), combina proibições de mercado (art. 5º), requisitos de produto (art. 6º), marcação (art. 7º), REP (art. 8º), metas de coleta seletiva (art. 9º) e medidas de conscientização (art. 10) (UNIÃO EUROPEIA, 2019). O art. 6º, n. 1, determina que os Estados-membros garantam que os recipientes de bebidas enumerados na Parte C do Anexo, cujas tampas sejam de plástico, só sejam colocados no mercado se as tampas permanecerem presas ao recipiente durante a fase de utilização prevista. A Parte C abrange recipientes com capacidade de até três litros, incluindo embalagens compostas (as embalagens cartonadas, que têm componentes plásticos), e **exclui** os recipientes de vidro ou metal cujas tampas sejam de plástico e os destinados a alimentos para fins medicinais específicos em forma líquida. O art. 6º, n. 2, esclarece que tampas de metal com vedação plástica não são consideradas de plástico para esse fim.
 
-O art. 6º, n. 4, previu a elaboração de normas harmonizadas. A norma EN 17665:2022+A1:2023, cuja referência foi publicada pela Decisão de Execução (UE) 2023/1060, estabelece métodos de ensaio e requisitos para demonstrar que a tampa permanece presa (UNIÃO EUROPEIA, 2023). Quem fabrica de acordo com a norma tem presunção de conformidade. Esse arranjo é típico da chamada "nova abordagem" europeia: a lei fixa o requisito essencial, e a norma técnica, de adesão voluntária, oferece o caminho padronizado para demonstrar o cumprimento. Isso dá segurança jurídica ao produtor e objetividade à fiscalização.
+O art. 6º, n. 3, previu a elaboração de normas harmonizadas. A norma EN 17665:2022+A1:2023, cuja referência foi publicada pela Decisão de Execução (UE) 2023/1060, estabelece métodos de ensaio e requisitos para demonstrar que a tampa permanece presa (UNIÃO EUROPEIA, 2023). Quem fabrica de acordo com a norma tem presunção de conformidade (art. 6º, n. 4). Esse arranjo é típico da chamada "nova abordagem" europeia: a lei fixa o requisito essencial, e a norma técnica, de adesão voluntária, oferece o caminho padronizado para demonstrar o cumprimento. Isso dá segurança jurídica ao produtor e objetividade à fiscalização.
 
 O mesmo art. 6º, n. 5, fixa conteúdo reciclado mínimo: 25% nas garrafas de PET a partir de 2025 e 30% em todas as garrafas de plástico a partir de 2030. O art. 9º exige coleta seletiva de 77% das garrafas até 2025 e de 90% até 2029. A tampa presa, portanto, não está isolada. Ela é a peça de desenho de um sistema voltado a resultados.
 
-Em 2026, a Comissão revisou suas orientações interpretativas (Comunicação C/2026/4813), com exemplos de fechos incluídos e excluídos. Por exemplo, num recipiente com tampa plástica e selo de alumínio, o requisito incide sobre a tampa, mas não sobre o selo (PACKAGING EUROPE, 2026). Desde 12 de agosto de 2026, o Regulamento (UE) 2025/40 (PPWR) também passou a exigir que toda embalagem colocada no mercado da União seja reciclável, com critérios de *design for recycling* a detalhar por atos delegados (UNIÃO EUROPEIA, 2025).
+Em 2026, a Comissão revisou suas orientações interpretativas (Comunicação C/2026/4813), com exemplos de fechos incluídos e excluídos. Por exemplo, num recipiente com tampa plástica e selo de alumínio, o requisito incide sobre a tampa, mas não sobre o selo (PACKAGING EUROPE, 2026; UNIÃO EUROPEIA, 2026). Desde 12 de agosto de 2026, aplica-se o Regulamento (UE) 2025/40 (PPWR), cujo art. 6º exige que toda embalagem colocada no mercado da União seja reciclável; os critérios de *design for recycling*, a detalhar por atos delegados, só serão exigíveis a partir de 1º de janeiro de 2030 (ou 24 meses após a entrada em vigor desses atos, se posterior), e o requisito de reciclagem em grande escala, a partir de 2035 (UNIÃO EUROPEIA, 2025).
 
 ### 3.2 A transposição espanhola
 
@@ -96,9 +96,9 @@ A singularidade portuguesa é a cronologia. Em **10 de abril de 2026**, entrou e
 
 ### 3.4 Itália
 
-A Itália transpôs a Diretiva pelo Decreto Legislativo 196, de 8 de novembro de 2021. O decreto reproduz a obrigação dos *tappi solidali* a partir de 3 de julho de 2024 e prevê sanção administrativa pecuniária de 2.500 a 25.000 euros (CAMERA DI COMMERCIO DI TORINO, 2024; ITÁLIA, 2021). Segundo a literatura especializada, a transposição italiana ficou conhecida por buscar margens de flexibilidade em relação às proibições de mercado, por exemplo, para revestimentos plásticos de peso reduzido e para produtos de plástico biodegradável e compostável. Isso gerou debate sobre a conformidade com a Diretiva, que não exclui esses materiais do conceito de plástico.
+A Itália transpôs a Diretiva pelo Decreto Legislativo 196, de 8 de novembro de 2021. O decreto reproduz a obrigação dos *tappi solidali* a partir de 3 de julho de 2024 e prevê sanção administrativa pecuniária de 2.500 a 25.000 euros (art. 6, c. 1, e art. 14, c. 1; CAMERA DI COMMERCIO DI TORINO, 2024; ITÁLIA, 2021). Segundo a literatura especializada, a transposição italiana ficou conhecida por buscar margens de flexibilidade em relação às proibições de mercado, por exemplo, para revestimentos plásticos de peso reduzido e para produtos de plástico biodegradável e compostável. Isso gerou debate sobre a conformidade com a Diretiva, que não exclui esses materiais do conceito de plástico.
 
-No plano fiscal, a experiência italiana é um contraexemplo instrutivo. A *plastic tax* sobre os *manufatti con singolo impiego* (MACSI), instituída pela Lei de Orçamento de 2020 (Lei 160/2019) à alíquota de 0,45 euro por quilograma de plástico virgem, nunca entrou em vigor. Foi adiada sucessivamente, pela última vez para 1º de janeiro de 2027 (ARGUS MEDIA, 2025; RENEWABLE MATTER, 2025). O caso italiano mostra que o instrumento tributário ambiental é politicamente vulnerável quando não vem acompanhado de transição crível e de compensações setoriais. Por contraste, o requisito de desenho, que não tem custo fiscal, foi implementado na data prevista.
+No plano fiscal, a experiência italiana é um contraexemplo instrutivo. A *plastic tax* sobre os *manufatti con singolo impiego* (MACSI), instituída pela Lei de Orçamento de 2020 (Lei 160/2019) à alíquota de 0,45 euro por quilograma de plástico virgem, nunca entrou em vigor. Foi adiada sucessivamente, pela última vez para 1º de janeiro de 2027 (ARGUS MEDIA, 2025; RENEWABLE MATTER, 2025). Em novembro de 2026, discutia-se no projeto de lei orçamentária de 2027 novo adiamento, para 1º de julho de 2027. O caso italiano mostra que o instrumento tributário ambiental é politicamente vulnerável quando não vem acompanhado de transição crível e de compensações setoriais. Por contraste, o requisito de desenho, que não tem custo fiscal, foi implementado na data prevista.
 
 ### 3.5 Alemanha
 
@@ -114,7 +114,7 @@ A lição alemã é que o requisito de desenho e os instrumentos econômicos dev
 
 O Reino Unido oferece um contraste metodologicamente valioso. Após o Brexit, a Grã-Bretanha (Inglaterra, Escócia e País de Gales) não está obrigada pelo art. 6º da Diretiva. A **Irlanda do Norte**, porém, por força do Quadro de Windsor (*Windsor Framework*), continua sujeita a diversos dispositivos da Diretiva SUP, entre eles o requisito de tampas presas (DAERA, 2024; TUGHANS, 2024). Surge, assim, dentro de um mesmo Estado, uma diferença de regime entre territórios.
 
-A Grã-Bretanha optou por instrumentos econômicos. A *Plastic Packaging Tax*, instituída pela Lei de Finanças de 2021 e vigente desde 1º de abril de 2022, incide sobre componentes de embalagem plástica com **menos de 30% de conteúdo reciclado**, à alíquota de 228,82 libras por tonelada desde abril de 2026 (HMRC, 2026; REINO UNIDO, 2021). O sistema de depósito e devolução para garrafas PET e latas de 150 ml a 3 L foi regulamentado para a Inglaterra e a Irlanda do Norte, com início previsto para outubro de 2027. A Escócia deve seguir o mesmo calendário, e o País de Gales segue trajetória própria (BRODIES, 2025; PACKAGING GATEWAY, 2025).
+A Grã-Bretanha optou por instrumentos econômicos. A *Plastic Packaging Tax*, instituída pela Lei de Finanças de 2021 e vigente desde 1º de abril de 2022, incide sobre componentes de embalagem plástica com **menos de 30% de conteúdo reciclado**, à alíquota de 228,82 libras por tonelada desde abril de 2026 (HMRC, 2026; REINO UNIDO, 2021). O sistema de depósito e devolução para garrafas PET e latas de 150 ml a 3 L foi regulamentado para a Inglaterra e a Irlanda do Norte, com início previsto para outubro de 2027 (REINO UNIDO, 2025). A Escócia deve seguir o mesmo calendário, e o País de Gales segue trajetória própria (BRODIES, 2025; PACKAGING GATEWAY, 2025).
 
 Mesmo sem obrigação legal, a indústria de bebidas tem adotado tampas presas também no mercado britânico. A razão é econômica: manter linhas de envase e moldes distintos para a União Europeia, a Irlanda do Norte e a Grã-Bretanha é mais caro do que unificar o padrão (BPF, 2024). É uma manifestação do chamado **"efeito Bruxelas"**: a capacidade da regulação europeia de se tornar o padrão de fato de mercados globais, porque as empresas preferem um único padrão de produção (BRADFORD, 2020). A lição para o Brasil é direta e reforça a seção 7: as empresas brasileiras que exportam para a Europa já dominam a tecnologia, e a adesão voluntária pode ser induzida a custo baixo.
 
@@ -122,7 +122,7 @@ Mesmo sem obrigação legal, a indústria de bebidas tem adotado tampas presas t
 
 | Jurisdição | Tampa presa | Depósito e devolução | Instrumento fiscal sobre plástico | Lição principal |
 |---|---|---|---|---|
-| União Europeia | Obrigatória desde 3/7/2024 (Dir. 2019/904, art. 6º; EN 17665) | Meta de 90% de coleta até 2029; PPWR | Recurso próprio da UE de 0,80 €/kg sobre resíduos de embalagens plásticas não reciclados, pago pelos Estados-membros | Requisito essencial com norma harmonizada |
+| União Europeia | Obrigatória desde 3/7/2024 (Dir. 2019/904, art. 6º; EN 17665) | Meta de 90% de coleta até 2029; PPWR | Recurso próprio da UE de 0,80 €/kg sobre resíduos de embalagens plásticas não reciclados, pago pelos Estados-membros (Decisão (UE, Euratom) 2020/2053) | Requisito essencial com norma harmonizada |
 | Espanha | Ley 7/2022, art. 57 | SDDR com prazo em nov. 2026 | Imposto de 0,45 €/kg sobre plástico não reciclado (desde 2023) | Pacote completo: desenho, tributo e depósito |
 | Portugal | DL 78/2021, art. 9º | SDR "Volta" desde 10/4/2026 (0,10 €) | Não específico para garrafas | Implantação quase simultânea de desenho e depósito |
 | Itália | D.Lgs. 196/2021 (multa de 2.500 a 25.000 €) | Não implantado | *Plastic tax* de 0,45 €/kg adiada para 2027 | Fragilidade política do tributo; o requisito de desenho resistiu |
@@ -143,7 +143,7 @@ Primeiro, a medida é recente (julho de 2024), e a avaliação formal da Diretiv
 
 Segundo, há problemas de identificação causal. Comentários críticos apontam que, nos Países Baixos, a queda na contagem de tampas no lixo disperso coincidiu com a ampliação do sistema de depósito para garrafas pequenas, que reduziu fortemente o número de garrafas abandonadas. Isso torna difícil atribuir o resultado à tampa presa e não ao depósito (ADAM SMITH INSTITUTE, 2025). A crítica vem de um *think tank* com posição ideológica definida e deve ser lida com cautela, mas a objeção metodológica é pertinente.
 
-Terceiro, a aceitação pelo consumidor é um fator relevante. Estudo do Conselho de Consumidores do DIN, o instituto alemão de normalização, identificou dificuldades de abrir, fechar, servir e beber com tampas presas, especialmente para crianças, idosos e pessoas com limitações físicas. Os entrevistados perceberam pouco benefício ambiental (DIN VERBRAUCHERRAT, 2024). Pesquisa encomendada por fabricante de equipamentos indicou que apenas 26% dos respondentes acreditavam que a medida reduziria o lixo disperso (SIDEL, 2024). Gajdoš Kljusurić e Čačić (2026), em estudo com consumidores croatas antes e depois da implementação (levantamentos de 2024 e 2025), relatam atitudes predominantemente negativas quanto ao manuseio, embora a concordância com a justificativa ambiental tenha aumentado de forma significativa após a implementação. Os autores levantam ainda hipóteses sobre aumento da massa de plástico por unidade e efeitos sobre a reciclagem, que merecem investigação.
+Terceiro, a aceitação pelo consumidor é um fator relevante. Estudo do Conselho de Consumidores do DIN, o instituto alemão de normalização, identificou dificuldades de abrir, fechar, servir e beber com tampas presas, especialmente para crianças, idosos e pessoas com limitações físicas. Os entrevistados perceberam pouco benefício ambiental (DIN VERBRAUCHERRAT, 2024). Pesquisa encomendada por fabricante de equipamentos, realizada em 2020, antes da obrigatoriedade, com mais de 3.200 europeus, indicou que apenas 26% dos respondentes acreditavam que a medida reduziria o lixo disperso (SIDEL, 2021). Gajdoš Kljusurić e Čačić (2026), em estudo com consumidores croatas antes e depois da implementação (levantamentos de 2024 e 2025), relatam atitudes predominantemente negativas quanto ao manuseio, embora a concordância com a justificativa ambiental tenha aumentado de forma significativa após a implementação. Os autores levantam ainda hipóteses sobre aumento da massa de plástico por unidade e efeitos sobre a reciclagem, que merecem investigação.
 
 Esses achados não invalidam a medida, mas qualificam seu desenho regulatório. Deles decorrem quatro implicações:
 
@@ -336,7 +336,9 @@ Como agenda de pesquisa, sugerem-se: (i) estudos empíricos brasileiros, com lin
 
 ALEMANHA. **Einwegkunststoffkennzeichnungsverordnung (EWKKennzV)**. Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten. Berlin: Bundesregierung, 2021.
 
-ALEMANHA. **Einwegkunststofffondsgesetz (EWKFondsG)**. Gesetz zur Umsetzung von Artikel 8 Absatz 1 bis 7 der Richtlinie (EU) 2019/904. Berlin: Bundestag, 2023.
+ALEMANHA. **Einwegkunststofffondsgesetz (EWKFondsG)**. Gesetz über den Einwegkunststofffonds, de 11 de maio de 2023. Bundesgesetzblatt 2023 I Nr. 124.
+
+ALEMANHA. **Einwegkunststofffondsverordnung (EWKFondsV)**, de 11 de outubro de 2023. Bundesgesetzblatt 2023 I Nr. 274.
 
 ABIPET – ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DO PET. **13º Censo da Reciclagem do PET no Brasil**. São Paulo: ABIPET, 2025. Divulgação disponível em: https://petpla.net/2025/05/14/brazil-recycled-410000-t-of-pet-packaging-in-2024/. Acesso em: 1 nov. 2026.
 
@@ -344,7 +346,7 @@ ABGI BRASIL. Redução dos incentivos fiscais: o que muda com a LC 224/2025. **A
 
 ADAM SMITH INSTITUTE. What do fixed bottle tops achieve? **Adam Smith Institute Blog**, London, 2025. Disponível em: https://www.adamsmith.org/blog/what-do-fixed-bottle-tops-achieve. Acesso em: 1 nov. 2026.
 
-APA – AGÊNCIA PORTUGUESA DO AMBIENTE. **Plásticos de utilização única**: Diretiva (UE) 2019/904. Amadora: APA, 2024. Disponível em: https://apambiente.pt/sites/default/files/_Residuos/FluxosEspecificosResiduos/ERE/DSUP_07-06-2024.pdf. Acesso em: 1 nov. 2026.
+APA – AGÊNCIA PORTUGUESA DO AMBIENTE. **Plásticos de utilização única**: Diretiva (UE) 2019/904. Amadora: APA, 2024. Disponível em: https://apambiente.pt/sites/default/files/_Residuos/FluxosEspecificosResiduos/ERE/DSUP07062024.pdf. Acesso em: 1 nov. 2026.
 
 ARGUS MEDIA. Italy delays plastic tax to 2027. **Argus Media**, London, out. 2025. Disponível em: https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2742946-italy-delays-plastic-tax-to-2027. Acesso em: 1 nov. 2026.
 
@@ -412,11 +414,11 @@ CONJUR. STF invalida lei que obrigava distribuição de sacolas plásticas na Pa
 
 CONSUMER. ¿Por qué los tapones de plástico van ahora unidos a las botellas y los briks? **Consumer.es**, Bilbao, 2024. Disponível em: https://www.consumer.es/?p=457722. Acesso em: 1 nov. 2026.
 
-DAERA – DEPARTMENT OF AGRICULTURE, ENVIRONMENT AND RURAL AFFAIRS. **Single use plastics**. Belfast: DAERA, 2024. Disponível em: https://www.daera-ni.gov.uk/articles/single-use-plastics. Acesso em: 1 nov. 2026.
+DAERA – DEPARTMENT OF AGRICULTURE, ENVIRONMENT AND RURAL AFFAIRS. **Single use plastics**. Belfast: DAERA, 2024. Disponível em: https://www.daera-ni.gov.uk/articles/single-use-plastic-directive. Acesso em: 1 nov. 2026.
 
 DGAE – DIREÇÃO-GERAL DAS ATIVIDADES ECONÓMICAS. **Sistema de Depósito e Reembolso**. Lisboa: DGAE, 2026. Disponível em: https://dgeconomia.gov.pt/comunicacao/noticias/sistema-de-deposito-e-reembolso.aspx. Acesso em: 1 nov. 2026.
 
-DIN VERBRAUCHERRAT. **Study on usability and consumer acceptance of tethered caps for beverage containers**. Berlin: DIN, 2024. Disponível em: https://www.din.de/resource/blob/1191000/6b1471ddb924881a22fbda3b389d68fd/study-on-usability-and-consumer-acceptance-of-tethered-caps-for-beverage-containers--data.pdf. Acesso em: 1 nov. 2026.
+DIN VERBRAUCHERRAT. **Study of the DIN Consumer Council on the usability and consumer acceptance of tethered caps for beverage containers**. Berlin: DIN, 14 nov. 2024. Disponível em: https://din.de/resource/blob/1192226/6b1471ddb924881a22fbda3b389d68fd/study-of-the-din-consumer-council-on-the-usability-and-consumer-acceptance-of-tethered-caps-for-beverage-containers-data.pdf. Acesso em: 1 nov. 2026.
 
 EBNER STOLZ. Einwegkunststofffonds oder „Plastiksteuer“: Sonderabgabe ab 01.01.2025 fällig. **Ebner Stolz**, 2025. Disponível em: https://www.ebnerstolz.de/de/themen/esg/einwegkunststofffonds-plastiksteuer-74447.html. Acesso em: 1 nov. 2026.
 
@@ -428,7 +430,7 @@ ESTADOS UNIDOS. Supreme Court. **New State Ice Co. v. Liebmann**, 285 U.S. 262, 
 
 ESPANHA. **Ley 7/2022, de 8 de abril**, de residuos y suelos contaminados para una economía circular. Boletín Oficial del Estado, Madrid, n. 85, 9 abr. 2022a.
 
-ESPANHA. **Real Decreto 1055/2022, de 27 de diciembre**, de envases y residuos de envases. Boletín Oficial del Estado, Madrid, 28 dez. 2022b.
+ESPANHA. **Real Decreto 1055/2022, de 27 de diciembre**, de envases y residuos de envases. Boletín Oficial del Estado, Madrid, n. 311, 28 dez. 2022b.
 
 EY. El nuevo impuesto especial sobre envases de plástico no reutilizables. **EY España**, Madrid, 2022. Disponível em: https://www.ey.com/es_es/the-cfo-agenda/el-nuevo-impuesto-especial-sobre-envases-de-plastico-no-reutilizables. Acesso em: 1 nov. 2026.
 
@@ -488,13 +490,15 @@ RÁDIO SENADO. Está pronto para votação o projeto que regulamenta a economia 
 
 REINO UNIDO. **Finance Act 2021**. Part 2: Plastic Packaging Tax. London: The Stationery Office, 2021.
 
+REINO UNIDO. **The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025**. SI 2025/67. London: The Stationery Office, 2025.
+
 RENEWABLE MATTER. Plastic tax, nuovo rinvio al 2027. **Renewable Matter**, Milano, 2025. Disponível em: https://www.renewablematter.eu/plastic-tax-nuovo-rinvio-al-2027. Acesso em: 1 nov. 2026.
 
 RETHINK PLASTIC ALLIANCE. **Evaluation report on the implementation of the Single-Use Plastics Directive**. Brussels: Rethink Plastic Alliance, dez. 2024. Disponível em: https://rethinkplasticalliance.eu/wp-content/uploads/2024/12/Evaluation-report-SUP-final-text.pdf. Acesso em: 1 nov. 2026.
 
 SARLET, Ingo Wolfgang; FENSTERSEIFER, Tiago. **Curso de direito ambiental**. Rio de Janeiro: Forense, 2020.
 
-SIDEL. Survey on tethered caps: consumers prioritise product safety and user-friendliness. **Sidel**, 2024. Disponível em: https://www.sidel.com/en/about/media/press-releases/tethered-caps/. Acesso em: 1 nov. 2026.
+SIDEL. Survey on tethered caps: consumers prioritise product safety and user-friendliness. **Sidel**, 9 jun. 2021. Disponível em: https://www.sidel.com/about/media/press-releases/tethered-caps/. Acesso em: 1 nov. 2026.
 
 THALER, Richard H.; SUNSTEIN, Cass R. **Nudge**: improving decisions about health, wealth, and happiness. New Haven: Yale University Press, 2008.
 
@@ -504,8 +508,12 @@ TUGHANS. Why is my bottle cap tethered? **Tughans Solicitors**, Belfast, 2024. D
 
 UNIÃO EUROPEIA. **Diretiva (UE) 2019/904 do Parlamento Europeu e do Conselho, de 5 de junho de 2019**, relativa à redução do impacto de determinados produtos de plástico no ambiente. Jornal Oficial da União Europeia, L 155, p. 1-19, 12 jun. 2019.
 
-UNIÃO EUROPEIA. **Decisão de Execução (UE) 2023/1060 da Comissão**, relativa a uma norma harmonizada para métodos de ensaio e requisitos para demonstrar que as tampas de plástico permanecem presas aos recipientes de bebidas. Jornal Oficial da União Europeia, L 142, p. 34-35, 2023.
+UNIÃO EUROPEIA. **Decisão (UE, Euratom) 2020/2053 do Conselho, de 14 de dezembro de 2020**, relativa ao sistema de recursos próprios da União Europeia. Jornal Oficial da União Europeia, L 424, 15 dez. 2020.
 
-UNIÃO EUROPEIA. **Regulamento (UE) 2025/40 do Parlamento Europeu e do Conselho, de 19 de dezembro de 2024**, relativo às embalagens e aos resíduos de embalagens. Jornal Oficial da União Europeia, série L, 22 jan. 2025.
+UNIÃO EUROPEIA. **Decisão de Execução (UE) 2023/1060 da Comissão, de 30 de maio de 2023**, relativa a uma norma harmonizada para os métodos de ensaio e requisitos para demonstrar que as cápsulas e tampas de plástico permanecem presas aos recipientes de bebidas, elaborada em apoio da Diretiva (UE) 2019/904. Jornal Oficial da União Europeia, L 142, p. 34-35, 1 jun. 2023.
+
+UNIÃO EUROPEIA. **Regulamento (UE) 2025/40 do Parlamento Europeu e do Conselho, de 19 de dezembro de 2024**, relativo a embalagens e resíduos de embalagens, que altera o Regulamento (UE) 2019/1020 e a Diretiva (UE) 2019/904 e que revoga a Diretiva 94/62/CE. Jornal Oficial da União Europeia, série L, 22 jan. 2025.
 
 ZWEIGERT, Konrad; KÖTZ, Hein. **An introduction to comparative law**. Tradução de Tony Weir. 3. ed. Oxford: Clarendon Press, 1998.
+
+UNIÃO EUROPEIA. Comissão Europeia. **Comunicação C/2026/4813**: orientações sobre produtos de plástico de utilização única nos termos da Diretiva (UE) 2019/904 (versão revista). Jornal Oficial da União Europeia, série C, 8 set. 2026.
