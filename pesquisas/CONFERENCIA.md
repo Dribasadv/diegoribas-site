@@ -54,3 +54,8 @@ Os portais oficiais (BOE, EUR-Lex, Planalto, Senado, Câmara, STF, ALEP, MDPI) e
 - [ ] COMPARATO 1986: confirmar volume (v. 25?) e período (jul./set.).
 - [ ] Nota CAPES do PPGD na Plataforma Sucupira (indício de conceito 4).
 - [ ] RUNA (bloqueado por Cloudflare): localizar dissertações do PPGD sobre função social, ESG e resíduos (comunidade ANIMA/1964), em especial a de Nico de Souza Macei, e o artigo de Bussmeyer et al. (2024) sobre microplásticos.
+
+## Repositórios e dissertações do PPGD (17/11/2026, v3)
+- [ ] Dissertações do PPGD citadas (ZAMBON 2018; PILOTTO 2014; CABRERA 2010; MARQUES 2020; KOLADICZ 2009; OLIVEIRA 2011; TONETTI 2013; SILVA 2021): obtidas no Catálogo CAPES (título, ano, páginas). Conferir resumo e orientador na Sucupira ou no RUNA e confirmar que o uso no texto corresponde ao conteúdo.
+- [ ] CASTILHO 2024 (USP): conferir programa em teses.usp.br.
+- [ ] Contagens de citação do OpenAlex (cota esgotada em 17/11): rodar novamente.
