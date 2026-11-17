@@ -1,258 +1,237 @@
-# Tampas que não se soltam: o regime espanhol e europeu e uma proposta de inovação para o Brasil
+# Tampas que não se soltam: regime europeu, direito comparado e proposta de inovação para o Brasil
 
-**Levantamento normativo e projeto de inovação ambiental**
-Diego Antonio Ribas Advocacia · versão de trabalho de 1º/11/2026
+**Dossiê de levantamento normativo e projeto de inovação ambiental**
+Diego Antonio Ribas Advocacia · **versão 2, de 17/11/2026** (substitui a versão de 1º/11/2026)
 
-> **Nota de método.** Os portais oficiais (BOE, EUR-Lex, Senado, Câmara) não puderam ser abertos diretamente no ambiente em que esta pesquisa foi feita. Os dados vêm de buscas em fontes secundárias qualificadas (imprensa institucional do Senado, Comissão Europeia citada por publicações do setor, escritórios e associações) e estão listados ao final. Os pontos marcados com **[conferir]** devem ser confirmados no texto oficial antes de qualquer uso em peça, parecer ou proposição legislativa.
+> **Nota de método.** Esta versão incorpora: (i) conferência das citações nas fontes oficiais acessíveis (BOE, EUR-Lex, gesetze-im-internet.de, legislation.gov.uk, Gazzetta Ufficiale, Senado e Câmara); (ii) parecer metodológico e revisão de língua do artigo; (iii) direito comparado ampliado (Portugal, Itália, Alemanha e Reino Unido); (iv) literatura de repositórios de excelência; (v) alinhamento ao PPGD em Direito Empresarial e Cidadania da UNICURITIBA. Planalto, STF, Sucupira, RUNA e o portal da Revista Jurídica Unicuritiba recusaram o acesso automatizado; os itens que dependem deles estão marcados **[conferir]** e listados no documento de conferência.
 
 ---
 
 ## 1. Síntese
 
-1. O que se observa na Espanha decorre de uma **regra da União Europeia**: o art. 6º da **Diretiva (UE) 2019/904** (plásticos de uso único). Desde **3 de julho de 2024**, recipientes de bebida de plástico de uso único com até **3 litros** só podem ser vendidos se a tampa plástica **permanecer presa ao recipiente durante o uso previsto**. Na Espanha, a diretiva foi transposta pela **Lei 7/2022, de 8 de abril** (resíduos e solos contaminados para uma economia circular).
-2. **Uma correção à premissa:** a regra **não se aplica a garrafas de vidro nem a latas**. A diretiva exclui expressamente os recipientes de vidro ou metal, mesmo com tampa plástica. A obrigação atinge garrafas PET e de outros plásticos e as embalagens cartonadas (tipo "brik"), que contêm plástico e por isso entram no conceito de recipiente de plástico.
-3. A tampa presa não é uma medida isolada. Ela integra um conjunto: metas de **coleta seletiva de garrafas** (77% em 2025, 90% em 2029), **conteúdo reciclado obrigatório** (25% nas garrafas PET em 2025, 30% em todas as garrafas plásticas em 2030), um **imposto sobre o plástico não reciclado** (0,45 €/kg na Espanha desde 2023), o **sistema de depósito e devolução** (SDDR), com prazo espanhol em novembro de 2026, e, desde **12/8/2026**, o **Regulamento (UE) 2025/40** de embalagens (PPWR).
-4. **No Brasil não há obrigação federal de tampa presa.** O tema está em proposições: o **PL 3.615/2024** no Senado (tampas presas em garrafas PET), parado na CCJ, e projetos estaduais (RJ, PE, SE, SP). O marco geral existe: a **PNRS (Lei 12.305/2010)** e o recente **Decreto 12.688/2025**, sobre logística reversa de embalagens plásticas, com metas de recuperação e de conteúdo reciclado. Mas nenhum deles trata do desenho do fecho.
-5. **Proposta (seção 6):** uma lei federal que inclua na PNRS um dispositivo sobre tampas presas, apoiada em norma técnica ABNT equivalente à EN 17665 e integrada às metas do Decreto 12.688/2025. A proposta vem acompanhada de um projeto-piloto de inovação, de avaliação de impacto regulatório e de medidas de apoio aos catadores.
+1. O que se observa na Espanha decorre do **art. 6º da Diretiva (UE) 2019/904**. Desde **3/7/2024**, recipientes de bebida de plástico de uso único de até **3 litros** só podem ser colocados no mercado se a tampa plástica **permanecer presa** durante o uso previsto. Na Espanha, a regra está no **art. 57 da Ley 7/2022** (conferido no BOE).
+2. **Correção à premissa:** a regra **não se aplica a vidro nem a metal**, ainda que a tampa seja de plástico. Alcança garrafas plásticas e embalagens cartonadas.
+3. A tampa presa integra um **pacote**: metas de coleta (77% em 2025; 90% em 2029), conteúdo reciclado mínimo (25% nas garrafas PET em 2025; 30% em todas as garrafas em 2030), tributação do plástico não reciclado (Espanha, 0,45 €/kg, art. 78 da Ley 7/2022), sistemas de depósito e devolução e, desde 12/8/2026, o Regulamento (UE) 2025/40 (PPWR).
+4. **Evidência:** a literatura recente indica que medidas isoladas reduzem pouco o lixo disperso e que o efeito relevante vem do pacote (KIESSLING *et al.*, 2023). O efeito autônomo da tampa presa ainda não foi medido de forma independente.
+5. **No Brasil não há obrigação de tampa presa.** O tema está no PL 3.615/2024 (Senado, aguardando relator na CCJ) e em projetos estaduais. A PNRS e o Decreto 12.688/2025 tratam de resultados (recuperação e conteúdo reciclado), não do desenho do fecho.
+6. **Competência:** a lei estadual é viável como **competência suplementar** (CF, art. 24, § 2º), desde que concretize a PNRS e o Decreto 12.688/2025, seja proporcional e não obrigue a cadeia nacional a se reorganizar (ADI 3.645 × ADI 4.619). A norma geral federal continua sendo preferível.
+7. **Produtos do projeto:** artigo acadêmico (v3), minuta de PL estadual para o Paraná (v2), minuta de PL federal (seção 7 deste dossiê) e skill reutilizável de referencial teórico.
 
 ---
 
 ## 2. União Europeia: a matriz normativa
 
-### 2.1 Diretiva (UE) 2019/904, art. 6º (requisitos de produto)
+### 2.1 Diretiva (UE) 2019/904, art. 6º
 
 | Item | Conteúdo |
 |---|---|
-| Obrigação | Recipientes de bebida de plástico de uso único (Anexo, Parte C) com tampa plástica só podem ser colocados no mercado se a tampa permanecer presa ao recipiente durante a fase de uso previsto (art. 6º, 1). |
-| Data | 3 de julho de 2024. |
-| Alcance | Recipientes de bebida de **até 3 litros**, incluindo tampas e fechos, e **incluindo embalagens compostas** (cartonadas). |
-| Exclusões (Parte C) | (a) **recipientes de vidro ou de metal** cujas tampas sejam de plástico; (b) recipientes destinados a alimentos para fins medicinais específicos, em forma líquida. |
-| Esclarecimento | Tampas de metal ou selos de alumínio não são "partes de plástico" para esse efeito (art. 6º, 2). Segundo as orientações revistas da Comissão (**Comunicação C/2026/4813**, Tabela 7, seção 4.4.2), num recipiente com tampa plástica e selo de alumínio, a obrigação recai só sobre a tampa plástica **[conferir]**. |
-| Norma técnica | **EN 17665:2022+A1:2023**, norma harmonizada cuja referência foi publicada pela **Decisão de Execução (UE) 2023/1060**. Ela traz métodos de ensaio e requisitos para demonstrar que a tampa permanece presa (resistência da ligação, confiabilidade, segurança). Seguir a norma gera presunção de conformidade. |
-| Conteúdo reciclado (art. 6º, 5) | Garrafas de PET: **≥ 25% de plástico reciclado a partir de 2025**. Todas as garrafas de plástico: **≥ 30% a partir de 2030**. |
-| Coleta (art. 9º) | Coleta seletiva de garrafas plásticas: **77% até 2025** e **90% até 2029**, em peso. |
-
-**Lógica regulatória.** As tampas soltas estão entre os itens mais encontrados nas praias europeias, segundo os levantamentos que embasaram a diretiva. Uma tampa presa à garrafa segue o mesmo caminho dela: o mesmo coletor, a mesma esteira e o mesmo fardo. Assim a tampa chega à reciclagem (em geral é de PP/PEAD, separada do PET por flotação na lavagem) em vez de se perder no ambiente. A medida é barata para o Estado, pois ataca o problema no desenho do produto e não na fiscalização do descarte.
+| Obrigação | Recipientes da Parte C do Anexo com tampa plástica só podem ser colocados no mercado se a tampa permanecer presa durante o uso previsto (art. 6º, n. 1). |
+| Data | 3/7/2024. |
+| Alcance | Recipientes de até 3 litros, inclusive embalagens compostas (cartonadas). |
+| Exclusões | Vidro ou metal com tampa plástica; alimentos para fins medicinais específicos em forma líquida. Tampas de metal com vedação plástica não são de plástico (n. 2). |
+| Normas harmonizadas | Previstas no **n. 3**; presunção de conformidade no **n. 4**. EN 17665:2022+A1:2023, referência publicada pela Decisão de Execução (UE) 2023/1060, de 30/5/2023 (JO L 142, 1/6/2023). |
+| Orientações | Comunicação C/2026/4813 (JO C, 8/9/2026): tampa plástica com selo de alumínio é "parcialmente incluída" (a obrigação recai sobre a tampa). |
+| Conteúdo reciclado | 25% nas garrafas PET a partir de 2025; 30% em todas as garrafas a partir de 2030 (n. 5). |
+| Coleta | 77% até 2025 e 90% até 2029, em peso (art. 9º). |
 
 ### 2.2 Regulamento (UE) 2025/40 (PPWR)
+- De 19/12/2024, publicado em 22/1/2025, **aplicável desde 12/8/2026**.
+- **Correção:** o requisito de reciclabilidade do art. 6º só será exigível a partir de **1º/1/2030** (ou 24 meses após os atos delegados, se posterior), e o de reciclagem em grande escala, a partir de 2035.
+- A regra das tampas presas permanece na Diretiva 2019/904.
 
-- Publicado em 22/1/2025, em vigor desde 12/2/2025 e **aplicável desde 12/8/2026**, sem período geral de carência.
-- Por ser regulamento, tem aplicação direta e uniforme nos Estados-membros. Ele exige que **toda embalagem seja reciclável** (com critérios de *design for recycling* a detalhar em atos delegados), fixa limites de metais pesados (100 mg/kg) e prevê metas próprias de conteúdo reciclado e de depósito e devolução.
-- A regra das tampas presas **continua na Diretiva 2019/904**. O PPWR reforça o ambiente em que ela opera, porque o fecho também precisa ser compatível com a reciclagem da embalagem. Mais de vinte atos delegados e de execução estão previstos entre 2026 e 2030 **[conferir os atos específicos sobre fechos]**.
-
----
-
-## 3. Espanha: a transposição e o conjunto de medidas
-
-### 3.1 Lei 7/2022, de 8 de abril (resíduos e solos contaminados para uma economia circular)
-
-- **Título V** (redução do impacto de certos produtos de plástico): transpõe a Diretiva 2019/904. A exigência de tampas presas está no **art. 57** ("Requisitos de diseño para recipientes de plástico para bebidas"), que restringe a comercialização de produtos de plástico de uso único com tampas plásticas aos casos em que elas permaneçam unidas ao recipiente durante o uso previsto. A regra é obrigatória desde **3/7/2024** e vale para recipientes de até 3 litros (confirmado por várias fontes; texto consolidado: BOE-A-2022-5809).
-- **Título VII, Capítulo I (arts. 67 a 83): Imposto especial sobre embalagens de plástico não reutilizáveis.**
-  - Fato gerador: fabricação, importação e aquisição intracomunitária de embalagens não reutilizáveis que contenham plástico.
-  - Base de cálculo: **kg de plástico não reciclado** contido na embalagem.
-  - Alíquota: **0,45 €/kg**.
-  - Vigência: desde **1º/1/2023**. Navarra tem regime foral próprio com a mesma alíquota (Lei Foral 14/2023).
-  - Efeito prático: cada ponto percentual de plástico reciclado reduz o tributo, o que cria incentivo econômico direto ao conteúdo reciclado.
-
-### 3.2 Real Decreto 1055/2022 (embalagens e resíduos de embalagens)
-
-- Regula a responsabilidade ampliada do produtor (RAP/EPR) para embalagens.
-- **Gatilho do SDDR:** se as metas intermediárias de coleta de garrafas não fossem atingidas, o país teria de implantar o **Sistema de Depósito, Devolução e Retorno**. O relatório oficial de 2023, divulgado em **22/11/2024**, confirmou o descumprimento. Isso abriu prazo de dois anos, até **22/11/2026**, para a implantação.
-- Desenho previsto: depósito mínimo de **0,10 €** por recipiente de bebida de até 3 litros (garrafas plásticas e latas). A Espanha optou por incluir também as embalagens cartonadas.
-- Situação em nov/2026: o setor e especialistas apontam risco de atraso, por demora na autorização das entidades gestoras **[acompanhar]**.
-
-### 3.3 O que o consumidor vê
-
-- Garrafas PET de água, refrigerante e suco, e embalagens cartonadas de leite e suco, com **tampa articulada presa por uma cinta** ao gargalo. O lacre de inviolabilidade se rompe, mas a tampa continua ligada.
-- Garrafas de vidro (vinho, cerveja, alguns sucos e águas) **continuam com tampas destacáveis** (rolha, tampa metálica, rosca de alumínio), porque estão fora do alcance da regra.
-- Na lixeira amarela (*contenedor amarillo*), garrafa e tampa são descartadas juntas.
+### 2.3 Instrumentos de monitoramento
+- A UE trata "tampas, tampos e anéis de plástico" como categoria própria nas linhas de base do lixo de praia (HANKE *et al.*, 2019).
+- As tendências 2015-2021 mostram queda de 40% dos itens de uso único, mas são anteriores à obrigação de 2024 e servem de linha de base (MSFD TECHNICAL GROUP ON MARINE LITTER, 2024).
 
 ---
 
-## 4. Brasil: o estado da arte
+## 3. Direito comparado
 
-### 4.1 Marco constitucional
+### 3.1 Espanha
+- **Ley 7/2022**, art. 57 (tampas presas desde 3/7/2024); arts. 67 a 83 (imposto sobre embalagens de plástico não reutilizáveis; alíquota de 0,45 €/kg no art. 78, sobre o plástico não reciclado, desde 1/1/2023). BOE n. 85, de 9/4/2022.
+- **Real Decreto 1055/2022** (BOE n. 311, de 28/12/2022): REP de embalagens; art. 47 prevê o SDDR obrigatório se as metas de coleta não forem atingidas, com depósito mínimo de 0,10 €. A Espanha registrou 41,3% contra a meta de 70% em 2023; o prazo de implantação vence em novembro de 2026 **[conferir datas]**.
 
-- **Art. 225, CF**: dever do Poder Público e da coletividade de defender e preservar o meio ambiente. O §1º, V, prevê o controle da produção e comercialização de técnicas, métodos e substâncias que comportem risco ao meio ambiente.
-- **Art. 170, VI, CF**: a defesa do meio ambiente é princípio da ordem econômica, inclusive mediante tratamento diferenciado conforme o impacto ambiental de produtos e serviços.
-- **Art. 24, V, VI e VIII, CF**: competência **concorrente** da União, dos Estados e do DF sobre produção e consumo, proteção do meio ambiente e responsabilidade por dano ao consumidor e ao meio ambiente. A União edita normas gerais e os Estados suplementam (§§ 1º a 4º). Os Municípios atuam no interesse local (art. 30, I e II).
+### 3.2 Portugal
+- **DL 78/2021**, art. 9º, e DL 83/2022 (tampas presas desde 3/7/2024).
+- **SDR "Volta"** desde 10/4/2026 (0,10 € por embalagem; meta de 90% em 2029). Desenho e depósito entraram quase juntos, o que dificulta isolar o efeito de cada um.
 
-### 4.2 Legislação federal vigente
+### 3.3 Itália
+- **D.Lgs. 196/2021**, art. 6, c. 1 (tampas presas) e art. 14, c. 1 (multa de 2.500 a 25.000 €).
+- *Plastic tax* de 0,45 €/kg (Lei 160/2019) adiada sucessivamente; prevista para 1/1/2027, com discussão de novo adiamento para 1/7/2027. O requisito de desenho entrou na data; o tributo, não.
 
-| Norma | Relevância para o tema |
+### 3.4 Alemanha
+- **EWKKennzV, § 3** (conferido): recipientes de até 3,0 L com tampa plástica, desde 3/7/2024.
+- *Einwegpfand* desde 2003: elevou retorno e reciclagem, mas enfraqueceu as retornáveis (RHEIN; STRÄTER, 2021).
+- *Einwegkunststofffonds* (EWKFondsG, 11/5/2023; EWKFondsV, BGBl. 2023 I Nr. 274): 0,181 €/kg para recipientes de bebidas **não** sujeitos a depósito. Lição: calibrar instrumentos para não onerar duas vezes o mesmo comportamento.
+
+### 3.5 Reino Unido
+- Grã-Bretanha: sem obrigação legal; a indústria adota a tampa presa por economia de escala ("efeito Bruxelas", BRADFORD, 2020).
+- Irlanda do Norte: obrigação pelo Quadro de Windsor.
+- *Plastic Packaging Tax* (Finance Act 2021, Part 2): £ 228,82/t desde 1/4/2026 para embalagens com menos de 30% de reciclado.
+- DRS da Inglaterra e da Irlanda do Norte: SI 2025/67, em vigor em 1/10/2027 (PET, aço e alumínio, 150 ml a 3 L).
+- Literatura brasileira que compara, pelo mesmo método, certificados de logística reversa com as *Packaging Recovery Notes* britânicas: CASTILHO (2024, USP).
+
+### 3.6 Quadro-síntese
+
+| Jurisdição | Tampa presa | Depósito | Instrumento fiscal | Lição |
+|---|---|---|---|---|
+| UE | Obrigatória desde 3/7/2024 | Meta de 90% em 2029 | Recurso próprio de 0,80 €/kg (Dec. 2020/2053) | Requisito essencial + norma harmonizada |
+| Espanha | Ley 7/2022, art. 57 | SDDR, prazo nov. 2026 | 0,45 €/kg (art. 78) | Pacote completo |
+| Portugal | DL 78/2021, art. 9º | Volta desde 10/4/2026 | — | Desenho e depósito simultâneos |
+| Itália | D.Lgs. 196/2021 | Não implantado | *Plastic tax* adiada | Fragilidade política do tributo |
+| Alemanha | EWKKennzV, § 3 | Desde 2003 | Fundo desde 2024 | Evitar dupla oneração |
+| Reino Unido (GB) | Voluntária | DRS out. 2027 | PPT £ 228,82/t | Efeito Bruxelas |
+| Brasil | Inexistente | Inexistente | Inexistente | Ver seções 4 a 7 |
+
+---
+
+## 4. Evidência empírica e críticas
+
+- **Pacote x medida isolada:** com cerca de 5 mil amostragens, proibições isoladas reduziriam 2% a 6% do lixo; a implementação completa poderia superar 40% (KIESSLING *et al.*, 2023).
+- **Depósito:** na Letônia, queda de 43% (2022) e 56% (2023) das embalagens com depósito no lixo costeiro (BRIZGA; ULME; LARSSON, 2024). Nos EUA e na Austrália, cerca de 40% menos recipientes onde há depósito, mas **mais tampas**, porque o depósito alcança a garrafa e não o fecho (SCHUYLER *et al.*, 2018). Logo, desenho e depósito são complementares.
+- **REP por preço gera pouco ecodesign** (França): redução pequena e nenhuma substituição sistemática de materiais (JOLTREAU, 2022). Justifica o requisito de desenho mandatório.
+- **Aceitação do consumidor:** DIN Verbraucherrat (2024): dificuldades de uso; estudo croata (GAJDOŠ KLJUSURIĆ; ČAČIĆ, 2026): rejeição ao manuseio, mas maior concordância com a justificativa ambiental; Sidel (2021, fonte interessada): 26% acreditavam na redução do lixo.
+- **Custo e massa adicional:** estudo da PwC encomendado pela indústria europeia (2018) estimou 50 a 200 mil t adicionais de plástico (fonte interessada, anterior à otimização dos desenhos).
+- **Conclusão:** adotar a tampa presa como **parte de um pacote**, com requisitos de usabilidade, controle de massa, compatibilidade com reciclagem e **monitoramento com linha de base**.
+
+---
+
+## 5. Brasil
+
+### 5.1 Base constitucional
+- Arts. 225, § 1º, V, e 170, VI (meio ambiente como princípio da ordem econômica, com tratamento diferenciado por impacto ambiental).
+- Art. 24, V, VI e VIII (competência concorrente). Fundamento seguro da lei estadual: **§ 2º (suplementar)**. O § 3º (competência plena) é frágil porque a PNRS e o Decreto 12.688/2025 já regulam embalagens plásticas.
+- Função social da empresa: a tampa presa como dever de conformação do produto (COMPARATO, 1986; GRAU, 2023), distinto da responsabilidade social voluntária (SANTIAGO; MEDEIROS, 2017).
+
+### 5.2 Legislação federal
+
+| Norma | Relevância |
 |---|---|
-| **Lei 12.305/2010 (PNRS)** | Responsabilidade compartilhada pelo ciclo de vida do produto (arts. 30 a 36). O **art. 32** exige que as embalagens sejam fabricadas com materiais que propiciem a reutilização ou a reciclagem. O **art. 33** trata da logística reversa. É a base natural para um requisito de *design* do fecho. |
-| **Decreto 10.936/2022** | Regulamenta a PNRS. |
-| **Decreto 12.688/2025** (21/10/2025) | Sistema de logística reversa de embalagens plásticas (regulamenta os arts. 32 e 33 da PNRS). Alcança embalagens primárias, secundárias e terciárias e itens equiparados. Metas de **recuperação: 32% em 2026, até 50% em 2040**. Metas de **conteúdo reciclado (PCR): 22% em 2026, até 40% em 2040**, com exceção das embalagens sujeitas a regulamentação específica, como as de contato com alimentos. Obrigados: fabricantes, importadores, distribuidores e comerciantes. Primeiro relatório de avaliação previsto para 2027 Valores dos Anexos I e II: recuperação de 32%, 33% e 35% em 2026, 2027 e 2028; conteúdo reciclado de 22%, 24% e 26%. O conteúdo reciclado é exigível desde jan/2026 para as grandes empresas e desde jul/2026 para as pequenas e médias.. **Não trata do desenho de tampas e fechos.** |
-| **Lei 9.605/1998 e Decreto 6.514/2008** | Infrações e sanções administrativas ambientais. Seriam o meio natural de dar coercibilidade a uma regra de tampas presas, como prevê o PL 3.615/2024. |
-| **Lei 8.078/1990 (CDC)** | Dever de informação (arts. 6º, III, e 31). Útil para a rotulagem de descarte ("descarte a garrafa com a tampa"). |
-| **Lei 13.874/2019 (Liberdade Econômica), art. 5º** | Exige **Análise de Impacto Regulatório (AIR)** para atos normativos de interesse geral da administração federal. Seria aplicável a uma regulamentação por decreto ou portaria. |
-| **Normas sanitárias da Anvisa** | Regem o uso de PET reciclado em contato com alimentos e a segurança dos materiais de embalagem. Qualquer redesenho do fecho precisa ser compatível com elas **[conferir a norma vigente]**. |
+| Lei 12.305/2010 (PNRS) | Responsabilidade compartilhada (arts. 30 a 36); art. 32 (embalagens recicláveis); art. 33 (logística reversa). |
+| Decreto 10.936/2022 | Regulamenta a PNRS. |
+| Decreto 12.688/2025 | Regulamenta o art. 32, § 1º, e o art. 33, § 1º, da PNRS; logística reversa de embalagens plásticas. Recuperação: 32%, 33% e 35% (2026-2028), até 50% em 2040. Conteúdo reciclado: 22%, 24% e 26%, até 40% em 2040; exigível desde jan./2026 (grandes) e jul./2026 (pequenas e médias) (art. 34). Não se aplica a embalagens com regulamentação específica, inclusive de alimentos (art. 33, § 3º). **[conferir Anexos I e II: 35% ou 36% em 2028]** |
+| Lei 13.874/2019 | Art. 4º, III (vedação de especificação técnica desnecessária) e art. 5º (análise de impacto regulatório). |
+| RDC ANVISA 56/2012 | Plásticos em contato com alimentos, harmonizada no Mercosul (Res. GMC 02/2012). |
+| Decreto 1.355/1994 | Acordo TBT da OMC: regulamentos técnicos não mais restritivos que o necessário e baseados em normas internacionais. |
+| Lei 9.605/1998 e Decreto 6.514/2008 | Infrações administrativas ambientais. |
+| CDC | Dever de informação (arts. 6º, III, e 31). |
 
-### 4.3 Proposições legislativas
+### 5.3 Jurisprudência do STF
 
-| Proposição | Conteúdo | Situação conhecida |
+| Precedente | Tese ou resultado | Uso |
 |---|---|---|
-| **PL 3.615/2024 (Senado)**, Sen. Ciro Nogueira | Obriga que as garrafas PET vendidas no país tenham tampas que permaneçam presas após a abertura. Prazo de adaptação de 12 meses. A infração seria punida pela Lei 9.605/1998. | Autuado em 18/9/2024. Despachado à CCJ e, depois, à CMA (terminativo). Aguardava designação de relator na última informação localizada **[conferir andamento atual]**. |
-| **PL 2.524/2022 (Senado)**, "economia circular do plástico" / "Oceano sem Plástico" | Regime geral para plásticos de uso único, com eliminação progressiva e apoio aos catadores. | Aprovado na CAS em 2023. Em 27/10/2026, segundo a Rádio Senado, estava pronto para votação na CAE, com relatório do Sen. Otto Alencar. Esse relatório troca o banimento imediato por transição gradual apoiada em avaliação de ciclo de vida. Depois vai à CMA (terminativo) e à Câmara. **É o veículo mais maduro para receber uma emenda sobre tampas presas.** |
-| **ALERJ, PL 4.035/2024**, Dep. Carlos Minc | Tampas fixas em garrafas PET de menos de 3 L vendidas no Estado do RJ. | Em tramitação **[conferir]**. |
-| **ALEPE, PL 2.133/2024** | Tampas fixas em garrafas PET e embalagens envasadas em PE, com fiscalização pelo Procon-PE. | Em tramitação **[conferir]**. |
-| **Sergipe e São Paulo** (proposições de 2025) | Tampas não removíveis em garrafas PET. | Em tramitação **[conferir]**. |
+| RE 732.686 (Tema 970), rel. Fux, 19/10/2022 | Lei municipal que obriga sacolas biodegradáveis é constitucional. | Legitimidade material de exigir características ambientais de embalagens. Não autoriza argumento "com mais razão" para produto de circulação nacional. |
+| ADI 3.645/PR, rel. Ellen Gracie, 2006 | Lei paranaense de rotulagem de transgênicos invalidada: regulamentação paralela à federal. | Limite principal. |
+| ADI 4.619/SP, rel. Rosa Weber, 2020 | Lei paulista apenas um pouco mais rígida, validada. | Critério: intensificar dentro da moldura federal. |
+| ADI 750/RJ, rel. Gilmar Mendes, 3/8/2017 | Informações em embalagens de alimentos: interesse nacional e harmonização no Mercosul. | Cautela. |
+| RE 586.224 (Tema 145), rel. Fux, 2015 | A norma mais protetiva não prevalece por si só. | Cautela. |
+| ADI 7.719/PB, rel. Toffoli, 18/8/2025 | Lei paraibana que obrigava a fornecer sacolas: violação à livre iniciativa. | Proporcionalidade. |
+| ADI 3.937/SP | Validou proibição estadual do amianto; declarou incidentalmente inconstitucional o art. 2º da Lei 9.055/1995. | Proteção mais intensa. |
+| ARE 878.911 (Tema 917) | Lei de iniciativa parlamentar que cria despesa sem tratar de estrutura do Executivo é válida. | Iniciativa do PL. |
+| ARE 743.480 (Tema 682) | Não há reserva de iniciativa em matéria tributária. | Incentivos por lei parlamentar. |
+| ADI 4.481/PR, rel. Barroso, 11/3/2015 | Benefícios de ICMS da Lei PR 14.985/2006 sem convênio: inconstitucionais, com modulação. | Limite dos incentivos de ICMS. |
 
-### 4.4 Dados de contexto
+**[conferir datas e relatores no portal do STF]**
 
-- **Reciclagem de PET (Censo ABIPET, 13ª ed.):** 410 mil toneladas de embalagens PET pós-consumo recicladas em 2024, cerca de **53%** do total, 14% a mais que no ano anterior. O setor movimentou R$ 5,66 bilhões. As recicladoras operam com **ociosidade média de 23%**, chegando a 40% em alguns períodos. Ou seja, **falta matéria-prima coletada, não capacidade de reciclar**.
-- **Lacuna:** não foi localizado um levantamento nacional que quantifique as tampas no lixo de praias e rios. Recomenda-se pedir esses dados a ONGs de limpeza de praias, universidades e ao MMA, ou incluir a medição no projeto-piloto (seção 6.3).
+### 5.4 Proposições
+- **PL 3.615/2024** (Senado, Ciro Nogueira): só PET; 12 meses de adaptação; aguarda relator na CCJ.
+- **PL 2.524/2022** (Senado, Jean Paul Prates): economia circular do plástico; pronto para pauta na CAE (relator Otto Alencar). Melhor veículo para emenda federal.
+- Projetos estaduais: RJ (PL 4.035/2024), PE (PL 2.133/2024), SE e SP **[conferir]**. Na ALEP, PL 186/2018 (plásticos de uso único).
 
-### 4.5 Diagnóstico: o que falta no Brasil
-
-1. **Requisito de projeto do fecho:** não existe regra federal que obrigue a tampa a permanecer presa. As proposições estão paradas ou dispersas.
-2. **Norma técnica:** não existe equivalente ABNT da EN 17665. Sem ela, não há como verificar a conformidade de forma objetiva, e a fiscalização vira questão de opinião.
-3. **Risco de fragmentação federativa:** leis estaduais diferentes (RJ, PE, SE, SP) obrigariam a indústria a ter linhas de envase distintas por estado. Isso encarece a medida e pode levar a questionamentos sobre livre circulação e competência. Uma **norma geral da União** (art. 24, §1º, CF) é a solução mais racional.
-4. **Desconexão com as metas:** o Decreto 12.688/2025 cobra resultado (recuperação e conteúdo reciclado), mas não oferece instrumentos de *design* que ajudem a alcançá-lo.
-5. **Incentivo econômico:** não existe no Brasil um mecanismo que premie o conteúdo reciclado na mesma linha do imposto espanhol de 0,45 €/kg.
-6. **Sistema de depósito e devolução:** não há SDDR nacional, embora existam iniciativas privadas e pontos de troca locais.
+### 5.5 Dados de contexto
+- ABIPET (13º Censo): 410 mil t recicladas em 2024 (cerca de 53%), ociosidade média de 23%. **O gargalo é a coleta, não a capacidade de reciclar.**
+- Não há levantamento nacional de tampas no lixo de praias e rios: a política deve nascer com linha de base.
 
 ---
 
-## 5. Comparativo Espanha/UE × Brasil
+## 6. Incentivos e indução (síntese; tema de artigo específico em preparação)
 
-| Dimensão | Espanha / UE | Brasil (nov/2026) |
-|---|---|---|
-| Tampa presa em recipientes plásticos ≤ 3 L | Obrigatória desde 3/7/2024 (Dir. 2019/904, art. 6º; Lei 7/2022) | Inexistente. PL 3.615/2024 e projetos estaduais em tramitação |
-| Vidro e metal | Excluídos | Excluídos nas proposições (que tratam só de PET) |
-| Embalagens cartonadas | Incluídas | Não tratadas |
-| Norma técnica de ensaio | EN 17665:2022+A1:2023 (harmonizada) | Inexistente |
-| Conteúdo reciclado | 25% PET (2025); 30% garrafas (2030) | 22% (2026) → 40% (2040), Decreto 12.688/2025 |
-| Meta de coleta / recuperação | 77% (2025); 90% (2029) de garrafas | 32% (2026) → 50% (2040) de embalagens plásticas |
-| Instrumento fiscal | Imposto de 0,45 €/kg sobre plástico não reciclado | Inexistente |
-| Depósito e devolução | SDDR obrigatório, prazo nov/2026, 0,10 € | Inexistente em escala nacional |
-| Reciclabilidade obrigatória | PPWR (Reg. 2025/40) desde 12/8/2026 | Princípio geral (PNRS, art. 32), sem critérios técnicos vinculantes |
+- **ICMS:** só com convênio no CONFAZ (CF, art. 155, § 2º, XII, *g*; LC 24/1975); lei específica (CF, art. 150, § 6º) e estimativa de impacto (LRF, art. 14; ADCT, art. 113). Com a EC 132/2023, o ICMS é reduzido de 2029 a 2032 e extinto em 2033, e o IBS veda incentivos. Incentivo de ICMS seria só de transição.
+- **Imposto Seletivo:** alíquotas de 2027 fixadas pela MP 1.399, de 4/11/2026 (bebidas açucaradas); diferenciar por embalagem fica para estudo próprio **[conferir tramitação]**.
+- **Compras públicas:** a margem de preferência para bens reciclados é de **até 10%** (Lei 14.133, art. 26, II, e § 1º, II). Os 20% do § 2º são para inovação nacional. Como a margem premia o material, o caminho é exigir a tampa presa como especificação do objeto e aplicar a margem ao conteúdo reciclado.
+- **Fomento:** crédito não vinculado ao ICMS, com custo condicionado a metas verificáveis (lógica das *sustainability-linked bonds*).
+- **Taxas ambientais:** redução justificada pela menor demanda de fiscalização (CF, art. 145, II).
+- **Lei do Bem (Lei 11.196/2005):** **exclusão** da base de cálculo do IRPJ e da CSLL de 60% a 80% dos gastos com P&D (arts. 17 e 19). Sobrevive à EC 132/2023 e foi preservada do corte da LC 224/2025 (IN RFB 2.305/2025). Alcança o **desenvolvimento** (tampas mais leves, fechos acessíveis, lacres que não se desprendem), não a mera adoção; só para o lucro real. Para os demais: subvenção (Lei 10.973/2004) e crédito da Finep e do BNDES. A conciliação Lei do Bem–PNRS já foi proposta na literatura (GOMES; CAMINHA; MEMORIA, 2019).
+- **Critérios:** condicionados a ensaio, temporários, focalizados em micro e pequenas empresas e transparentes.
 
 ---
 
-## 6. Proposta: Projeto de Inovação "Tampa Presa, Ciclo Fechado"
+## 7. Propostas normativas
 
-### 6.1 Objetivos
+### 7.1 Lei federal (preferível)
+Estratégia: (1) emenda ao PL 2.524/2022; (2) substitutivo ao PL 3.615/2024; (3) decreto regulamentar do art. 32 da PNRS, precedido de análise de impacto regulatório.
 
-- Evitar que tampas e lacres plásticos se percam no ambiente.
-- Aumentar a quantidade de tampas (PP/PEAD) que chega às cooperativas e recicladoras, gerando renda para os catadores.
-- Dar ao Decreto 12.688/2025 um instrumento de *design* que ajude a cumprir suas metas.
-- Promover uso consciente do plástico e o descarte correto por meio de informação ao consumidor.
-- Alinhar o Brasil ao padrão europeu, o que facilita a exportação de bebidas e o uso de equipamentos e moldes já disponíveis no mercado internacional.
-
-### 6.2 Eixo normativo: anteprojeto de lei federal
-
-**Estratégia de tramitação (em ordem de preferência):**
-1. **Emenda ao PL 2.524/2022**, que está pronto para pauta na CAE, inserindo um capítulo sobre fechos. Aproveita um veículo já maduro.
-2. **Substitutivo ao PL 3.615/2024**, ampliando seu objeto (hoje restrito ao PET) e acrescentando norma técnica, transição, cartonados e integração com a logística reversa.
-3. Alternativa infralegal: **decreto regulamentar do art. 32 da PNRS** ou alteração do Decreto 12.688/2025, precedido de AIR (Lei 13.874/2019, art. 5º). É mais rápido, mas mais exposto a questionamento sobre os limites do poder regulamentar ao criar obrigação de produto. Por isso a via legal é preferível.
-
-**Minuta de trabalho:**
-
-> **PROJETO DE LEI Nº ___, DE 2026**
->
-> *Altera a Lei nº 12.305, de 2 de agosto de 2010, para dispor sobre a obrigatoriedade de tampas e fechos plásticos que permaneçam presos aos recipientes de bebidas, e dá outras providências.*
->
-> **Art. 1º** A Lei nº 12.305, de 2 de agosto de 2010, passa a vigorar acrescida do seguinte art. 32-A:
+> **Minuta: acrescenta art. 32-A à Lei 12.305/2010**
 >
 > "**Art. 32-A.** Os recipientes de bebidas com capacidade de até 3 (três) litros, fabricados total ou parcialmente em plástico, inclusive as embalagens compostas, cujas tampas ou fechos sejam de plástico, somente poderão ser fabricados, importados, distribuídos ou comercializados no território nacional se as tampas e fechos permanecerem presos ao recipiente durante a fase de uso previsto do produto.
 >
-> § 1º Não se sujeitam ao disposto no *caput*:
-> I – os recipientes de vidro ou de metal, ainda que suas tampas ou fechos sejam de plástico;
-> II – os recipientes destinados a alimentos para fins especiais de uso médico ou enteral, na forma do regulamento sanitário;
-> III – as tampas e selos de metal ou de alumínio, ainda que dotados de revestimento plástico.
+> § 1º Não se sujeitam ao disposto no *caput*: I – os recipientes de vidro ou de metal, ainda que suas tampas ou fechos sejam de plástico; II – os recipientes destinados a alimentos para fins especiais de uso médico ou enteral, na forma do regulamento sanitário; III – as tampas e selos de metal ou de alumínio, ainda que dotados de revestimento plástico.
 >
-> § 2º A conformidade ao disposto no *caput* será aferida segundo norma técnica brasileira, elaborada no âmbito do Sistema Nacional de Metrologia, Normalização e Qualidade Industrial (Sinmetro), que estabelecerá métodos de ensaio e requisitos de resistência, confiabilidade e segurança do vínculo entre tampa e recipiente, observadas as normas internacionais e regionais de referência.
+> § 2º A conformidade será aferida segundo norma técnica brasileira elaborada no âmbito do Sinmetro, observadas as normas internacionais de referência, e, até sua edição, segundo a EN 17665 ou norma equivalente.
 >
-> § 3º As tampas e fechos de que trata o *caput* deverão ser fabricados com material compatível com a reciclagem do recipiente, vedado o uso de componentes que comprometam a separação ou a qualidade do material reciclado, na forma do regulamento.
+> § 3º As tampas e fechos deverão permitir uso seguro por pessoas idosas e com deficiência e ser fabricados com material compatível com a reciclagem do recipiente, controlada a massa adicional, na forma do regulamento.
 >
-> § 4º Os rótulos dos produtos abrangidos conterão a orientação de que o recipiente seja descartado com a tampa, para fins de coleta seletiva e reciclagem.
+> § 4º Os rótulos conterão a orientação de que o recipiente seja descartado com a tampa.
 >
-> § 5º As tampas e fechos de que trata este artigo integram a embalagem para fins de cumprimento das metas de recuperação e de conteúdo reciclado dos sistemas de logística reversa de que trata o art. 33."
+> § 5º As tampas e fechos integram a embalagem para fins das metas de recuperação e de conteúdo reciclado dos sistemas de logística reversa de que trata o art. 33."
 >
-> **Art. 2º** O descumprimento do disposto no art. 32-A da Lei nº 12.305, de 2010, constitui infração administrativa ambiental, sujeitando o infrator às sanções previstas na Lei nº 9.605, de 12 de fevereiro de 1998, e em seu regulamento, sem prejuízo das sanções previstas na Lei nº 8.078, de 11 de setembro de 1990.
->
-> **Art. 3º** Os produtos fabricados ou importados antes do término do prazo de que trata o art. 4º poderão ser comercializados até o esgotamento dos estoques, no limite de 12 (doze) meses.
->
-> **Art. 4º** Esta Lei entra em vigor após decorridos 24 (vinte e quatro) meses de sua publicação oficial.
+> Sanção pela Lei 9.605/1998 e pelo CDC; vigência após 24 meses; escoamento de estoques por 12 meses; tratamento diferenciado para micro e pequenas empresas; avaliação em 5 anos.
 
-**Notas à minuta:**
-- **Prazo de 24 meses** (o PL 3.615/2024 prevê 12): a UE deu cerca de cinco anos entre 2019 e 2024. Doze meses parecem curtos para trocar moldes de injeção e terminais de envase, especialmente para pequenas envasadoras e cervejarias e engarrafadoras regionais que usam PET. Recomenda-se ouvir o setor em audiência pública.
-- **Inclusão das embalagens cartonadas**, que o PL 3.615/2024 omite: segue o modelo europeu e evita dar vantagem competitiva a um formato sobre outro.
-- **§ 5º do art. 32-A**: liga a regra às metas do Decreto 12.688/2025 e dá ao setor um motivo econômico para cumpri-la.
-- **Possível tratamento diferenciado para microempresas e empresas de pequeno porte** (art. 179, CF; LC 123/2006): prazo adicional ou linha de crédito para adaptação.
-- **Vício de iniciativa:** a minuta não cria órgãos nem atribuições novas no Executivo, só remete ao Sinmetro e ao regulamento. Isso reduz o risco de questionamento por iniciativa parlamentar (art. 61, §1º, II, *e*, CF).
+### 7.2 Lei estadual do Paraná (minuta v2, documento próprio)
+- Fundamento: competência **suplementar** (art. 24, § 2º) e art. 170, VI; concretiza a PNRS e o Decreto 12.688/2025.
+- Requisito de tampa presa, com exclusões (vidro, metal, retornáveis), acessibilidade, reciclabilidade e respeito à regulação sanitária.
+- Conformidade pela EN 17665 enquanto não houver norma brasileira: evita reorganizar a cadeia nacional (ADI 3.645 × 4.619) e atende ao Acordo TBT.
+- Programa Estadual Tampa Presa, Ciclo Fechado: catadores (com articulação com programas estaduais existentes, como o Ecocidadão Paraná), monitoramento com linha de base, inovação.
+- Incentivos à adesão antecipada: selo, reconhecimento, redução de taxas ambientais (exige estimativa de impacto, ADCT 113), crédito com custo ligado a metas, compras públicas (especificação + margem de até 10% no conteúdo reciclado), proposta de convênio no CONFAZ.
+- Prazos de 24 meses (36 para micro e pequenas empresas) e suspensão de eficácia diante de lei federal superveniente.
 
-### 6.3 Eixo técnico e de inovação: projeto-piloto
-
-1. **Norma técnica:** propor à ABNT (comitê de embalagens) a elaboração de uma norma com base na EN 17665, com possibilidade de programa de avaliação da conformidade pelo Inmetro.
-2. **Piloto municipal ou estadual (12 meses):** parceria entre o município, uma ou duas envasadoras voluntárias e cooperativas de catadores. O piloto mede três coisas:
-   - a taxa de tampas que chegam presas à triagem, comparando antes e depois;
-   - a contagem de tampas em pontos fixos de praia ou rio (protocolo de limpeza com amostragem padronizada);
-   - o ganho de receita das cooperativas com PP/PEAD.
-3. **Selo voluntário "Tampa Presa"** para as empresas que adotarem o padrão antes da exigência, utilizável em comunicação ESG. Atenção: as alegações ambientais devem ser verificáveis, para evitar *greenwashing* e infração ao CDC.
-4. **Campanha de informação ao consumidor:** a tampa articulada costuma gerar estranhamento no início, como ocorreu na Europa em 2024. Mensagens simples: "a tampa fica, a garrafa vai inteira para a reciclagem".
-5. **Agenda complementar (médio prazo):**
-   - estudo de viabilidade de um **SDDR nacional** ou de pilotos estaduais de depósito e devolução, com participação dos catadores;
-   - estudo de **incentivo tributário ao conteúdo reciclado**, compatível com a reforma tributária (EC 132/2023) e com o Imposto Seletivo;
-   - critérios de **design para reciclabilidade** de embalagens, na linha do PPWR.
-
-### 6.4 Avaliação de impacto: argumentos e contra-argumentos
-
-| A favor | Objeções previsíveis | Resposta possível |
-|---|---|---|
-| Reduz a perda de tampas no ambiente e no lixo marinho | Custo de troca de moldes e de linhas de envase | Prazo de 24 meses, escoamento de estoques e tratamento diferenciado para ME/EPP. Tecnologia madura e disponível desde 2024 |
-| Aumenta a oferta de PP/PEAD reciclável, num setor com ociosidade de 23% | Pequeno aumento de massa plástica por tampa (cinta) | A massa adicional é marginal. A tampa recuperada compensa. Exigir material compatível (§ 3º) |
-| Integra-se às metas do Decreto 12.688/2025 | Rejeição inicial do consumidor (tampa "atrapalha" ao beber) | Campanha informativa. A experiência europeia mostra adaptação do consumidor e melhorias no desenho |
-| Uniformiza o mercado e evita leis estaduais diferentes | Eficácia limitada sem coleta seletiva ampla | A medida é complementar, não substitui coleta seletiva, logística reversa e depósito e devolução. Por isso a agenda complementar (6.3, item 5) |
-| Alinha o Brasil ao padrão da UE, maior mercado importador de muitos produtos | Evidência empírica ainda recente sobre a redução de tampas no ambiente | O piloto (6.3, item 2) produz evidência nacional. Prever cláusula de revisão em 5 anos |
+### 7.3 Projeto-piloto de inovação
+1. Norma técnica ABNT com base na EN 17665 e avaliação da conformidade pelo Inmetro.
+2. Piloto de 12 meses (município, envasadoras voluntárias e cooperativas) medindo: tampas presas na triagem, tampas em pontos fixos de praia ou rio (protocolo padronizado, categoria equivalente à europeia) e receita das cooperativas com PP/PEAD.
+3. Selo "Tampa Presa", com alegações verificáveis (evitar *greenwashing*).
+4. Campanha de informação ao consumidor.
+5. Agenda: SDDR nacional ou pilotos estaduais; tributação indutora pós-reforma; critérios de *design for recycling*.
 
 ---
 
-## 6-A. Atualização: outros países e incentivos federais à inovação
+## 8. Produção acadêmica e alinhamento ao PPGD
 
-**Direito comparado ampliado** (detalhes e fontes na seção 3 do artigo):
-- **Portugal:** DL 78/2021, art. 9º (tampas presas desde 3/7/2024). Sistema de depósito "Volta" desde 10/4/2026, com 0,10 € por embalagem e meta de 90% em 2029.
-- **Itália:** D.Lgs. 196/2021 (tampas presas, multa de 2.500 a 25.000 €). A *plastic tax* de 0,45 €/kg, criada em 2019, foi adiada oito vezes e agora está prevista para 2027.
-- **Alemanha:** EWKKennzV § 3. Depósito obrigatório (*Einwegpfand*) desde 2003. Fundo de plásticos de uso único desde 2024, com alíquota menor para garrafas que já pagam depósito.
-- **Reino Unido:** a Grã-Bretanha não tem obrigação legal, mas a indústria adota a tampa presa voluntariamente ("efeito Bruxelas"). Na Irlanda do Norte a tampa presa é obrigatória pelo Quadro de Windsor. *Plastic Packaging Tax* de £ 228,82/t para embalagens com menos de 30% de reciclado. Depósito e devolução a partir de out. 2027.
-
-**Lei do Bem (Lei 11.196/2005, arts. 17 a 26):**
-- Exclusão adicional de 60% a 80% (até +20% com patente) dos gastos de P&D no IRPJ e na CSLL. Depreciação integral e amortização acelerada. Esses benefícios sobrevivem à reforma tributária e foram preservados do corte linear da LC 224/2025 **[conferir]**.
-- **Alcança o desenvolvimento**, mas não a mera compra, de tampas e lacres que não se desprendem: modelos mais leves, acessíveis, monomaterial, com lacre integrado, moldes próprios.
-- Só vale para empresas do lucro real com lucro fiscal. As micro e pequenas empresas precisam de subvenção e crédito (Lei 10.973/2004; Finep, BNDES, Fundo Clima) e dos instrumentos estaduais.
-- A Lei do Bem não é linha de crédito: ela dá dedução de imposto. O crédito vem da Finep, do BNDES e das agências estaduais (no Paraná, a Fomento Paraná e o BRDE).
-
-## 7. Próximos passos sugeridos
-
-1. Confirmar, nos textos oficiais, os pontos marcados **[conferir]**, em especial o art. 57 da Lei 7/2022 (BOE), as metas por ano do Decreto 12.688/2025 (DOU) e o andamento dos PLs 3.615/2024 e 2.524/2022.
-2. Definir o veículo: emenda ao PL 2.524/2022 (pauta da CAE) ou substitutivo ao PL 3.615/2024. Identificar parlamentar proponente ou relator.
-3. Contatar a ABNT (comitê de embalagens) e entidades setoriais (ABIPET, Abiplast, associações de bebidas) para medir a resistência e o grau de adesão.
-4. Buscar um município parceiro e cooperativas para o piloto. Mapear fontes de financiamento: fundos ambientais e recursos de logística reversa.
-5. Se desejado, converter este dossiê em artigo do site, nota técnica para gabinete parlamentar ou justificação formal do PL.
+- **Artigo** "A tampa que não se perde: o requisito europeu de fechos presos a recipientes plásticos de bebidas e as condições de sua recepção no federalismo ambiental brasileiro", **v3 (17/11/2026)**. Autor: Diego Antonio Ribas Gomes (ORCID 0009-0000-7555-6642). Cerca de 12 mil palavras e 143 referências. Inserido na **Linha 2 do PPGD/UNICURITIBA** ("Atividade Empresarial e Constituição: inclusão e sustentabilidade"), com seção própria sobre função social da empresa, produção da Revista Jurídica Unicuritiba e dissertações do PPGD (via Catálogo CAPES, que contorna o bloqueio do RUNA).
+- **Artigo 2 (em preparação):** tributação indutora de embalagens circulares (ICMS e CONFAZ, EC 132, Imposto Seletivo, compras públicas e Lei do Bem). Base: `artigo-2-incentivos-BASE.md`.
+- **Destino editorial em estudo:** periódico do Instituto Solaris Ambiental. Pendências: ISSN (IBICT), DOI (Crossref), conselho editorial externo e avaliação duplo-cega.
+- **Skill reutilizável:** `referencial-teorico-ppgd-unicuritiba`. Faz diagnóstico, enquadramento na linha, busca no PPGD, em repositórios de excelência e no Catálogo CAPES, verificação obrigatória e propostas de texto em ABNT.
 
 ---
 
-## Fontes consultadas
+## 9. Documentos e onde estão
 
-**União Europeia e Espanha**
-- Comissão Europeia, Decisão de Execução (UE) 2023/1060 (norma harmonizada EN 17665): https://eur-lex.europa.eu/eli/dec_impl/2023/1060/oj/eng · DOUE no BOE: https://www.boe.es/doue/2023/142/L00034-00035.pdf
-- TÜV, harmonised standard under the SUP Directive: https://www.tuv.com/regulations-and-standards/en/eu-a-harmonized-standard-published-under-the-single-use-plastic-directive.html
-- Diretiva 2019/904, art. 6º (texto): https://legislation.gov.uk/eudr/2019/904/article/6/2020-12-31
-- Packaging Europe, Comunicação C/2026/4813 e selos de alumínio: https://packagingeurope.com/news/sealed-aluminium-foil-excluded-from-eus-tethered-lid-requirements/14711.article
-- PETplanet Insider 09/2021 (exclusão de vidro e metal): https://petpla.net/assets/ebooks/PP202109/26/
-- Tetra Pak, tethered caps e cartonados: https://tetrapak.com/about-tetra-pak/stories/tethered-caps-single-use-plastic-directive
-- Maldita.es, tampão unido (Lei 7/2022): https://maldita.es/malditateexplica/20241004/tapon-unido-botellas-bricks-plastico-directiva-ue
-- Consumer.es: https://www.consumer.es/?p=457722 · BBVA: https://www.bbva.com/es/sostenibilidad/por-que-ahora-los-tapones-van-unidos-a-las-botellas/
-- Imposto sobre embalagens plásticas: Garrigues https://www.garrigues.com/es_ES/noticia/nuevas-medidas-tributarias-ley-residuos-suelos-contaminados-economia-circular · EY https://www.ey.com/es_es/the-cfo-agenda/el-nuevo-impuesto-especial-sobre-envases-de-plastico-no-reutilizables · Cuatrecasas https://www.cuatrecasas.com/resources/legal-flash-esg-ley-de-residuos-y-suelos-contaminados-impuesto-sobre-envases-de-plastico-002-62541585c3d24171465714.pdf
-- SDDR: CaixaBank https://www.caixabank.com/es/esfera/content/sddr-devolucion-botellas-latas · Infinews https://infinews.com/eventos/espana-debe-activar-el-sistema-de-deposito-de-envases-como-maximo-en · Merca2 https://www.merca2.es/2026/05/30/obligatorio-devolver-botellas-latas-2026-2386696/
-- PPWR: Interempresas https://www.interempresas.net/Plastico/650555-El-PPWR-reescribe-las-reglas-del-envase-europeo.html · Hogan Lovells https://www.hoganlovells.com/en/publications/ppwr-the-european-commission-publishes-the-guidance-document-on-the-new-packaging-rule · PPWR Connect https://ppwrconnect.com/es/blog/ppwr-grace-period-enforcement-penalties
+| Documento | Versão | Google Drive (cópia de segurança) | Repositório (branch de trabalho) |
+|---|---|---|---|
+| 01 Artigo | v3 (17/11/2026) | ACADÊMICO › ARTIGOS › TAMPAS PRESAS… | `pesquisas/artigo-tampas-presas.md/.docx` |
+| 02 PL estadual (PR) | v2 (17/11/2026) | idem | `pesquisas/pl-estadual-pr-tampas-presas.md/.docx` |
+| 03 Dossiê | v2 (17/11/2026) | idem | `pesquisas/tampas-presas-espanha-brasil.md` |
+| 04 Conferência de citações | atualizada em 17/11/2026 | idem | `pesquisas/CONFERENCIA.md` |
+| Base do artigo 2 | 17/11/2026 | — | `pesquisas/artigo-2-incentivos-BASE.md` |
 
-**Brasil**
-- Agência Senado, PL 3.615/2024: https://www12.senado.leg.br/noticias/materias/2024/10/04/proposta-torna-obrigatoria-fixacao-de-tampas-em-garrafas-pet · Ficha: https://www25.senado.leg.br/web/atividade/materias/-/materia/165457 · Texto: https://legis.senado.leg.br/sdleg-getter/documento?dm=9808573&ts=1727411506066&disposition=inline
-- Rádio Senado, PL 2.524/2022 pronto para votação (27/10/2026): https://www12.senado.leg.br/radio/1/noticia/2026/10/27/esta-pronto-para-votacao-o-projeto-que-regulamenta-a-economia-circular-do-plastico · Ficha: https://www25.senado.leg.br/web/atividade/materias/-/materia/154790
-- ALEPE, PL 2.133/2024: https://www.alepe.pe.gov.br/proposicao-texto-completo/?docid=13635&tipoprop=p
-- ALESP, proposição de 2025: https://al.sp.gov.br/propositura/?id=870479 · ALESE: https://aleselegis.al.se.leg.br/Arquivo/Documents/PL/111273-202509011022264036967Y2LEG(434).pdf
-- Decreto 12.688/2025: texto na Câmara https://www2.camara.leg.br/legin/fed/decret/2025/decreto-12688-21-outubro-2025-798174-publicacaooriginal-176787-pe.html · Casa Civil https://www.gov.br/casacivil/pt-br/assuntos/noticias/2025/outubro/governo-do-brasil-publica-decreto-sobre-tratamento-da-logistica-reversa-de-embalagens-de-plastico · Eureciclo https://eureciclo.com.br/blog/perguntas-e-respostas-sobre-o-decreto-do-plastico · ESG Insights https://esginsights.com.br/o-que-muda-com-o-novo-decreto-de-logistica-reversa-de-plasticos/ · ABIHPEC https://abihpec.org.br/legislacao-logistica-reversa-2025/
-- ABIPET, Censo da Reciclagem do PET 2024: https://petpla.net/2025/05/14/brazil-recycled-410000-t-of-pet-packaging-in-2024/ · https://movimentoeconomico.com.br/geral/redacao/2025/04/08/reciclagem-de-pet-cresce-14-no-brasil-e-impulsiona-economia-circular/
+Local de trabalho definitivo: **OneDrive** (aguarda conexão do Microsoft 365). Os textos inéditos não devem ir para o site público.
+
+---
+
+## 10. Próximos passos
+
+1. Conferir os itens **[conferir]** em Planalto, STF, Sucupira, RUNA e Revista Jurídica Unicuritiba (lista no documento 04).
+2. Definir o destino do artigo (periódico do Solaris ou revista externa) e, se externa, preparar versão anônima.
+3. Escolher o veículo federal (emenda ao PL 2.524/2022) e o parlamentar estadual para a minuta do Paraná; anexar a estimativa de impacto da redução de taxas ou retirar o inciso.
+4. Consultar ABNT, ABIPET, Abiplast, setor de bebidas, cooperativas e Fomento Paraná/BRDE.
+5. Estruturar o piloto com município, envasadoras e cooperativas.
+6. Desenvolver o artigo 2 sobre tributação indutora.
+
+---
+
+## Fontes principais (as referências completas estão no artigo v3)
+
+**Oficiais conferidas:** BOE (Ley 7/2022: https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809; RD 1055/2022: https://www.boe.es/buscar/act.php?id=BOE-A-2022-22690) · EUR-Lex (Diretiva 2019/904: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32019L0904; Decisão 2023/1060; Reg. 2025/40; C/2026/4813) · EWKKennzV § 3: https://www.gesetze-im-internet.de/ewkkennzv/__3.html · EWKFondsG/V: https://www.gesetze-im-internet.de/ewkfondsg/ · D.Lgs. 196/2021: https://www.gazzettaufficiale.it/eli/id/2021/11/30/21G00210/sg · Finance Act 2021 Part 2: https://www.legislation.gov.uk/ukpga/2021/26/part/2 · SI 2025/67: https://www.legislation.gov.uk/uksi/2025/67 · HMRC PPT: https://www.gov.uk/guidance/check-if-you-need-to-register-for-plastic-packaging-tax · Decreto 12.688/2025: https://www2.camara.leg.br/legin/fed/decret/2025/decreto-12688-21-outubro-2025-798174-publicacaooriginal-176787-pe.html · Lei 14.133/2021 e Lei 11.196/2005 (Câmara/legin) · PL 3.615/2024: https://www25.senado.leg.br/web/atividade/materias/-/materia/165457 · PL 2.524/2022: https://www25.senado.leg.br/web/atividade/materias/-/materia/154790
+
+**Literatura:** Kiessling *et al.* (2023), DOI 10.1016/j.wasman.2023.03.042 · Schuyler *et al.* (2018), DOI 10.1016/j.marpol.2018.02.009 · Joltreau (2022), DOI 10.1007/s10640-022-00696-9 · Rhein e Sträter (2021), DOI 10.14512/gaia.30.4.8 · Brizga, Ulme e Larsson (2024), DOI 10.3390/su16166922 · Hanke *et al.* (2019, JRC), DOI 10.2760/16903 · MSFD (2024, JRC), DOI 10.2760/0752301 · Gajdoš Kljusurić e Čačić (2026), DOI 10.3390/beverages12040043 · Castilho (2024, USP) · Gomes, Caminha e Memoria (2019), DOI 10.5007/2177-7055.2019v41n82p120 · Revista Jurídica Unicuritiba (função social e ESG) · Catálogo de Teses CAPES (PPGD UNICURITIBA).
+
+**Contexto e imprensa especializada:** Agência e Rádio Senado; ABIPET; Packaging Europe; DGAE (Portugal); Argus Media; Ebner Stolz; Brodies; BPF; DAERA.
