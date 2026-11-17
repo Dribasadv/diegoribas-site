@@ -1,26 +1,26 @@
 ---
-title: "A tampa que não se perde: o requisito europeu de fechos presos a recipientes plásticos de bebidas e sua recepção no federalismo ambiental brasileiro"
-subtitle: "The cap that is not lost: the European tethered-cap requirement for plastic beverage containers and its reception in Brazilian environmental federalism"
+title: "A tampa que não se perde: o requisito europeu de fechos presos a recipientes plásticos de bebidas e as condições de sua recepção no federalismo ambiental brasileiro"
+subtitle: "The cap that is not lost: the European tethered-cap requirement for plastic beverage containers and the conditions for its reception in Brazilian environmental federalism"
 lang: pt-BR
 ---
 
 **Diego Antonio Ribas**[^autor]
 
-[^autor]: Advogado (OAB/PR 63.861; OAB/SC). [Completar com titulação acadêmica, vínculo institucional, cidade, e-mail e ORCID, conforme as normas da revista.]
+[^autor]: Advogado (OAB/PR 63.861; OAB/SC 65.175), Curitiba/PR.
 
 ---
 
 ## Resumo
 
-Desde 3 de julho de 2024, a União Europeia só admite no mercado recipientes plásticos de bebidas com capacidade de até três litros se a tampa permanecer presa ao recipiente durante o uso previsto, nos termos do art. 6º da Diretiva (UE) 2019/904. O estudo compara a recepção desse requisito na Espanha, em Portugal, na Itália e na Alemanha, que o combinam em graus diversos com metas de coleta, conteúdo reciclado obrigatório, tributação do plástico não reciclado e sistemas de depósito e devolução, e no Reino Unido, onde, fora da União Europeia, a indústria tem adotado o padrão voluntariamente. O Brasil, embora disponha de uma Política Nacional de Resíduos Sólidos e de metas recentes de recuperação e conteúdo reciclado para embalagens plásticas (Decreto 12.688/2025), não regula o desenho dos fechos. O artigo pergunta se o requisito de fechos presos é instrumento adequado e juridicamente viável no Brasil, inclusive em nível estadual. Adota-se o método dedutivo, com pesquisa documental e bibliográfica e com o método funcional de direito comparado. Conclui-se que: (i) o requisito é uma intervenção de desenho de produto de baixo custo regulatório, mas a evidência empírica sobre seu efeito isolado na redução do lixo disperso ainda é incipiente, de modo que deve ser adotado como componente de um pacote e acompanhado de monitoramento; (ii) ele cabe na competência concorrente do art. 24 da Constituição, e, na falta de norma geral federal específica, os Estados podem exercer competência legislativa plena (art. 24, § 3º), desde que respeitem a proporcionalidade e não criem barreiras injustificadas ao comércio interestadual; (iii) recomenda-se norma geral federal, admitindo-se lei estadual cooperativa, alinhada a padrões técnicos internacionais e com transição adequada, como estratégia de indução; (iv) a adesão antecipada das empresas pode ser estimulada no plano estadual, mas incentivos de ICMS dependem de convênio no CONFAZ e terão vida curta diante da reforma tributária (EC 132/2023), que veda incentivos no IBS. Por isso são preferíveis instrumentos não vinculados ao ICMS, como compras públicas sustentáveis, fomento financeiro, taxas ambientais e selo oficial, temporários e focalizados nas micro e pequenas empresas, articulados com os incentivos federais à inovação da Lei 11.196/2005 (Lei do Bem), aplicáveis ao desenvolvimento, e não à mera adoção, de tampas e lacres que não se desprendem.
+Desde 3 de julho de 2024, a Diretiva (UE) 2019/904 condiciona a colocação no mercado de recipientes plásticos de bebidas de até três litros à permanência da tampa presa durante o uso previsto. O artigo investiga se esse requisito de desenho é instrumento adequado e juridicamente viável no Brasil, inclusive por iniciativa estadual. Com método dedutivo, pesquisa documental e bibliográfica e comparação funcional, examina sua recepção na Espanha, em Portugal, na Itália e na Alemanha, que o articulam de modo diverso com metas de coleta, conteúdo reciclado, tributação do plástico e sistemas de depósito, e no Reino Unido, onde a adoção tem sido voluntária fora da Irlanda do Norte. Sustenta-se que: (i) o requisito tem baixo custo regulatório, mas a evidência sobre seu efeito isolado no lixo disperso é incipiente, o que recomenda adotá-lo como parte de um pacote, com requisitos de usabilidade e monitoramento; (ii) a matéria insere-se na competência concorrente (CF, art. 24), e a lei estadual, como exercício de competência suplementar, é viável se compatível com a PNRS e o Decreto 12.688/2025, proporcional e neutra em relação ao comércio interestadual, embora a norma geral federal seja preferível; (iii) incentivos de ICMS dependem de convênio no CONFAZ e perdem horizonte com a EC 132/2023, de modo que a indução deve privilegiar compras públicas, fomento financeiro e os incentivos federais à inovação, restritos ao desenvolvimento, e não à mera adoção, da tecnologia.
 
-**Palavras-chave:** tampas presas; direito comparado; economia circular; competência concorrente; incentivos à inovação.
+**Palavras-chave:** fechos presos; regulação pelo desenho; federalismo ambiental; competência legislativa concorrente; economia circular.
 
 ## Abstract
 
-Since 3 July 2024, the European Union has only allowed single-use plastic beverage containers of up to three litres to be placed on the market if their caps remain attached during the intended use stage, under Article 6 of Directive (EU) 2019/904. The study compares the reception of this requirement in Spain, Portugal, Italy and Germany, which combine it to different degrees with collection targets, mandatory recycled content, taxation of non-recycled plastic and deposit-return systems, and in the United Kingdom, where, outside the EU, industry has been adopting the standard voluntarily. Brazil has a National Solid Waste Policy and recent recovery and recycled-content targets for plastic packaging (Decree 12,688/2025), yet it does not regulate closure design. This article asks whether the tethered-cap requirement is an adequate and legally feasible instrument in Brazil, including at state level. It uses a deductive method, documentary and bibliographic research, and the functional method of comparative law. It concludes that: (i) the requirement is a low-cost product-design intervention, but empirical evidence of its isolated effect on litter reduction is still incipient, so it should be adopted as part of a package and monitored; (ii) it falls within the concurrent legislative competence of Article 24 of the Brazilian Constitution, and, absent a specific federal general rule, states may legislate fully (Art. 24, § 3), provided they respect proportionality and avoid unjustified barriers to interstate trade; (iii) a federal general rule is preferable, but a cooperative state law aligned with international technical standards and with an adequate transition period is admissible as an inducement strategy; (iv) early voluntary adoption by firms may be encouraged at state level, but ICMS incentives require an interstate agreement within CONFAZ and will be short-lived under the tax reform (Constitutional Amendment 132/2023), which prohibits incentives under the new IBS. Non-ICMS instruments are therefore preferable: green public procurement, financial support, environmental fees and an official label, all temporary and targeted at micro and small enterprises, combined with the federal innovation tax incentives of Law 11,196/2005 ("Lei do Bem"), which apply to the development, not the mere adoption, of caps and seals that remain attached.
+Since 3 July 2024, Directive (EU) 2019/904 has made the placing on the market of single-use plastic beverage containers of up to three litres conditional on their caps remaining attached during the intended use stage. This article examines whether this design requirement is an adequate and legally feasible instrument in Brazil, including through state legislation. Using a deductive method, documentary and bibliographic research and functional comparison, it analyses its reception in Spain, Portugal, Italy and Germany, which combine it in different ways with collection targets, recycled content, plastic taxation and deposit-return systems, and in the United Kingdom, where adoption has been voluntary outside Northern Ireland. It argues that: (i) the requirement has a low regulatory cost, but evidence of its isolated effect on litter is still incipient, which recommends adopting it as part of a package, with usability requirements and monitoring; (ii) the matter falls within concurrent legislative competence (Federal Constitution, Art. 24), and a state law, as an exercise of supplementary competence, is feasible if it is compatible with the National Solid Waste Policy and Decree 12,688/2025, proportionate and neutral towards interstate trade, although a federal general rule is preferable; (iii) ICMS incentives require an interstate agreement within CONFAZ and lose their horizon under Constitutional Amendment 132/2023, so inducement should favour public procurement, financial support and federal innovation incentives, limited to the development, not the mere adoption, of the technology.
 
-**Keywords:** tethered caps; comparative law; circular economy; concurrent legislative competence; innovation incentives.
+**Keywords:** tethered caps; design-based regulation; environmental federalism; concurrent legislative competence; circular economy.
 
 ---
 
@@ -36,7 +36,9 @@ O problema de pesquisa é o seguinte: **o requisito de tampas presas é instrume
 
 O objetivo geral é avaliar a recepção do modelo europeu no Brasil. Os objetivos específicos são: (a) descrever o regime europeu e sua recepção na Espanha, em Portugal, na Itália, na Alemanha e no Reino Unido; (b) examinar criticamente a evidência disponível sobre seus efeitos; (c) mapear o marco normativo brasileiro e sua lacuna; (d) analisar a competência legislativa à luz da jurisprudência do Supremo Tribunal Federal; (e) examinar os instrumentos de indução à adesão antecipada, em especial os incentivos fiscais estaduais, diante do regime do ICMS e da reforma tributária, e os incentivos federais à inovação da Lei do Bem; e (f) propor parâmetros para uma norma brasileira.
 
-Quanto ao método, adota-se abordagem dedutiva, com pesquisa documental (atos normativos europeus, espanhóis, brasileiros e paranaenses; proposições legislativas; decisões judiciais) e bibliográfica. Para a comparação jurídica, emprega-se o método funcional (ZWEIGERT; KÖTZ, 1998). Ele não compara rótulos normativos, mas as soluções que cada ordenamento dá a um mesmo problema concreto: a perda de pequenos componentes plásticos no ambiente e sua ausência no fluxo de reciclagem. A seleção das jurisdições obedece a um critério de variação. Espanha, Portugal, Itália e Alemanha são Estados-membros sujeitos à mesma Diretiva, mas que a combinaram com instrumentos econômicos distintos. Portugal e Espanha têm, ademais, proximidade jurídica e cultural com o Brasil. O Reino Unido funciona como caso de contraste, pois deixou a União Europeia antes da exigibilidade do requisito e mantém regimes distintos entre a Grã-Bretanha e a Irlanda do Norte. O recorte temporal vai da edição da Diretiva (UE) 2019/904 até novembro de 2026.
+Quanto ao método, adota-se abordagem dedutiva, com pesquisa documental (atos normativos da União Europeia, dos Estados selecionados e do Brasil, federais e estaduais; proposições legislativas; decisões judiciais) e bibliográfica. Para a comparação jurídica, emprega-se o método funcional (ZWEIGERT; KÖTZ, 1998). Ele não compara rótulos normativos, mas as soluções que cada ordenamento dá a um mesmo problema concreto: a perda de pequenos componentes plásticos no ambiente e sua ausência no fluxo de reciclagem. A seleção das jurisdições obedece a um critério de variação. Espanha, Portugal, Itália e Alemanha são Estados-membros sujeitos à mesma Diretiva, mas que a combinaram com instrumentos econômicos distintos. Portugal e Espanha têm, ademais, proximidade jurídica e cultural com o Brasil. O Reino Unido funciona como caso de contraste, pois deixou a União Europeia antes da exigibilidade do requisito e mantém regimes distintos entre a Grã-Bretanha e a Irlanda do Norte. O recorte temporal vai da edição da Diretiva (UE) 2019/904 até novembro de 2026.
+
+A contribuição do artigo é tríplice. Primeiro, sistematiza, pela primeira vez em língua portuguesa, a recepção comparada do requisito europeu de fechos presos e o pacote de instrumentos que o acompanha. Segundo, submete a hipótese de uma lei estadual sobre desenho de embalagens aos precedentes do STF, favoráveis e contrários, sobre características de produtos de circulação nacional. Terceiro, distingue os instrumentos de indução juridicamente viáveis após a EC 132/2023, separando o desenvolvimento da tecnologia, alcançável pelos incentivos à inovação, de sua mera adoção.
 
 ## 2 Fundamentos: economia circular, responsabilidade do produtor e regulação pelo desenho
 
@@ -56,7 +58,7 @@ A responsabilidade estendida do produtor (REP) é o princípio que atribui ao fa
 
 O requisito de tampa presa ilustra uma categoria regulatória menos estudada no direito ambiental brasileiro: a regulação que atua sobre o **artefato**, e não sobre a conduta. Thaler e Sunstein (2008) mostraram que a forma como as opções são apresentadas influencia decisões de maneira previsível e que a "arquitetura de escolhas" pode facilitar comportamentos desejáveis sem proibi-los. A tampa presa não proíbe o consumidor de separá-la. Ela apenas torna o descarte conjunto o caminho mais fácil.
 
-A vantagem dessa técnica é dispensar a fiscalização do comportamento individual, que é difusa, cara e pouco eficaz, e concentrar o controle em poucos agentes (fabricantes de pré-formas e de tampas, e envasadoras), verificável por ensaio técnico. A limitação é que o desenho não age sozinho: se a garrafa inteira for descartada de forma inadequada, a tampa presa vai junto. Por isso a medida só produz todo o seu efeito quando acompanhada de coleta seletiva e de incentivos ao retorno da embalagem. Esse ponto será retomado na seção 4.
+A vantagem dessa técnica é dispensar a fiscalização do comportamento individual, que é difusa, cara e pouco eficaz, e concentrar o controle em poucos agentes (fabricantes de pré-formas e de tampas, e envasadoras), verificável por ensaio técnico. A limitação é que o desenho não age sozinho: se a garrafa inteira for descartada de forma inadequada, a tampa presa vai junto. Por isso a medida só produz todo o seu efeito quando acompanhada de coleta seletiva e de incentivos ao retorno da embalagem. Esse ponto será retomado na seção 4. A rigor, a tampa presa não é um *nudge*, que preserva a escolha por meio da apresentação das opções, mas uma forma de regulação pelo desenho (*design-based regulation*), na qual a norma se incorpora ao próprio artefato e torna a conduta indesejada mais custosa (YEUNG, 2008). A literatura de *smart regulation* sustenta que instrumentos desse tipo rendem mais quando combinados com instrumentos econômicos e informacionais complementares, e não como substitutos (GUNNINGHAM; GRABOSKY, 1998). A sequência que se propõe adiante (adesão voluntária, incentivo e obrigação) corresponde, por sua vez, à lógica escalonada da regulação responsiva (AYRES; BRAITHWAITE, 1992).
 
 ### 2.4 Precaução, prevenção e o ônus da evidência
 
@@ -96,7 +98,7 @@ A singularidade portuguesa é a cronologia. Em **10 de abril de 2026**, entrou e
 
 ### 3.4 Itália
 
-A Itália transpôs a Diretiva pelo Decreto Legislativo 196, de 8 de novembro de 2021. O decreto reproduz a obrigação dos *tappi solidali* a partir de 3 de julho de 2024 e prevê sanção administrativa pecuniária de 2.500 a 25.000 euros (art. 6, c. 1, e art. 14, c. 1; CAMERA DI COMMERCIO DI TORINO, 2024; ITÁLIA, 2021). Segundo a literatura especializada, a transposição italiana ficou conhecida por buscar margens de flexibilidade em relação às proibições de mercado, por exemplo, para revestimentos plásticos de peso reduzido e para produtos de plástico biodegradável e compostável. Isso gerou debate sobre a conformidade com a Diretiva, que não exclui esses materiais do conceito de plástico.
+A Itália transpôs a Diretiva pelo Decreto Legislativo 196, de 8 de novembro de 2021. O decreto reproduz a obrigação dos *tappi solidali* a partir de 3 de julho de 2024 e prevê sanção administrativa pecuniária de 2.500 a 25.000 euros (art. 6, c. 1, e art. 14, c. 1; CAMERA DI COMMERCIO DI TORINO, 2024; ITÁLIA, 2021).
 
 No plano fiscal, a experiência italiana é um contraexemplo instrutivo. A *plastic tax* sobre os *manufatti con singolo impiego* (MACSI), instituída pela Lei de Orçamento de 2020 (Lei 160/2019) à alíquota de 0,45 euro por quilograma de plástico virgem, nunca entrou em vigor. Foi adiada sucessivamente, pela última vez para 1º de janeiro de 2027 (ARGUS MEDIA, 2025; RENEWABLE MATTER, 2025). Em novembro de 2026, discutia-se no projeto de lei orçamentária de 2027 novo adiamento, para 1º de julho de 2027. O caso italiano mostra que o instrumento tributário ambiental é politicamente vulnerável quando não vem acompanhado de transição crível e de compensações setoriais. Por contraste, o requisito de desenho, que não tem custo fiscal, foi implementado na data prevista.
 
@@ -104,7 +106,7 @@ No plano fiscal, a experiência italiana é um contraexemplo instrutivo. A *plas
 
 A Alemanha transpôs o art. 6º, n. 1, da Diretiva por meio do § 3º da *Einwegkunststoffkennzeichnungsverordnung* (EWKKennzV), regulamento sobre a composição e a marcação de determinados produtos plásticos de uso único (ALEMANHA, 2021; IHK BRAUNSCHWEIG, 2024). O traço distintivo alemão é o ambiente institucional em que o requisito se insere:
 
-a) **depósito obrigatório (*Einwegpfand*)**: a Alemanha mantém, desde 2003, depósito obrigatório para recipientes de bebidas descartáveis, hoje regulado pela Lei de Embalagens (*Verpackungsgesetz*), com taxas de retorno muito elevadas. Num país em que a garrafa já retorna quase sempre ao comércio, a tampa presa tem efeito marginal sobre o lixo disperso, mas aumenta a captura do material da tampa no fluxo de reciclagem;
+a) **depósito obrigatório (*Einwegpfand*)**: a Alemanha mantém, desde 2003, depósito obrigatório para recipientes de bebidas descartáveis, hoje regulado pela Lei de Embalagens (*Verpackungsgesetz*), com taxas de retorno muito elevadas. Num país em que o depósito obrigatório já induz o retorno das garrafas ao comércio, a tampa presa tem efeito marginal sobre o lixo disperso, mas aumenta a captura do material da tampa no fluxo de reciclagem;
 
 b) **fundo de plásticos de uso único (*Einwegkunststofffonds*)**: a Lei do Fundo de Plásticos de Uso Único (*Einwegkunststofffondsgesetz*, 2023) instituiu uma contribuição especial paga pelos fabricantes, devida desde 2024 e recolhida pela primeira vez em 2025. Ela financia os custos públicos de limpeza urbana. As alíquotas, fixadas pelo regulamento EWKFondsV (BGBl. 2023 I Nr. 274), variam por categoria de produto – por exemplo, 0,181 euro por quilograma para recipientes de bebidas **não sujeitos a depósito** (EBNER STOLZ, 2025). O desenho é engenhoso: o produto que já se submete ao depósito tem menor potencial de dispersão e, por isso, recebe tratamento distinto.
 
@@ -120,6 +122,8 @@ Mesmo sem obrigação legal, a indústria de bebidas tem adotado tampas presas t
 
 ### 3.7 Síntese comparativa e lições
 
+**Quadro 1** – Requisito de fecho preso e instrumentos associados, por jurisdição (situação em novembro de 2026)
+
 | Jurisdição | Tampa presa | Depósito e devolução | Instrumento fiscal sobre plástico | Lição principal |
 |---|---|---|---|---|
 | União Europeia | Obrigatória desde 3/7/2024 (Dir. 2019/904, art. 6º; EN 17665) | Meta de 90% de coleta até 2029; PPWR | Recurso próprio da UE de 0,80 €/kg sobre resíduos de embalagens plásticas não reciclados, pago pelos Estados-membros (Decisão (UE, Euratom) 2020/2053) | Requisito essencial com norma harmonizada |
@@ -131,19 +135,21 @@ Mesmo sem obrigação legal, a indústria de bebidas tem adotado tampas presas t
 | Reino Unido (Irlanda do Norte) | Obrigatória (Quadro de Windsor) | DRS a partir de out. 2027 | *Plastic Packaging Tax* | Regimes distintos dentro de um mesmo Estado |
 | Brasil | Inexistente (PL 3.615/2024; projetos estaduais) | Inexistente | Inexistente | Ver seções 5 a 8 |
 
-*Fonte: elaboração do autor, com base nas normas e fontes citadas.*
+Fonte: elaborado pelo autor (2026), com base nas normas e fontes citadas.
 
 A comparação revela três modelos: (i) o **regulatório**, em que o desenho é obrigatório (Espanha, Portugal, Itália, Alemanha, Irlanda do Norte); (ii) o **econômico**, em que a tributação do plástico não reciclado e o depósito induzem o comportamento sem impor o desenho (Grã-Bretanha); e (iii) o **combinado**, que articula os dois (Espanha e Alemanha). O Brasil não pertence a nenhum deles. A proposta deste artigo é uma via combinada adaptada ao federalismo brasileiro: obrigação com transição, precedida de uma fase de adesão antecipada induzida por incentivos.
 
 ## 4 O que a evidência diz: efeitos, críticas e limites
 
-Uma análise rigorosa precisa reconhecer que a evidência empírica sobre o efeito **isolado** do requisito ainda é limitada, e isso por três razões.
+Uma análise rigorosa precisa reconhecer que a evidência empírica sobre o efeito **isolado** do requisito ainda é limitada, e isso por quatro razões.
 
 Primeiro, a medida é recente (julho de 2024), e a avaliação formal da Diretiva SUP ainda estava em curso. Uma avaliação da sociedade civil publicada em dezembro de 2024 registrou que não era possível, até então, aferir com clareza a eficácia da medida de desenho no conjunto da União (RETHINK PLASTIC ALLIANCE, 2024).
 
 Segundo, há problemas de identificação causal. Comentários críticos apontam que, nos Países Baixos, a queda na contagem de tampas no lixo disperso coincidiu com a ampliação do sistema de depósito para garrafas pequenas, que reduziu fortemente o número de garrafas abandonadas. Isso torna difícil atribuir o resultado à tampa presa e não ao depósito (ADAM SMITH INSTITUTE, 2025). A crítica vem de um *think tank* com posição ideológica definida e deve ser lida com cautela, mas a objeção metodológica é pertinente.
 
-Terceiro, a aceitação pelo consumidor é um fator relevante. Estudo do Conselho de Consumidores do DIN, o instituto alemão de normalização, identificou dificuldades de abrir, fechar, servir e beber com tampas presas, especialmente para crianças, idosos e pessoas com limitações físicas. Os entrevistados perceberam pouco benefício ambiental (DIN VERBRAUCHERRAT, 2024). Pesquisa encomendada por fabricante de equipamentos, realizada em 2020, antes da obrigatoriedade, com mais de 3.200 europeus, indicou que apenas 26% dos respondentes acreditavam que a medida reduziria o lixo disperso (SIDEL, 2021). Gajdoš Kljusurić e Čačić (2026), em estudo com consumidores croatas antes e depois da implementação (levantamentos de 2024 e 2025), relatam atitudes predominantemente negativas quanto ao manuseio, embora a concordância com a justificativa ambiental tenha aumentado de forma significativa após a implementação. Os autores levantam ainda hipóteses sobre aumento da massa de plástico por unidade e efeitos sobre a reciclagem, que merecem investigação.
+Terceiro, a aceitação pelo consumidor é um fator relevante. Estudo do Conselho de Consumidores do DIN, o instituto alemão de normalização, identificou dificuldades de abrir, fechar, servir e beber com tampas presas, especialmente para crianças, idosos e pessoas com limitações físicas. Os entrevistados perceberam pouco benefício ambiental (DIN VERBRAUCHERRAT, 2024). Pesquisa encomendada por fabricante de equipamentos de envase, portanto fonte interessada, realizada em 2020, antes da obrigatoriedade, com mais de 3.200 europeus, indicou que apenas 26% dos respondentes acreditavam que a medida reduziria o lixo disperso (SIDEL, 2021). Gajdoš Kljusurić e Čačić (2026), em estudo com consumidores croatas antes e depois da implementação (levantamentos de 2024 e 2025), relatam atitudes predominantemente negativas quanto ao manuseio, embora a concordância com a justificativa ambiental tenha aumentado de forma significativa após a implementação. Os autores levantam ainda hipóteses sobre aumento da massa de plástico por unidade e efeitos sobre a reciclagem, que merecem investigação.
+
+Quarto, há objeções de custo e de balanço ambiental. Estudo da PwC encomendado pelas associações europeias de refrigerantes (UNESDA) e de águas engarrafadas (EFBW) estimou que a medida exigiria entre 50 mil e 200 mil toneladas adicionais de plástico e até 381 milhões de quilogramas de CO₂ equivalente, conforme a solução técnica, e as entidades apontaram a ausência de avaliação de impacto específica (NEW FOOD MAGAZINE, 2018). Trata-se de estimativa interessada, anterior à otimização dos desenhos, mas que impõe ao legislador brasileiro o ônus de controlar a massa adicional. Em sentido inverso, a evidência revisada por pares sugere complementaridade entre desenho e depósito: Schuyler *et al.* (2018) verificaram, na Austrália e nos Estados Unidos, cerca de 40% menos recipientes de bebidas no lixo costeiro onde há depósito, mas encontraram mais tampas nessas jurisdições, porque o depósito alcança o recipiente e não o fecho. A escassez de avaliações *ex post* é, aliás, traço comum das políticas sobre plásticos de uso único (XANTHOS; WALKER, 2017; SCHNURR *et al.*, 2018).
 
 Esses achados não invalidam a medida, mas qualificam seu desenho regulatório. Deles decorrem quatro implicações:
 
@@ -156,7 +162,7 @@ Esses achados não invalidam a medida, mas qualificam seu desenho regulatório. 
 
 ### 5.1 Base constitucional
 
-O art. 225 da Constituição consagra o direito ao meio ambiente ecologicamente equilibrado e impõe ao Poder Público controlar a produção e a comercialização de técnicas, métodos e substâncias que comportem risco para a qualidade de vida e o meio ambiente (§ 1º, V). O art. 170, VI, eleva a defesa do meio ambiente a princípio da ordem econômica e admite tratamento diferenciado conforme o impacto ambiental dos produtos. O requisito de tampa presa é, nesse quadro, uma conformação legítima da livre iniciativa. Ele não proíbe atividade econômica; apenas define uma característica do produto em função de seu impacto.
+O art. 225 da Constituição consagra o direito ao meio ambiente ecologicamente equilibrado e impõe ao Poder Público controlar a produção e a comercialização de técnicas, métodos e substâncias que comportem risco para a qualidade de vida e o meio ambiente (§ 1º, V). O art. 170, VI, eleva a defesa do meio ambiente a princípio da ordem econômica e admite tratamento diferenciado conforme o impacto ambiental dos produtos. O requisito de tampa presa é, nesse quadro, uma conformação legítima da livre iniciativa. Ele não proíbe atividade econômica; apenas define uma característica do produto em função de seu impacto. A legitimidade da conformação, porém, não dispensa o controle de necessidade. A Lei 13.874/2019 qualifica como abuso do poder regulatório "exigir especificação técnica que não seja necessária para atingir o fim desejado" (art. 4º, III) e impõe análise de impacto regulatório aos atos normativos da administração federal (art. 5º). Uma norma de desenho deve, portanto, demonstrar a relação entre o requisito e o fim ambiental, o que reforça a exigência de linha de base e monitoramento defendida na seção 4.
 
 ### 5.2 Legislação federal
 
@@ -176,6 +182,8 @@ Segundo o 13º Censo da Reciclagem do PET, o Brasil reciclou 410 mil toneladas d
 
 ### 5.5 Síntese comparativa
 
+**Quadro 2** – Brasil e União Europeia/Espanha: instrumentos aplicáveis aos fechos e às embalagens de bebidas (situação em novembro de 2026)
+
 | Dimensão | União Europeia / Espanha | Brasil (nov. 2026) |
 |---|---|---|
 | Requisito de tampa presa (≤ 3 L, plástico) | Obrigatório desde 3/7/2024 | Inexistente; PL 3.615/2024 e projetos estaduais |
@@ -187,7 +195,7 @@ Segundo o 13º Censo da Reciclagem do PET, o Brasil reciclou 410 mil toneladas d
 | Instrumento fiscal | 0,45 €/kg sobre plástico não reciclado (Espanha) | Inexistente |
 | Depósito e devolução | SDDR com prazo em nov. 2026 (Espanha) | Inexistente em escala nacional |
 
-*Fonte: elaboração do autor, com base nas normas e fontes citadas.*
+Fonte: elaborado pelo autor (2026), com base nas normas e fontes citadas.
 
 ## 6 Federalismo ambiental: pode o Estado legislar sobre tampas presas?
 
@@ -195,26 +203,28 @@ Segundo o 13º Censo da Reciclagem do PET, o Brasil reciclou 410 mil toneladas d
 
 A matéria envolve produção e consumo, proteção do meio ambiente e controle da poluição, e responsabilidade por dano ao meio ambiente e ao consumidor. Todos esses temas estão no rol de competência legislativa concorrente da União, dos Estados e do Distrito Federal (CF, art. 24, V, VI e VIII). Nesse regime, à União cabem as normas gerais (§ 1º), e aos Estados, a competência suplementar (§ 2º). **Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena** para atender a suas peculiaridades (§ 3º), e a superveniência de lei federal suspende a eficácia da lei estadual no que lhe for contrário (§ 4º).
 
-A PNRS é norma geral sobre resíduos e embalagens, mas não dispõe sobre fechos. Pode-se sustentar que a lei estadual sobre tampas presas constitui exercício de competência suplementar, porque concretiza o art. 32 da PNRS, ou, alternativamente, competência plena diante da lacuna federal específica. Em ambas as leituras, a iniciativa estadual tem fundamento, desde que não contrarie a norma geral.
+A PNRS é norma geral sobre resíduos e embalagens, mas não dispõe sobre fechos. A doutrina tem destacado que a repartição do art. 24 não opera por campos estanques, mas por intensidade: a norma geral fixa diretrizes nacionalmente uniformes, e a suplementação estadual as adapta a peculiaridades regionais, sem inaugurar regime paralelo (ALMEIDA, 2013; ANTUNES, 2007).
+
+Pode-se sustentar que a lei estadual sobre tampas presas constitui exercício de competência suplementar, porque concretiza o art. 32 da PNRS, ou, alternativamente, competência plena diante da lacuna federal específica. A segunda leitura, porém, é frágil. A PNRS (art. 32) e o Decreto 12.688/2025 já disciplinam especificamente as embalagens plásticas, de modo que dificilmente se reconhecerá a inexistência de norma geral federal exigida pelo art. 24, § 3º. A lacuna quanto aos fechos é de pormenor, não de regime. O fundamento mais seguro é, portanto, a competência suplementar (art. 24, § 2º): a lei estadual deve apresentar-se como concretização das diretrizes federais de reciclabilidade e logística reversa, e não como regime autônomo. Foi precisamente a inauguração de "regulamentação paralela" que levou o STF a invalidar a lei paranaense sobre rotulagem de transgênicos (ADI 3.645).
 
 ### 6.2 A jurisprudência do Supremo Tribunal Federal
 
 A jurisprudência do STF oferece parâmetros favoráveis e cautelas.
 
-**Parâmetros favoráveis.** No RE 732.686 (Tema 970 da repercussão geral), o Tribunal fixou a tese de que "é constitucional – formal e materialmente – lei municipal que obriga à substituição de sacos e sacolas plásticos por sacos e sacolas biodegradáveis". Entendeu que a norma local regulamenta diretriz da Política Nacional de Resíduos Sólidos e não ofende a livre iniciativa nem a proporcionalidade (BRASIL, 2022b). Se o Município, com base no interesse local, pode impor características ambientais a embalagens, *a fortiori* o Estado pode fazê-lo no exercício da competência concorrente. Na ADI 3.937, ao validar lei paulista que proibia o amianto, o Tribunal admitiu que a legislação estadual seja mais protetiva que a federal em matéria de saúde e meio ambiente, declarando incidentalmente a inconstitucionalidade do art. 2º da Lei federal 9.055/1995 (BRASIL, 2017).
+**Parâmetros favoráveis.** No RE 732.686 (Tema 970 da repercussão geral), o Tribunal fixou a tese de que "é constitucional – formal e materialmente – lei municipal que obriga à substituição de sacos e sacolas plásticos por sacos e sacolas biodegradáveis". Entendeu que a norma local regulamenta diretriz da Política Nacional de Resíduos Sólidos e não ofende a livre iniciativa nem a proporcionalidade (BRASIL, 2022b). O precedente, contudo, não se transpõe sem mediação. As sacolas são fornecidas e consumidas no comércio local, ao passo que o recipiente de bebida é fabricado em escala nacional e circula entre Estados, e a exigência de desenho atinge a linha de produção, não apenas o ato de venda. Do Tema 970 extrai-se a legitimidade material de impor características ambientais a embalagens em concretização da PNRS, mas não um argumento *a fortiori* quanto à intensidade da intervenção estadual, que deve ser aferida à luz dos precedentes sobre produtos de circulação nacional examinados a seguir. Na ADI 3.937, ao validar lei paulista que proibia o amianto, o Tribunal admitiu que a legislação estadual seja mais protetiva que a federal em matéria de saúde e meio ambiente, declarando incidentalmente a inconstitucionalidade do art. 2º da Lei federal 9.055/1995 (BRASIL, 2017a).
 
-**Cautelas.** O STF tem invalidado normas estaduais que impõem restrições desproporcionais a fornecedores de outros Estados ou que contrariam a legislação federal. Foi o caso de lei fluminense sobre informações em embalagens de alimentos (ADI 750, rel. Min. Gilmar Mendes, j. 3 ago. 2017; CONJUR, 2017). Em 2025, invalidou lei paraibana (Lei 9.771/2012) que obrigava supermercados a fornecer sacolas gratuitamente, por violação à livre iniciativa (ADI 7.719/PB, rel. Min. Dias Toffoli, j. 18 ago. 2025; CONJUR, 2025). Desses precedentes se extraem condições de validade:
+**Cautelas.** O STF tem invalidado normas estaduais que impõem restrições desproporcionais a fornecedores de outros Estados ou que contrariam a legislação federal. Na ADI 750, invalidou lei fluminense que impunha informações em embalagens de alimentos, por reconhecer a predominância do interesse nacional e a necessidade de harmonização no âmbito do Mercosul (BRASIL, 2017b). Na ADI 3.645, declarou inconstitucional lei paranaense que exigia a rotulagem de transgênicos em qualquer percentual, por inaugurar regulamentação paralela e contraposta à federal (BRASIL, 2006b). Na ADI 4.619, ao contrário, validou lei paulista apenas ligeiramente mais rigorosa que a norma federal e distinguiu expressamente o caso paranaense (BRASIL, 2020). No Tema 145 (RE 586.224), invalidou lei municipal que proibia de forma absoluta a queima da palha da cana por contrariar a disciplina gradual estadual, o que mostra que a norma mais protetiva não prevalece por si só (BRASIL, 2015b). E, na ADI 7.719/PB (rel. Min. Dias Toffoli, j. 18 ago. 2025), invalidou lei paraibana (Lei 9.771/2012) que obrigava supermercados a fornecer sacolas gratuitamente, por violação à livre iniciativa (BRASIL, 2025d). O contraste entre a ADI 3.645 e a ADI 4.619 fornece o critério decisivo: a lei estadual pode intensificar a proteção dentro da moldura federal, mas não instituir requisito de natureza diversa que obrigue a cadeia nacional a se reorganizar. Desses precedentes se extraem condições de validade:
 
 1. **Não contrariar a norma geral federal**: a lei estadual deve se apresentar como concretização da PNRS e do Decreto 12.688/2025, e não como regime paralelo.
 2. **Proporcionalidade**: a medida deve ser adequada (há relação plausível entre meio e fim), necessária (não há meio igualmente eficaz e menos gravoso) e proporcional em sentido estrito (os custos não superam os benefícios). Transição adequada e alinhamento a padrões técnicos já existentes reduzem o custo e fortalecem a necessidade.
-3. **Neutralidade em relação ao comércio interestadual**: a exigência deve valer igualmente para produtos fabricados no Estado e fora dele, e deve aceitar como conformes os produtos que atendam ao padrão internacional. Isso evita a necessidade de linhas de envase específicas para um único Estado, visto que grandes fabricantes exportadores já produzem para o mercado europeu.
+3. **Neutralidade em relação ao comércio interestadual**: a exigência deve valer igualmente para produtos fabricados no Estado e fora dele, e deve aceitar como conformes os produtos que atendam ao padrão internacional. Isso evita a necessidade de linhas de envase específicas para um único Estado, visto que grandes fabricantes exportadores já produzem para o mercado europeu. A exigência deve ainda respeitar a disciplina sanitária dos materiais plásticos em contato com alimentos, harmonizada no Mercosul (RDC ANVISA 56/2012, que incorpora a Res. GMC 02/2012), e, no plano federal, o Acordo sobre Barreiras Técnicas ao Comércio (Decreto 1.355/1994), que exige que regulamentos técnicos não sejam mais restritivos ao comércio do que o necessário e se baseiem em normas internacionais, quando existentes (arts. 2.2 e 2.4).
 4. **Respeito à iniciativa reservada**: a lei de iniciativa parlamentar não deve criar órgãos nem dispor sobre a estrutura ou as atribuições de órgãos do Executivo (CF, art. 61, § 1º, II, *e*, aplicado por simetria). Segundo o Tema 917 da repercussão geral, não usurpa a competência privativa do Chefe do Executivo a lei que, embora crie despesa, não trate da estrutura ou da atribuição de seus órgãos nem do regime jurídico de servidores (BRASIL, 2016).
 
 ### 6.3 Federal ou estadual?
 
 Do ponto de vista da eficiência, a **norma geral federal é preferível**. Ela evita a fragmentação do mercado, permite uma norma técnica nacional única e integra diretamente o requisito ao Decreto 12.688/2025. A lei estadual, contudo, tem duas funções legítimas no federalismo cooperativo: (a) **indução**, porque coloca o tema na agenda e cria um ambiente de teste, como ocorreu com as leis municipais sobre sacolas antes do Tema 970; e (b) **proteção suplementar**, em Estados com litoral, bacias hidrográficas sensíveis ou pressão turística, que têm interesse peculiar na redução do lixo disperso. A cláusula do art. 24, § 4º, garante que a superveniência da lei federal resolva eventuais conflitos.
 
-## 7 Adesão antecipada no plano estadual e incentivos: o que o federalismo fiscal permite
+## 7 Indução à adesão antecipada e limites do federalismo fiscal
 
 A seção anterior tratou da **obrigação**. Esta trata da **indução**: como estimular as empresas a adotar a tampa presa antes que a exigência seja geral, e se o Estado pode oferecer incentivos fiscais aos produtos que a incorporem. A pergunta tem relevância prática. As envasadoras que exportam para a União Europeia já dominam a tecnologia. Para as demais, sobretudo as de pequeno e médio porte, o custo de troca de moldes e de terminais de envase é a principal barreira. Um incentivo bem desenhado pode antecipar a adaptação e reduzir a resistência à futura obrigação.
 
@@ -222,13 +232,13 @@ A seção anterior tratou da **obrigação**. Esta trata da **indução**: como 
 
 A ideia de que as unidades federadas podem testar soluções antes de sua generalização nacional é antiga no constitucionalismo federal. Ela foi formulada por Louis Brandeis, para quem um único Estado corajoso pode servir de laboratório e experimentar novos arranjos sociais e econômicos sem risco para o restante do país (ESTADOS UNIDOS, 1932). No Brasil, a trajetória das leis municipais sobre sacolas plásticas, validadas pelo STF no Tema 970, ilustra o mesmo movimento: a experiência local antecede e informa a solução nacional.
 
-A adesão antecipada voluntária tem três vantagens. Primeiro, **distribui no tempo o custo de adaptação**: quem se adapta antes pode aproveitar o ciclo natural de substituição de moldes. Segundo, **gera evidência**: as empresas pioneiras e as cooperativas que recebem seu material produzem os dados de linha de base que a seção 4 mostrou faltarem. Terceiro, **cria um grupo de interesse favorável à regra**: quem já investiu na adaptação passa a apoiar a exigência geral, que nivela a concorrência. Esse mecanismo de economia política é bem conhecido na regulação ambiental.
+A adesão antecipada voluntária tem três vantagens. Primeiro, **distribui no tempo o custo de adaptação**: quem se adapta antes pode aproveitar o ciclo natural de substituição de moldes. Segundo, **gera evidência**: as empresas pioneiras e as cooperativas que recebem seu material produzem os dados de linha de base que a seção 4 mostrou faltarem. Terceiro, **cria um grupo de interesse favorável à regra**: quem já investiu na adaptação passa a apoiar a exigência geral, que nivela a concorrência. Esse mecanismo é ambivalente. A coalizão entre interesses ambientais e empresas já adaptadas, que passam a ganhar com a regra, é descrita na literatura como "bootleggers and baptists" (YANDLE, 1983). Ela confere estabilidade à norma, mas pode convertê-la em barreira à entrada de concorrentes menores. Daí a importância da transição longa e do tratamento diferenciado das micro e pequenas empresas (CF, art. 179).
 
 A adesão antecipada pode ser estimulada por instrumentos tributários e não tributários. Os primeiros, porém, encontram limites constitucionais rigorosos no plano estadual.
 
 ### 7.2 Os limites do incentivo de ICMS
 
-O tributo estadual que incide sobre a circulação de bebidas e embalagens é o ICMS. A Constituição determina que cabe à lei complementar regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados (CF, art. 155, § 2º, XII, *g*). A Lei Complementar 24/1975 exige, para tanto, convênio celebrado no âmbito do Conselho Nacional de Política Fazendária (CONFAZ). O STF tem declarado inconstitucionais os benefícios de ICMS concedidos unilateralmente. O próprio Paraná teve dispositivos da Lei 14.985/2006 declarados inconstitucionais por conceder, sem convênio, crédito presumido e outros benefícios de ICMS nas importações realizadas por seus portos e aeroportos (ADI 4.481/PR), em julgamento que, pela primeira vez em matéria de guerra fiscal, modulou os efeitos da decisão (BRASIL, 2015).
+O tributo estadual que incide sobre a circulação de bebidas e embalagens é o ICMS. A Constituição determina que cabe à lei complementar regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados (CF, art. 155, § 2º, XII, *g*). A Lei Complementar 24/1975 exige, para tanto, convênio celebrado no âmbito do Conselho Nacional de Política Fazendária (CONFAZ). O STF tem declarado inconstitucionais os benefícios de ICMS concedidos unilateralmente. O próprio Paraná teve dispositivos da Lei 14.985/2006 declarados inconstitucionais por conceder, sem convênio, crédito presumido e outros benefícios de ICMS nas importações realizadas por seus portos e aeroportos (ADI 4.481/PR), em julgamento que modulou os efeitos da decisão (BRASIL, 2015a).
 
 Duas outras exigências se somam. O art. 150, § 6º, da Constituição exige lei específica para qualquer benefício fiscal. O art. 14 da Lei de Responsabilidade Fiscal (LC 101/2000) e o art. 113 do ADCT exigem estimativa do impacto orçamentário e financeiro e, conforme o caso, medidas de compensação. Não há, por outro lado, reserva de iniciativa do Executivo para leis tributárias, inclusive as que concedem renúncia fiscal (Tema 682 da repercussão geral; BRASIL, 2013). Um parlamentar pode, portanto, propor o incentivo, desde que respeite essas exigências.
 
@@ -236,7 +246,7 @@ Conclui-se que **uma lei estadual não pode, sozinha, conceder isenção, reduç
 
 ### 7.3 A reforma tributária e o horizonte do incentivo
 
-A Emenda Constitucional 132/2023 alterou de forma profunda esse cenário. De um lado, inseriu a **defesa do meio ambiente** entre os princípios que o Sistema Tributário Nacional deve observar (CF, art. 145, § 3º), o que reforça a legitimidade da tributação com finalidade ambiental (extrafiscal). De outro, criou o Imposto sobre Bens e Serviços (IBS), que substituirá o ICMS, e vedou expressamente a concessão de incentivos e benefícios financeiros ou fiscais relativos a ele, ressalvadas as hipóteses previstas na própria Constituição (CF, art. 156-A, § 1º, X). Na transição, o ICMS e os benefícios a ele vinculados são reduzidos progressivamente entre 2029 e 2032, e o imposto deixa de existir em 2033 (BRASIL, 2023; 2025b).
+A Emenda Constitucional 132/2023 alterou de forma profunda esse cenário. De um lado, inseriu a **defesa do meio ambiente** entre os princípios que o Sistema Tributário Nacional deve observar (CF, art. 145, § 3º), o que reforça a legitimidade da tributação com finalidade ambiental (extrafiscal). A extrafiscalidade, contudo, não dispensa os limites da capacidade contributiva, da isonomia e da proporcionalidade, e o tributo indutor deve guardar relação de pertinência entre o critério de discriminação e a finalidade ambiental perseguida (DERANI, 2008; GOUVÊA, 2006). De outro, criou o Imposto sobre Bens e Serviços (IBS), que substituirá o ICMS, e vedou expressamente a concessão de incentivos e benefícios financeiros ou fiscais relativos a ele, ressalvadas as hipóteses previstas na própria Constituição (CF, art. 156-A, § 1º, X). Na transição, o ICMS e os benefícios a ele vinculados são reduzidos progressivamente entre 2029 e 2032, e o imposto deixa de existir em 2033 (BRASIL, 2023; 2025b).
 
 A consequência é clara: **um incentivo de ICMS criado agora teria vida curta**. Ele começaria a ser reduzido em 2029 e se extinguiria com o próprio imposto. Pode fazer sentido como instrumento de transição, para financiar a troca de moldes num período de cinco a seis anos, mas não como política permanente. Depois de 2033, os Estados não poderão conceder incentivos de IBS por lei própria.
 
@@ -246,11 +256,11 @@ No plano federal, o IPI também perde espaço como instrumento de política ambi
 
 Diante desses limites, o Estado dispõe de instrumentos de indução mais seguros, que não dependem de convênio:
 
-a) **Compras públicas sustentáveis.** A Lei 14.133/2021 inclui o desenvolvimento nacional sustentável entre os objetivos da licitação (art. 11, IV). Seu art. 26, II, admite margem de preferência para bens reciclados, recicláveis ou biodegradáveis, conforme regulamento, de até 10% (§ 1º, II); o limite de 20% (§ 2º) é reservado a bens e serviços nacionais resultantes de desenvolvimento e inovação tecnológica no País. O Decreto 11.890/2024, alterado pelo Decreto 12.218/2024, regulamentou a matéria no plano federal, e os Estados podem adotar as margens fixadas pela União. O Estado pode, assim, dar preferência, nas suas aquisições de água e bebidas (hospitais, escolas, eventos), aos produtos com tampa presa e conteúdo reciclado.
+a) **Compras públicas sustentáveis.** A Lei 14.133/2021 inclui o desenvolvimento nacional sustentável entre os objetivos da licitação (art. 11, IV). Seu art. 26, II, admite margem de preferência para bens reciclados, recicláveis ou biodegradáveis, conforme regulamento, de até 10% (§ 1º, II); o limite de 20% (§ 2º) é reservado a bens e serviços nacionais resultantes de desenvolvimento e inovação tecnológica no País. O Decreto 11.890/2024, alterado pelo Decreto 12.218/2024, regulamentou a matéria no plano federal, e os Estados podem adotar as margens fixadas pela União. O critério legal da margem, porém, é o material do bem, e não seu desenho: a tampa presa não é, por si, "bem reciclado, reciclável ou biodegradável", e a margem só alcançará o produto pelo conteúdo reciclado. Para o fecho, o caminho mais seguro é a especificação do objeto, com critério de sustentabilidade justificado no estudo técnico preliminar. O Estado pode, assim, nas suas aquisições de água e bebidas (hospitais, escolas, eventos), exigir tampa presa como especificação e aplicar a margem ao conteúdo reciclado.
 
-b) **Fomento financeiro não vinculado ao ICMS.** As agências estaduais de fomento e os bancos regionais de desenvolvimento podem oferecer linhas de crédito com condições favorecidas para a troca de moldes e equipamentos, especialmente para micro e pequenas envasadoras. Há uma cautela essencial: o financiamento não pode ser calculado sobre o ICMS devido nem funcionar como devolução disfarçada do imposto. O STF trata esses arranjos como benefício financeiro-fiscal, igualmente sujeito a convênio.
+b) **Fomento financeiro não vinculado ao ICMS.** As agências estaduais de fomento e os bancos regionais de desenvolvimento podem oferecer linhas de crédito com condições favorecidas para a troca de moldes e equipamentos, especialmente para micro e pequenas envasadoras. Há uma cautela essencial: o financiamento não pode ser calculado sobre o ICMS devido nem funcionar como devolução disfarçada do imposto. Arranjos financeiros calculados sobre o imposto devido arriscam ser qualificados como benefício fiscal indireto, igualmente sujeito a convênio.
 
-c) **Taxas ambientais estaduais.** A redução de taxas estaduais de licenciamento e controle ambiental para quem comprove a adesão antecipada não depende do CONFAZ, que só alcança o ICMS. Depende, porém, de lei específica e da estimativa de impacto exigida pela LRF. Seu efeito econômico é modesto, mas o sinal regulatório é relevante.
+c) **Taxas ambientais estaduais.** A redução de taxas estaduais de licenciamento e controle ambiental para quem comprove a adesão antecipada não depende do CONFAZ, que só alcança o ICMS. Depende, porém, de lei específica e da estimativa de impacto exigida pela LRF. Seu efeito econômico é modesto, mas o sinal regulatório é relevante. Há, contudo, um limite: a taxa remunera o custo do exercício do poder de polícia (CF, art. 145, II), e a redução fundada em critério sem relação com esse custo pode ser questionada à luz da isonomia; a justificativa mais segura é a menor demanda de fiscalização sobre produtos certificados.
 
 d) **Instrumentos regulatórios e reputacionais.** São exemplos o selo oficial de adesão antecipada, o reconhecimento da adesão nos planos estaduais de logística reversa e a prioridade na análise de pedidos administrativos ambientais. Têm custo fiscal nulo e são compatíveis com a iniciativa parlamentar, desde que não criem atribuições novas para órgãos do Executivo.
 
@@ -285,7 +295,7 @@ A extensão do incentivo aos **lacres** encontra aqui sua via adequada. O lacre 
 
 ### 7.6 Critérios de desenho dos incentivos
 
-A literatura e a prática da tributação ambiental recomendam que incentivos dessa natureza sejam (TÔRRES, 2005):
+Todo incentivo tributário é gasto público indireto, que escapa ao ciclo orçamentário ordinário e tende a se perpetuar (SURREY, 1973); no ICMS, ademais, o benefício racional para o Estado isolado é danoso para a Federação (VARSANO, 1997). Mesmo instrumentos com evidência favorável, como a Lei do Bem, cujo efeito de adicionalidade sobre o gasto privado em P&D foi estimado empiricamente (KANNEBLEY JÚNIOR; SHIMADA; DE NEGRI, 2016), exigem avaliação contínua. A literatura e a prática da tributação ambiental recomendam, assim, que incentivos dessa natureza sejam (TÔRRES, 2005):
 
 1. **condicionados a resultado verificável**: concedidos mediante relatório de ensaio emitido por laboratório acreditado, segundo a EN 17665 ou a futura norma brasileira;
 2. **temporários e decrescentes**: concentrados no período anterior à exigibilidade da obrigação, com cláusula de extinção (*sunset clause*). Depois que a tampa presa se torna obrigatória, o incentivo perde a razão de ser;
@@ -322,7 +332,7 @@ j) **Pacote complementar**: estudos de viabilidade de sistemas de depósito e de
 
 O requisito europeu de tampas presas é uma intervenção regulatória simples, mas reveladora. Ele mostra como o direito ambiental pode atuar sobre o desenho dos produtos em vez de depender apenas do comportamento individual e da fiscalização difusa. A comparação entre Espanha, Portugal, Itália, Alemanha e Reino Unido evidencia três modelos: o regulatório, o econômico e o combinado. O requisito rende mais quando integrado a metas de coleta, conteúdo reciclado obrigatório, instrumentos econômicos e sistemas de depósito. Ela mostra ainda que o requisito de desenho, sem custo fiscal, tende a ser mais resiliente politicamente que os tributos ambientais (caso italiano) e que o padrão europeu se difunde mesmo onde não é obrigatório, por força do efeito Bruxelas (caso britânico).
 
-A hipótese foi confirmada com uma qualificação. O requisito é adequado como **componente** de uma política de economia circular do plástico, não como solução isolada. A evidência empírica sobre seu efeito autônomo na redução do lixo disperso ainda é incipiente e sujeita a fatores de confusão, e há objeções legítimas de usabilidade. Essas limitações recomendam um desenho normativo com requisitos de acessibilidade e reciclabilidade, monitoramento obrigatório e cláusula de revisão, e não o abandono da medida.
+A hipótese foi sustentada no plano argumentativo, com uma qualificação; sua parte empírica (a adequação) permanece dependente da avaliação que a própria norma deve prever. O requisito é adequado como **componente** de uma política de economia circular do plástico, não como solução isolada. A evidência empírica sobre seu efeito autônomo na redução do lixo disperso ainda é incipiente e sujeita a fatores de confusão, e há objeções legítimas de usabilidade. Essas limitações recomendam um desenho normativo com requisitos de acessibilidade e reciclabilidade, monitoramento obrigatório e cláusula de revisão, e não o abandono da medida.
 
 No plano jurídico, a medida cabe na competência concorrente do art. 24 da Constituição. A preferência é por uma norma geral federal, mas a lei estadual é viável se observar quatro condições extraídas da jurisprudência do STF: compatibilidade com a norma geral, proporcionalidade, neutralidade no comércio interestadual e respeito à iniciativa reservada do Executivo. Os Estados podem, assim, exercer papel indutor, como fizeram os Municípios no caso das sacolas plásticas.
 
@@ -334,33 +344,41 @@ Como agenda de pesquisa, sugerem-se: (i) estudos empíricos brasileiros, com lin
 
 ## Referências
 
-ALEMANHA. **Einwegkunststoffkennzeichnungsverordnung (EWKKennzV)**. Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten. Berlin: Bundesregierung, 2021.
-
-ALEMANHA. **Einwegkunststofffondsgesetz (EWKFondsG)**. Gesetz über den Einwegkunststofffonds, de 11 de maio de 2023. Bundesgesetzblatt 2023 I Nr. 124.
-
-ALEMANHA. **Einwegkunststofffondsverordnung (EWKFondsV)**, de 11 de outubro de 2023. Bundesgesetzblatt 2023 I Nr. 274.
+ABGI BRASIL. Redução dos incentivos fiscais: o que muda com a LC 224/2025. **ABGI**, 2026. Disponível em: https://abgi-brasil.com/reducao-incentivos-fiscais-lc-224-25/. Acesso em: 1 nov. 2026.
 
 ABIPET – ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DO PET. **13º Censo da Reciclagem do PET no Brasil**. São Paulo: ABIPET, 2025. Divulgação disponível em: https://petpla.net/2025/05/14/brazil-recycled-410000-t-of-pet-packaging-in-2024/. Acesso em: 1 nov. 2026.
 
-ABGI BRASIL. Redução dos incentivos fiscais: o que muda com a LC 224/2025. **ABGI**, 2026. Disponível em: https://abgi-brasil.com/reducao-incentivos-fiscais-lc-224-25/. Acesso em: 1 nov. 2026.
-
 ADAM SMITH INSTITUTE. What do fixed bottle tops achieve? **Adam Smith Institute Blog**, London, 2025. Disponível em: https://www.adamsmith.org/blog/what-do-fixed-bottle-tops-achieve. Acesso em: 1 nov. 2026.
-
-APA – AGÊNCIA PORTUGUESA DO AMBIENTE. **Plásticos de utilização única**: Diretiva (UE) 2019/904. Amadora: APA, 2024. Disponível em: https://apambiente.pt/sites/default/files/_Residuos/FluxosEspecificosResiduos/ERE/DSUP07062024.pdf. Acesso em: 1 nov. 2026.
-
-ARGUS MEDIA. Italy delays plastic tax to 2027. **Argus Media**, London, out. 2025. Disponível em: https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2742946-italy-delays-plastic-tax-to-2027. Acesso em: 1 nov. 2026.
 
 ADDAMO, Anna Maria; LAROCHE, Perrine; HANKE, Georg. **Top marine beach litter items in Europe**: a review and synthesis based on beach litter data. Luxembourg: Publications Office of the European Union, 2017. (JRC Technical Reports, EUR 29249 EN). DOI: 10.2760/496717.
 
 AGÊNCIA SENADO. Proposta torna obrigatória fixação de tampas em garrafas PET. **Senado Notícias**, Brasília, 4 out. 2024. Disponível em: https://www12.senado.leg.br/noticias/materias/2024/10/04/proposta-torna-obrigatoria-fixacao-de-tampas-em-garrafas-pet. Acesso em: 1 nov. 2026.
 
+ALEMANHA. **Einwegkunststoffkennzeichnungsverordnung (EWKKennzV)**. Verordnung über die Beschaffenheit und Kennzeichnung von bestimmten Einwegkunststoffprodukten. Berlin: Bundesregierung, 2021.
+
+ALEMANHA. **Einwegkunststofffondsgesetz (EWKFondsG)**. Gesetz über den Einwegkunststofffonds, de 11 de maio de 2023. Bundesgesetzblatt 2023 I Nr. 124, 2023a.
+
+ALEMANHA. **Einwegkunststofffondsverordnung (EWKFondsV)**, de 11 de outubro de 2023. Bundesgesetzblatt 2023 I Nr. 274, 2023b.
+
+ALMEIDA, Fernanda Dias Menezes de. **Competências na Constituição de 1988**. 6. ed. São Paulo: Atlas, 2013.
+
+ANTUNES, Paulo de Bessa. **Federalismo e competências ambientais no Brasil**. Rio de Janeiro: Lumen Juris, 2007.
+
+APA – AGÊNCIA PORTUGUESA DO AMBIENTE. **Plásticos de utilização única**: Diretiva (UE) 2019/904. Amadora: APA, 2024. Disponível em: https://apambiente.pt/sites/default/files/_Residuos/FluxosEspecificosResiduos/ERE/DSUP07062024.pdf. Acesso em: 1 nov. 2026.
+
+ARGUS MEDIA. Italy delays plastic tax to 2027. **Argus Media**, London, out. 2025. Disponível em: https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2742946-italy-delays-plastic-tax-to-2027. Acesso em: 1 nov. 2026.
+
+AYRES, Ian; BRAITHWAITE, John. **Responsive regulation**: transcending the deregulation debate. New York: Oxford University Press, 1992.
+
 BPF – BRITISH PLASTICS FEDERATION. Why all the fuss about tethered closures? **BPF**, London, 2024. Disponível em: https://www.bpf.co.uk/article/why-all-the-fuss-about-tethered-closures-3627.aspx. Acesso em: 1 nov. 2026.
 
 BRADFORD, Anu. **The Brussels effect**: how the European Union rules the world. New York: Oxford University Press, 2020.
 
+BRASIL. **Lei Complementar nº 24, de 7 de janeiro de 1975**. Dispõe sobre os convênios para a concessão de isenções do imposto sobre operações relativas à circulação de mercadorias. Brasília, DF: Presidência da República, 1975.
+
 BRASIL. [Constituição (1988)]. **Constituição da República Federativa do Brasil de 1988**. Brasília, DF: Presidência da República, 1988.
 
-BRASIL. **Lei Complementar nº 24, de 7 de janeiro de 1975**. Dispõe sobre os convênios para a concessão de isenções do imposto sobre operações relativas à circulação de mercadorias. Brasília, DF: Presidência da República, 1975.
+BRASIL. **Decreto nº 1.355, de 30 de dezembro de 1994**. Promulga a Ata Final que incorpora os resultados da Rodada Uruguai de Negociações Comerciais Multilaterais do GATT. Brasília, DF: Presidência da República, 1994.
 
 BRASIL. **Lei Complementar nº 101, de 4 de maio de 2000**. Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal. Brasília, DF: Presidência da República, 2000.
 
@@ -368,53 +386,65 @@ BRASIL. **Lei nº 10.973, de 2 de dezembro de 2004**. Dispõe sobre incentivos �
 
 BRASIL. **Lei nº 11.196, de 21 de novembro de 2005**. Institui, entre outros, incentivos fiscais à inovação tecnológica (Capítulo III, arts. 17 a 26). Brasília, DF: Presidência da República, 2005.
 
-BRASIL. **Decreto nº 5.798, de 7 de junho de 2006**. Regulamenta os incentivos fiscais às atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica, de que tratam os arts. 17 a 26 da Lei nº 11.196, de 2005. Brasília, DF: Presidência da República, 2006.
+BRASIL. **Decreto nº 5.798, de 7 de junho de 2006**. Regulamenta os incentivos fiscais às atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica, de que tratam os arts. 17 a 26 da Lei nº 11.196, de 2005. Brasília, DF: Presidência da República, 2006a.
+
+BRASIL. Supremo Tribunal Federal (Plenário). **Ação Direta de Inconstitucionalidade nº 3.645/PR**. Relatora: Min. Ellen Gracie, 31 maio 2006. Brasília, DF: STF, 2006b.
 
 BRASIL. **Lei nº 12.305, de 2 de agosto de 2010**. Institui a Política Nacional de Resíduos Sólidos. Brasília, DF: Presidência da República, 2010.
 
 BRASIL. Secretaria da Receita Federal do Brasil. **Instrução Normativa RFB nº 1.187, de 29 de agosto de 2011**. Disciplina os incentivos fiscais às atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica. Brasília, DF: RFB, 2011.
 
+BRASIL. Agência Nacional de Vigilância Sanitária. **Resolução RDC nº 56, de 16 de novembro de 2012**. Dispõe sobre a lista positiva de monômeros, outras substâncias iniciadoras e polímeros autorizados para a elaboração de embalagens e equipamentos plásticos em contato com alimentos. Brasília, DF: ANVISA, 2012.
+
+BRASIL. Supremo Tribunal Federal (Plenário). **Recurso Extraordinário com Agravo nº 743.480/MG** (Tema 682 da repercussão geral). Relator: Min. Gilmar Mendes, 10 out. 2013. Brasília, DF: STF, 2013.
+
+BRASIL. Supremo Tribunal Federal (Plenário). **Ação Direta de Inconstitucionalidade nº 4.481/PR**. Relator: Min. Roberto Barroso, 11 mar. 2015. Brasília, DF: STF, 2015a.
+
+BRASIL. Supremo Tribunal Federal (Plenário). **Recurso Extraordinário nº 586.224/SP** (Tema 145 da repercussão geral). Relator: Min. Luiz Fux, 5 mar. 2015. Brasília, DF: STF, 2015b.
+
+BRASIL. Supremo Tribunal Federal (Plenário). **Recurso Extraordinário com Agravo nº 878.911/RJ** (Tema 917 da repercussão geral). Relator: Min. Gilmar Mendes, 29 set. 2016. Brasília, DF: STF, 2016.
+
+BRASIL. Supremo Tribunal Federal (Plenário). **Ação Direta de Inconstitucionalidade nº 3.937/SP**. Redator do acórdão: Min. Dias Toffoli, 24 ago. 2017. Brasília, DF: STF, 2017a.
+
+BRASIL. Supremo Tribunal Federal (Plenário). **Ação Direta de Inconstitucionalidade nº 750/RJ**. Relator: Min. Gilmar Mendes, 3 ago. 2017. Brasília, DF: STF, 2017b.
+
+BRASIL. **Lei nº 13.874, de 20 de setembro de 2019**. Institui a Declaração de Direitos de Liberdade Econômica. Brasília, DF: Presidência da República, 2019.
+
+BRASIL. Supremo Tribunal Federal (Plenário). **Ação Direta de Inconstitucionalidade nº 4.619/SP**. Relatora: Min. Rosa Weber, 2020. Brasília, DF: STF, 2020.
+
 BRASIL. **Lei nº 14.133, de 1º de abril de 2021**. Lei de Licitações e Contratos Administrativos. Brasília, DF: Presidência da República, 2021.
+
+BRASIL. **Decreto nº 10.936, de 12 de janeiro de 2022**. Regulamenta a Lei nº 12.305, de 2 de agosto de 2010. Brasília, DF: Presidência da República, 2022a.
+
+BRASIL. Supremo Tribunal Federal (Plenário). **Recurso Extraordinário nº 732.686/SP** (Tema 970 da repercussão geral). Relator: Min. Luiz Fux, 19 out. 2022. Brasília, DF: STF, 2022b.
+
+BRASIL. Senado Federal. **Projeto de Lei nº 2.524, de 2022**. Autor: Senador Jean Paul Prates. Brasília, DF: Senado Federal, 2022c.
 
 BRASIL. **Emenda Constitucional nº 132, de 20 de dezembro de 2023**. Altera o Sistema Tributário Nacional. Brasília, DF: Congresso Nacional, 2023.
 
-BRASIL. **Decreto nº 10.936, de 12 de janeiro de 2022**. Regulamenta a Lei nº 12.305, de 2 de agosto de 2010. Brasília, DF: Presidência da República, 2022a.
+BRASIL. **Decreto nº 11.890, de 22 de janeiro de 2024**. Regulamenta o art. 26 da Lei nº 14.133, de 2021, para dispor sobre a aplicação da margem de preferência. Brasília, DF: Presidência da República, 2024a.
+
+BRASIL. Senado Federal. **Projeto de Lei nº 3.615, de 2024**. Autor: Senador Ciro Nogueira. Brasília, DF: Senado Federal, 2024b.
+
+BRASIL. **Decreto nº 12.082, de 27 de junho de 2024**. Institui a Estratégia Nacional de Economia Circular. Brasília, DF: Presidência da República, 2024c.
 
 BRASIL. **Decreto nº 12.688, de 21 de outubro de 2025**. Regulamenta o art. 32, § 1º, e o art. 33, § 1º, da Lei nº 12.305, de 2 de agosto de 2010, e institui o sistema de logística reversa de embalagens de plástico. Brasília, DF: Presidência da República, 2025a.
 
 BRASIL. **Lei Complementar nº 214, de 16 de janeiro de 2025**. Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS). Brasília, DF: Presidência da República, 2025b.
 
-BRASIL. **Decreto nº 11.890, de 22 de janeiro de 2024**. Regulamenta o art. 26 da Lei nº 14.133, de 2021, para dispor sobre a aplicação da margem de preferência. Brasília, DF: Presidência da República, 2024a.
-
-BRASIL. **Decreto nº 12.082, de 27 de junho de 2024**. Institui a Estratégia Nacional de Economia Circular. Brasília, DF: Presidência da República, 2024c.
-
 BRASIL. **Lei Complementar nº 224, de 26 de dezembro de 2025**. Dispõe sobre a redução de benefícios fiscais federais. Brasília, DF: Presidência da República, 2025c.
 
-BRASIL. Senado Federal. **Projeto de Lei nº 3.615, de 2024**. Autor: Senador Ciro Nogueira. Brasília, DF: Senado Federal, 2024b.
-
-BRASIL. Senado Federal. **Projeto de Lei nº 2.524, de 2022**. Autor: Senador Jean Paul Prates. Brasília, DF: Senado Federal, 2022c.
-
-BRASIL. Supremo Tribunal Federal (Plenário). **Recurso Extraordinário com Agravo nº 743.480/MG** (Tema 682 da repercussão geral). Relator: Min. Gilmar Mendes, 10 out. 2013. Brasília, DF: STF, 2013.
-
-BRASIL. Supremo Tribunal Federal (Plenário). **Ação Direta de Inconstitucionalidade nº 4.481/PR**. Relator: Min. Roberto Barroso, 11 mar. 2015. Brasília, DF: STF, 2015.
-
-BRASIL. Supremo Tribunal Federal (Plenário). **Recurso Extraordinário com Agravo nº 878.911/RJ** (Tema 917 da repercussão geral). Relator: Min. Gilmar Mendes, 29 set. 2016. Brasília, DF: STF, 2016.
-
-BRASIL. Supremo Tribunal Federal (Plenário). **Ação Direta de Inconstitucionalidade nº 3.937/SP**. Redator do acórdão: Min. Dias Toffoli, 24 ago. 2017. Brasília, DF: STF, 2017.
-
-BRASIL. Supremo Tribunal Federal (Plenário). **Recurso Extraordinário nº 732.686/SP** (Tema 970 da repercussão geral). Relator: Min. Luiz Fux, 19 out. 2022. Brasília, DF: STF, 2022b.
+BRASIL. Supremo Tribunal Federal (Plenário). **Ação Direta de Inconstitucionalidade nº 7.719/PB**. Relator: Min. Dias Toffoli, sessão virtual encerrada em 18 ago. 2025. Brasília, DF: STF, 2025d.
 
 BRODIES. Towards a UK deposit return scheme: UK Government reaffirms its commitment to an October 2027 launch. **Brodies LLP**, Edinburgh, 2025. Disponível em: https://brodies.com/insights/environmental-social-and-governance/towards-a-uk-deposit-return-scheme-uk-government-reaffirms-its-commitment-to-an-october-2027-launch/. Acesso em: 1 nov. 2026.
 
 CAMERA DI COMMERCIO DI TORINO. Direttiva SUP: dal 3 luglio i tappi attaccati alle bottiglie. **Portale Etichettatura**, Torino, 3 jul. 2024. Disponível em: https://portale-etichettatura.lab-to.camcom.it/news/2024/7/3/direttiva-sup-dal-3-luglio-i-tappi-attaccati-alle/. Acesso em: 1 nov. 2026.
 
-CONJUR. Após 25 anos, STF derruba lei estadual com regras para embalagens. **Consultor Jurídico**, São Paulo, 3 ago. 2017. Disponível em: https://www.conjur.com.br/2017-ago-03/25-anos-stf-derruba-lei-estadual-regras-embalagens/. Acesso em: 1 nov. 2026.
-
-CONJUR. STF invalida lei que obrigava distribuição de sacolas plásticas na Paraíba. **Consultor Jurídico**, São Paulo, 31 ago. 2025. Disponível em: https://conjur.com.br/2025-ago-31/stf-invalida-lei-que-obrigava-distribuicao-de-sacolas-plasticas-na-paraiba/. Acesso em: 1 nov. 2026.
-
 CONSUMER. ¿Por qué los tapones de plástico van ahora unidos a las botellas y los briks? **Consumer.es**, Bilbao, 2024. Disponível em: https://www.consumer.es/?p=457722. Acesso em: 1 nov. 2026.
 
 DAERA – DEPARTMENT OF AGRICULTURE, ENVIRONMENT AND RURAL AFFAIRS. **Single use plastics**. Belfast: DAERA, 2024. Disponível em: https://www.daera-ni.gov.uk/articles/single-use-plastic-directive. Acesso em: 1 nov. 2026.
+
+DERANI, Cristiane. **Direito ambiental econômico**. 3. ed. São Paulo: Saraiva, 2008.
 
 DGAE – DIREÇÃO-GERAL DAS ATIVIDADES ECONÓMICAS. **Sistema de Depósito e Reembolso**. Lisboa: DGAE, 2026. Disponível em: https://dgeconomia.gov.pt/comunicacao/noticias/sistema-de-deposito-e-reembolso.aspx. Acesso em: 1 nov. 2026.
 
@@ -426,33 +456,39 @@ ELLEN MACARTHUR FOUNDATION; WORLD ECONOMIC FORUM; MCKINSEY & COMPANY. **The New 
 
 ESG INSIGHTS. O que muda com o novo decreto de logística reversa de plásticos. **ESG Insights**, 2025. Disponível em: https://esginsights.com.br/o-que-muda-com-o-novo-decreto-de-logistica-reversa-de-plasticos/. Acesso em: 1 nov. 2026.
 
-ESTADOS UNIDOS. Supreme Court. **New State Ice Co. v. Liebmann**, 285 U.S. 262, 311 (1932). Voto divergente do *Justice* Louis D. Brandeis.
-
 ESPANHA. **Ley 7/2022, de 8 de abril**, de residuos y suelos contaminados para una economía circular. Boletín Oficial del Estado, Madrid, n. 85, 9 abr. 2022a.
 
 ESPANHA. **Real Decreto 1055/2022, de 27 de diciembre**, de envases y residuos de envases. Boletín Oficial del Estado, Madrid, n. 311, 28 dez. 2022b.
 
-EY. El nuevo impuesto especial sobre envases de plástico no reutilizables. **EY España**, Madrid, 2022. Disponível em: https://www.ey.com/es_es/the-cfo-agenda/el-nuevo-impuesto-especial-sobre-envases-de-plastico-no-reutilizables. Acesso em: 1 nov. 2026.
+ESTADOS UNIDOS. Supreme Court. **New State Ice Co. v. Liebmann**, 285 U.S. 262, 311 (1932). Voto divergente do *Justice* Louis D. Brandeis.
 
-GARRIGUES. Nuevas medidas tributarias de la Ley de residuos y suelos contaminados para una economía circular. **Garrigues**, Madrid, 2022. Disponível em: https://www.garrigues.com/es_ES/noticia/nuevas-medidas-tributarias-ley-residuos-suelos-contaminados-economia-circular. Acesso em: 1 nov. 2026.
+EY. El nuevo impuesto especial sobre envases de plástico no reutilizables. **EY España**, Madrid, 2022. Disponível em: https://www.ey.com/es_es/the-cfo-agenda/el-nuevo-impuesto-especial-sobre-envases-de-plastico-no-reutilizables. Acesso em: 1 nov. 2026.
 
 GAJDOŠ KLJUSURIĆ, Jasenka; ČAČIĆ, Jasna. Mandatory tethered caps on plastic beverage bottles: Croatian consumer perception and acceptance pre- and post-implementation of the EU Single-Use Plastic Directive. **Beverages**, Basel, v. 12, n. 4, art. 43, 2026. DOI: 10.3390/beverages12040043.
 
-HMRC – HIS MAJESTY'S REVENUE AND CUSTOMS. **Plastic Packaging Tax**: steps to take. London: GOV.UK, 2026. Disponível em: https://www.gov.uk/guidance/check-if-you-need-to-register-for-plastic-packaging-tax. Acesso em: 1 nov. 2026.
-
-IHK BRAUNSCHWEIG. **Nationale Umsetzung der Einwegkunststoffrichtlinie**. Braunschweig: IHK, 2024. Disponível em: https://www.ihk.de/braunschweig/beratung-und-service/umwelt-und-energie/umwelt/abfall-kreislaufwirtschaft/einwegkunststoffrichtlinie-5148432. Acesso em: 1 nov. 2026.
-
-ITÁLIA. **Decreto Legislativo 8 novembre 2021, n. 196**. Attuazione della direttiva (UE) 2019/904. Roma: Gazzetta Ufficiale della Repubblica Italiana, 2021.
+GARRIGUES. Nuevas medidas tributarias de la Ley de residuos y suelos contaminados para una economía circular. **Garrigues**, Madrid, 2022. Disponível em: https://www.garrigues.com/es_ES/noticia/nuevas-medidas-tributarias-ley-residuos-suelos-contaminados-economia-circular. Acesso em: 1 nov. 2026.
 
 GEYER, Roland; JAMBECK, Jenna R.; LAW, Kara Lavender. Production, use, and fate of all plastics ever made. **Science Advances**, Washington, v. 3, n. 7, e1700782, 2017. DOI: 10.1126/sciadv.1700782.
 
+GOUVÊA, Marcus de Freitas. **A extrafiscalidade no direito tributário**. Belo Horizonte: Del Rey, 2006.
+
+GUNNINGHAM, Neil; GRABOSKY, Peter. **Smart regulation**: designing environmental policy. Com a colaboração de Darren Sinclair. Oxford: Clarendon Press, 1998.
+
+HMRC – HIS MAJESTY'S REVENUE AND CUSTOMS. **Plastic Packaging Tax**: steps to take. London: GOV.UK, 2026. Disponível em: https://www.gov.uk/guidance/check-if-you-need-to-register-for-plastic-packaging-tax. Acesso em: 1 nov. 2026.
+
 HOPEWELL, Jefferson; DVORAK, Robert; KOSIOR, Edward. Plastics recycling: challenges and opportunities. **Philosophical Transactions of the Royal Society B**, London, v. 364, n. 1526, p. 2115-2126, 2009. DOI: 10.1098/rstb.2008.0311.
 
+IHK BRAUNSCHWEIG. **Nationale Umsetzung der Einwegkunststoffrichtlinie**. Braunschweig: IHK, 2024. Disponível em: https://www.ihk.de/braunschweig/beratung-und-service/umwelt-und-energie/umwelt/abfall-kreislaufwirtschaft/einwegkunststoffrichtlinie-5148432. Acesso em: 1 nov. 2026.
+
 INFINEWS. España debe activar el sistema de depósito de envases como máximo en noviembre de 2026. **Infinews**, 2025. Disponível em: https://infinews.com/eventos/espana-debe-activar-el-sistema-de-deposito-de-envases-como-maximo-en. Acesso em: 1 nov. 2026.
+
+ITÁLIA. **Decreto Legislativo 8 novembre 2021, n. 196**. Attuazione della direttiva (UE) 2019/904. Roma: Gazzetta Ufficiale della Repubblica Italiana, 2021.
 
 JAMBECK, Jenna R. *et al.* Plastic waste inputs from land into the ocean. **Science**, Washington, v. 347, n. 6223, p. 768-771, 2015. DOI: 10.1126/science.1260352.
 
 JONAS, Hans. **O princípio responsabilidade**: ensaio de uma ética para a civilização tecnológica. Rio de Janeiro: Contraponto; Ed. PUC-Rio, 2006.
+
+KANNEBLEY JÚNIOR, Sérgio; SHIMADA, Edson; DE NEGRI, Fernanda. Efetividade da Lei do Bem no estímulo aos dispêndios em P&D: uma análise com dados em painel. **Planejamento e Políticas Públicas**, Brasília, n. 46, 2016.
 
 KIRCHHERR, Julian; REIKE, Denise; HEKKERT, Marko. Conceptualizing the circular economy: an analysis of 114 definitions. **Resources, Conservation and Recycling**, Amsterdam, v. 127, p. 221-232, 2017. DOI: 10.1016/j.resconrec.2017.09.005.
 
@@ -469,6 +505,8 @@ MDIC – MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS. **Re
 MERCA2. España obliga a devolver botellas y latas a partir de 2026: depósito 10 céntimos. **Merca2**, Madrid, 30 maio 2026. Disponível em: https://www.merca2.es/2026/05/30/obligatorio-devolver-botellas-latas-2026-2386696/. Acesso em: 1 nov. 2026.
 
 MILARÉ, Édis. **Direito do ambiente**. 11. ed. São Paulo: Thomson Reuters Brasil, 2018.
+
+NEW FOOD MAGAZINE. PwC report claims tethered bottle caps means more plastic, more carbon and more cost. **New Food Magazine**, dez. 2018. Disponível em: https://www.newfoodmagazine.com/?p=76731. Acesso em: 17 nov. 2026.
 
 OBSERVADOR. Latas e garrafas de plástico passam a ter "v" de volta: como funciona o novo sistema de depósito e reembolso. **Observador**, Lisboa, 2026. Disponível em: https://observador.pt/especiais/latas-e-garrafas-de-plastico-passam-a-ter-v-de-volta-como-funciona-o-novo-sistema-de-deposito-e-reembolso/. Acesso em: 1 nov. 2026.
 
@@ -498,7 +536,13 @@ RETHINK PLASTIC ALLIANCE. **Evaluation report on the implementation of the Singl
 
 SARLET, Ingo Wolfgang; FENSTERSEIFER, Tiago. **Curso de direito ambiental**. Rio de Janeiro: Forense, 2020.
 
+SCHNURR, Riley E. J. *et al.* Reducing marine pollution from single-use plastics (SUPs): a review. **Marine Pollution Bulletin**, v. 137, p. 157-171, 2018. DOI: 10.1016/j.marpolbul.2018.10.001.
+
+SCHUYLER, Qamar; HARDESTY, Britta Denise; LAWSON, T. J.; OPIE, Kimberley; WILCOX, Chris. Economic incentives reduce plastic inputs to the ocean. **Marine Policy**, v. 96, p. 250-255, 2018. DOI: 10.1016/j.marpol.2018.02.009.
+
 SIDEL. Survey on tethered caps: consumers prioritise product safety and user-friendliness. **Sidel**, 9 jun. 2021. Disponível em: https://www.sidel.com/about/media/press-releases/tethered-caps/. Acesso em: 1 nov. 2026.
+
+SURREY, Stanley S. **Pathways to tax reform**: the concept of tax expenditures. Cambridge, MA: Harvard University Press, 1973. DOI: 10.4159/harvard.9780674436503.
 
 THALER, Richard H.; SUNSTEIN, Cass R. **Nudge**: improving decisions about health, wealth, and happiness. New Haven: Yale University Press, 2008.
 
@@ -514,6 +558,14 @@ UNIÃO EUROPEIA. **Decisão de Execução (UE) 2023/1060 da Comissão, de 30 de 
 
 UNIÃO EUROPEIA. **Regulamento (UE) 2025/40 do Parlamento Europeu e do Conselho, de 19 de dezembro de 2024**, relativo a embalagens e resíduos de embalagens, que altera o Regulamento (UE) 2019/1020 e a Diretiva (UE) 2019/904 e que revoga a Diretiva 94/62/CE. Jornal Oficial da União Europeia, série L, 22 jan. 2025.
 
-ZWEIGERT, Konrad; KÖTZ, Hein. **An introduction to comparative law**. Tradução de Tony Weir. 3. ed. Oxford: Clarendon Press, 1998.
-
 UNIÃO EUROPEIA. Comissão Europeia. **Comunicação C/2026/4813**: orientações sobre produtos de plástico de utilização única nos termos da Diretiva (UE) 2019/904 (versão revista). Jornal Oficial da União Europeia, série C, 8 set. 2026.
+
+VARSANO, Ricardo. **A guerra fiscal do ICMS**: quem ganha e quem perde. Rio de Janeiro: IPEA, 1997. (Texto para Discussão, n. 500). Disponível em: https://repositorio.ipea.gov.br/bitstream/11058/2253/1/td_0500.pdf. Acesso em: 17 nov. 2026.
+
+XANTHOS, Dirk; WALKER, Tony R. International policies to reduce plastic marine pollution from single-use plastics (plastic bags and microbeads): a review. **Marine Pollution Bulletin**, v. 118, n. 1-2, p. 17-26, 2017. DOI: 10.1016/j.marpolbul.2017.02.048.
+
+YANDLE, Bruce. Bootleggers and Baptists: the education of a regulatory economist. **Regulation**, Washington, v. 7, n. 3, p. 12-16, maio/jun. 1983.
+
+YEUNG, Karen. Towards an understanding of regulation by design. *In*: BROWNSWORD, Roger; YEUNG, Karen (ed.). **Regulating technologies**: legal futures, regulatory frames and technological fixes. Oxford: Hart, 2008. p. 79-107.
+
+ZWEIGERT, Konrad; KÖTZ, Hein. **An introduction to comparative law**. Tradução de Tony Weir. 3. ed. Oxford: Clarendon Press, 1998.

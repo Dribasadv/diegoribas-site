@@ -38,3 +38,13 @@ Os portais oficiais (BOE, EUR-Lex, Planalto, Senado, Câmara, STF, ALEP, MDPI) e
 
 ## PL estadual (`pl-estadual-pr-tampas-presas.md` / `.docx`)
 - Ver a "Nota técnica de tramitação" ao final do arquivo.
+
+## Revisão de 17/11/2026 (v2): itens novos a conferir
+- [ ] ALMEIDA, *Competências na Constituição de 1988*: conferir edição e ano (6. ed., Atlas, 2013?).
+- [ ] KANNEBLEY JÚNIOR; SHIMADA; DE NEGRI (2016): conferir título exato e páginas em *Planejamento e Políticas Públicas*, n. 46.
+- [ ] GUNNINGHAM; GRABOSKY (1998): conferir se Darren Sinclair consta como coautor na folha de rosto.
+- [ ] ADI 4.619/SP: data exata do acórdão (2020). ADI 3.645/PR (31/5/2006), RE 586.224 (5/3/2015), ADI 750 (3/8/2017), ADI 7.719 (18/8/2025): conferir no portal do STF.
+- [ ] RDC ANVISA 56/2012: conferir data e ementa no DOU.
+- [ ] MP 1.399/2026 (alíquotas do Imposto Seletivo para 2027): conferir texto e tramitação.
+- [ ] Decreto 12.688/2025, Anexos I e II: conferir percentuais anuais (35% ou 36% em 2028).
+- [ ] Doutrina brasileira inserida sem página (Almeida, Antunes, Derani, Gouvêa): acrescentar página se a revista exigir citação com página.
