@@ -48,3 +48,9 @@ Os portais oficiais (BOE, EUR-Lex, Planalto, Senado, Câmara, STF, ALEP, MDPI) e
 - [ ] MP 1.399/2026 (alíquotas do Imposto Seletivo para 2027): conferir texto e tramitação.
 - [ ] Decreto 12.688/2025, Anexos I e II: conferir percentuais anuais (35% ou 36% em 2028).
 - [ ] Doutrina brasileira inserida sem página (Almeida, Antunes, Derani, Gouvêa): acrescentar página se a revista exigir citação com página.
+
+## Alinhamento ao PPGD/UNICURITIBA (17/11/2026)
+- [ ] Revista Jurídica Unicuritiba estava "em manutenção" (403): conferir na página de cada artigo v., n., páginas e DOI de BERTONCINI e OIKAWA 2013; CRUZ e AGUSTINHO 2024; DINIZ 2018; GUERRA FILHO et al. 2021; PEREIRA e PONZILACQUA 2024 (páginas 94-106?); SANTIAGO e MEDEIROS 2017; SILVA e KNOERR 2013.
+- [ ] COMPARATO 1986: confirmar volume (v. 25?) e período (jul./set.).
+- [ ] Nota CAPES do PPGD na Plataforma Sucupira (indício de conceito 4).
+- [ ] RUNA (bloqueado por Cloudflare): localizar dissertações do PPGD sobre função social, ESG e resíduos (comunidade ANIMA/1964), em especial a de Nico de Souza Macei, e o artigo de Bussmeyer et al. (2024) sobre microplásticos.

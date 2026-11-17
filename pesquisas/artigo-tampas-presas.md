@@ -40,7 +40,9 @@ Quanto ao método, adota-se abordagem dedutiva, com pesquisa documental (atos no
 
 A contribuição do artigo é tríplice. Primeiro, sistematiza, pela primeira vez em língua portuguesa, a recepção comparada do requisito europeu de fechos presos e o pacote de instrumentos que o acompanha. Segundo, submete a hipótese de uma lei estadual sobre desenho de embalagens aos precedentes do STF, favoráveis e contrários, sobre características de produtos de circulação nacional. Terceiro, distingue os instrumentos de indução juridicamente viáveis após a EC 132/2023, separando o desenvolvimento da tecnologia, alcançável pelos incentivos à inovação, de sua mera adoção.
 
-## 2 Fundamentos: economia circular, responsabilidade do produtor e regulação pelo desenho
+O estudo insere-se na linha de pesquisa "Atividade Empresarial e Constituição: inclusão e sustentabilidade", do Programa de Pós-Graduação em Direito Empresarial e Cidadania do UNICURITIBA, cujo eixo é a atividade empresarial ordenada pela Constituição e orientada ao objetivo de construir uma sociedade livre, justa e solidária (CF, art. 3º, I). A tampa presa é um objeto privilegiado para esse recorte, porque nela se encontram, em escala mínima, os três temas da linha: a conformação da livre iniciativa pela defesa do meio ambiente (CF, art. 170, VI); a sustentabilidade entendida como dever jurídico, e não como mera virtude empresarial (FREITAS, 2019); e a inclusão, que aparece na acessibilidade do fecho, na participação dos catadores na cadeia de valor do material recuperado e no tratamento diferenciado das micro e pequenas empresas. O artigo examina, assim, como a ordem econômica constitucional pode converter um padrão de desenho em dever de conformação da empresa, sem perder de vista a proporcionalidade e a coordenação federativa.
+
+## 2 Fundamentos: economia circular, regulação pelo desenho e função social da empresa
 
 ### 2.1 A escala do problema
 
@@ -63,6 +65,12 @@ A vantagem dessa técnica é dispensar a fiscalização do comportamento individ
 ### 2.4 Precaução, prevenção e o ônus da evidência
 
 Uma medida regulatória ambiental não precisa aguardar certeza científica completa quando há risco de dano grave (princípio da precaução) e deve antecipar danos conhecidos (princípio da prevenção; MACHADO, 2018; SARLET; FENSTERSEIFER, 2020). Isso não dispensa o legislador de justificar a medida com a melhor evidência disponível nem de monitorar seus resultados. Jonas (2006) fundamenta eticamente o dever de considerar os efeitos de longo prazo das ações técnicas. Esse dever inclui avaliar se a técnica regulatória escolhida de fato alcança o fim proposto. O ônus argumentativo, portanto, é duplo: demonstrar o risco e demonstrar a idoneidade do meio.
+
+### 2.5 Empresa, função social e cidadania: a tampa presa como dever de conformação da atividade empresarial
+
+A exigência de desenho também se lê pela teoria da função social da empresa. Comparato (1986) mostrou que a função social incide com mais intensidade sobre os bens de produção, porque é neles que a propriedade se converte em poder sobre a vida econômica alheia. Na Constituição de 1988, essa ideia se articula com uma ordem econômica fundada na livre iniciativa, mas finalisticamente vinculada à existência digna e à defesa do meio ambiente (GRAU, 2023). A literatura do próprio programa distingue a função social, poder-dever de harmonizar a atividade com os interesses da comunidade, da responsabilidade social, de natureza voluntária (SANTIAGO; MEDEIROS, 2017), e inclui a preservação ambiental entre os efeitos esperados da atividade empresarial (DINIZ, 2018). A responsabilidade social, por sua vez, só ganha densidade quando referida à tábua axiológica constitucional de um país desigual (SILVA; KNOERR, 2013).
+
+Essa distinção organiza o argumento deste artigo. A tampa presa obrigatória é expressão da função social: um dever de conformação do produto, imposto a quem controla o desenho. A adesão antecipada, examinada na seção 7, situa-se no campo da responsabilidade social e das práticas ESG, que a literatura descreve como assimilação empresarial do dever de enfrentar demandas coletivas (GUERRA FILHO; TURQUETI; LIMA, 2021). Na linguagem do *triple bottom line*, trata-se de levar ao desenho do produto o desempenho ambiental, ao lado do econômico e do social (ELKINGTON, 1997). Por fim, a informação sobre o descarte conjunto de garrafa e tampa concretiza o dever do fornecedor de educar para o consumo, também derivado da função social (BERTONCINI; OIKAWA, 2013).
 
 ## 3 O modelo europeu e sua recepção comparada: Espanha, Portugal, Itália, Alemanha e Reino Unido
 
@@ -162,7 +170,7 @@ Esses achados não invalidam a medida, mas qualificam seu desenho regulatório. 
 
 ### 5.1 Base constitucional
 
-O art. 225 da Constituição consagra o direito ao meio ambiente ecologicamente equilibrado e impõe ao Poder Público controlar a produção e a comercialização de técnicas, métodos e substâncias que comportem risco para a qualidade de vida e o meio ambiente (§ 1º, V). O art. 170, VI, eleva a defesa do meio ambiente a princípio da ordem econômica e admite tratamento diferenciado conforme o impacto ambiental dos produtos. O requisito de tampa presa é, nesse quadro, uma conformação legítima da livre iniciativa. Ele não proíbe atividade econômica; apenas define uma característica do produto em função de seu impacto. A legitimidade da conformação, porém, não dispensa o controle de necessidade. A Lei 13.874/2019 qualifica como abuso do poder regulatório "exigir especificação técnica que não seja necessária para atingir o fim desejado" (art. 4º, III) e impõe análise de impacto regulatório aos atos normativos da administração federal (art. 5º). Uma norma de desenho deve, portanto, demonstrar a relação entre o requisito e o fim ambiental, o que reforça a exigência de linha de base e monitoramento defendida na seção 4.
+O art. 225 da Constituição consagra o direito ao meio ambiente ecologicamente equilibrado e impõe ao Poder Público controlar a produção e a comercialização de técnicas, métodos e substâncias que comportem risco para a qualidade de vida e o meio ambiente (§ 1º, V). O art. 170, VI, eleva a defesa do meio ambiente a princípio da ordem econômica e admite tratamento diferenciado conforme o impacto ambiental dos produtos. O requisito de tampa presa é, nesse quadro, uma conformação legítima da livre iniciativa, que a Constituição de 1988 não consagra como valor absoluto, mas como fundamento de uma ordem econômica finalisticamente orientada (GRAU, 2023). Ele não proíbe atividade econômica; apenas define uma característica do produto em função de seu impacto. A legitimidade da conformação, porém, não dispensa o controle de necessidade. A Lei 13.874/2019 qualifica como abuso do poder regulatório "exigir especificação técnica que não seja necessária para atingir o fim desejado" (art. 4º, III) e impõe análise de impacto regulatório aos atos normativos da administração federal (art. 5º). Uma norma de desenho deve, portanto, demonstrar a relação entre o requisito e o fim ambiental, o que reforça a exigência de linha de base e monitoramento defendida na seção 4.
 
 ### 5.2 Legislação federal
 
@@ -244,7 +252,7 @@ Diante desses limites, a indução deve privilegiar instrumentos que não depend
 
 a) **compras públicas sustentáveis**: a Lei 14.133/2021 admite margem de preferência de até 10% para bens reciclados, recicláveis ou biodegradáveis (art. 26, II, e § 1º, II). Como o critério legal é o material, e não o desenho, o caminho mais seguro é exigir a tampa presa como especificação do objeto, justificada no estudo técnico preliminar, e aplicar a margem ao conteúdo reciclado;
 
-b) **fomento financeiro** por agências estaduais e bancos de desenvolvimento, para troca de moldes por micro e pequenas envasadoras, desde que não calculado sobre o ICMS devido, o que o aproximaria de benefício fiscal indireto;
+b) **fomento financeiro** por agências estaduais e bancos de desenvolvimento, para troca de moldes por micro e pequenas envasadoras, desde que não calculado sobre o ICMS devido, o que o aproximaria de benefício fiscal indireto. O fomento pode, ademais, adotar a lógica dos instrumentos de dívida vinculados a metas de sustentabilidade, em que o custo do crédito varia conforme o cumprimento de indicadores verificáveis (CRUZ; AGUSTINHO, 2024); aqui, o indicador seria a conformidade dos fechos atestada por ensaio. Essa vinculação é coerente com a leitura da sustentabilidade como princípio de interpretação e aplicação das normas fiscais e financeiras (FREITAS, 2019; PEREIRA; PONZILACQUA, 2024);
 
 c) **redução de taxas ambientais** para quem comprove a adesão, justificada pela menor demanda de fiscalização (CF, art. 145, II), além de selo oficial e reconhecimento nos planos estaduais de logística reversa;
 
@@ -288,6 +296,8 @@ No plano jurídico, a medida cabe na competência concorrente do art. 24 da Cons
 
 Quanto à indução, a adesão antecipada das empresas no plano estadual é desejável. Ela distribui no tempo o custo de adaptação, gera evidência e forma uma base de apoio à futura norma geral. O incentivo fiscal estadual, porém, encontra dois limites: o ICMS exige convênio no CONFAZ, sob pena de inconstitucionalidade, como o próprio Paraná experimentou na ADI 4.481; e a reforma tributária extingue o ICMS em 2033 e veda incentivos no IBS. O incentivo de ICMS, se houver, deve ser transitório, condicionado a certificação e focalizado nas micro e pequenas empresas. O núcleo da estratégia de indução deve estar em instrumentos que não dependem do imposto: compras públicas sustentáveis, fomento financeiro, taxas ambientais e reconhecimento oficial. No plano federal, a Lei do Bem já oferece, sem necessidade de nova lei, exclusões da base de cálculo do IRPJ e da CSLL para o desenvolvimento de tampas e lacres que não se desprendam. Ela alcança, porém, apenas a atividade de inovação, e não a mera adoção de tecnologia pronta, e apenas as empresas do lucro real. Por isso deve ser complementada por subvenção e crédito da Finep e do BNDES.
 
+Na perspectiva do direito empresarial e da cidadania, o caso mostra que a sustentabilidade da atividade empresarial não depende apenas de práticas voluntárias, mas pode ser incorporada ao próprio objeto da produção como dever de conformação, em concretização da função social da empresa e dos princípios da ordem econômica (COMPARATO, 1986; GRAU, 2023). A distinção entre esse dever e a responsabilidade social voluntária (SANTIAGO; MEDEIROS, 2017) explica a arquitetura proposta: a norma fixa o mínimo exigível, e a adesão antecipada, estimulada por compras públicas, fomento e reconhecimento oficial, recompensa as empresas que se antecipam a ele, no espírito das práticas ESG (GUERRA FILHO; TURQUETI; LIMA, 2021). A dimensão inclusiva da medida, presente nos requisitos de acessibilidade, na participação dos catadores e no tratamento das micro e pequenas empresas, impede que a sustentabilidade ambiental seja obtida à custa da exclusão social e alinha a política ao objetivo constitucional de uma sociedade livre, justa e solidária (FREITAS, 2019; SILVA; KNOERR, 2013).
+
 Como agenda de pesquisa, sugerem-se: (i) estudos empíricos brasileiros, com linha de base anterior à adoção, sobre a presença de tampas no lixo disperso; (ii) avaliação de ciclo de vida comparando fechos convencionais e presos; (iii) análise da interação entre tampas presas e sistemas de depósito e devolução no contexto da coleta seletiva brasileira, fortemente apoiada no trabalho dos catadores; e (iv) o estudo, já em preparação em artigo específico, da tributação indutora de embalagens circulares, incluindo os limites do ICMS na transição, a possibilidade de diferenciar as alíquotas do Imposto Seletivo segundo características ambientais da embalagem e o alcance dos incentivos à inovação.
 
 ---
@@ -319,6 +329,8 @@ APA – AGÊNCIA PORTUGUESA DO AMBIENTE. **Plásticos de utilização única**: 
 ARGUS MEDIA. Italy delays plastic tax to 2027. **Argus Media**, London, out. 2025. Disponível em: https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2742946-italy-delays-plastic-tax-to-2027. Acesso em: 1 nov. 2026.
 
 AYRES, Ian; BRAITHWAITE, John. **Responsive regulation**: transcending the deregulation debate. New York: Oxford University Press, 1992.
+
+BERTONCINI, Mateus Eduardo Siqueira Nunes; OIKAWA, Mariana Mendes Cardoso. O consumo consciente e a educação para o consumo como função social da empresa. **Revista Jurídica**, Curitiba, v. 4, n. 33, p. 298-319, 2013. Disponível em: https://revista.unicuritiba.edu.br/index.php/RevJur/article/view/760. Acesso em: 17 nov. 2026.
 
 BPF – BRITISH PLASTICS FEDERATION. Why all the fuss about tethered closures? **BPF**, London, 2024. Disponível em: https://www.bpf.co.uk/article/why-all-the-fuss-about-tethered-closures-3627.aspx. Acesso em: 1 nov. 2026.
 
@@ -390,7 +402,11 @@ BRODIES. Towards a UK deposit return scheme: UK Government reaffirms its commitm
 
 CAMERA DI COMMERCIO DI TORINO. Direttiva SUP: dal 3 luglio i tappi attaccati alle bottiglie. **Portale Etichettatura**, Torino, 3 jul. 2024. Disponível em: https://portale-etichettatura.lab-to.camcom.it/news/2024/7/3/direttiva-sup-dal-3-luglio-i-tappi-attaccati-alle/. Acesso em: 1 nov. 2026.
 
+COMPARATO, Fábio Konder. Função social da propriedade dos bens de produção. **Revista de Direito Mercantil, Industrial, Econômico e Financeiro**, São Paulo, n. 63, p. 71-79, 1986.
+
 CONSUMER. ¿Por qué los tapones de plástico van ahora unidos a las botellas y los briks? **Consumer.es**, Bilbao, 2024. Disponível em: https://www.consumer.es/?p=457722. Acesso em: 1 nov. 2026.
+
+CRUZ, Luma Peres Candido da; AGUSTINHO, Eduardo Oliveira. A emissão pública de debêntures simples na modalidade dos sustainability-linked bonds como instrumento para atender as metas ESG em sociedades anônimas de capital fechado: estudo de caso Grupo Boticário. **Revista Jurídica**, Curitiba, v. 2, n. 78, p. 69-93, 2024. Disponível em: https://revista.unicuritiba.edu.br/index.php/RevJur/article/view/6603. Acesso em: 17 nov. 2026.
 
 DAERA – DEPARTMENT OF AGRICULTURE, ENVIRONMENT AND RURAL AFFAIRS. **Single use plastics**. Belfast: DAERA, 2024. Disponível em: https://www.daera-ni.gov.uk/articles/single-use-plastic-directive. Acesso em: 1 nov. 2026.
 
@@ -400,7 +416,11 @@ DGAE – DIREÇÃO-GERAL DAS ATIVIDADES ECONÓMICAS. **Sistema de Depósito e Re
 
 DIN VERBRAUCHERRAT. **Study of the DIN Consumer Council on the usability and consumer acceptance of tethered caps for beverage containers**. Berlin: DIN, 14 nov. 2024. Disponível em: https://din.de/resource/blob/1192226/6b1471ddb924881a22fbda3b389d68fd/study-of-the-din-consumer-council-on-the-usability-and-consumer-acceptance-of-tethered-caps-for-beverage-containers-data.pdf. Acesso em: 1 nov. 2026.
 
+DINIZ, Maria Helena. Importância da função social da empresa. **Revista Jurídica**, Curitiba, v. 2, n. 51, p. 387-412, 2018. Disponível em: https://revista.unicuritiba.edu.br/index.php/RevJur/article/view/2815. Acesso em: 17 nov. 2026.
+
 EBNER STOLZ. Einwegkunststofffonds oder „Plastiksteuer“: Sonderabgabe ab 01.01.2025 fällig. **Ebner Stolz**, 2025. Disponível em: https://www.ebnerstolz.de/de/themen/esg/einwegkunststofffonds-plastiksteuer-74447.html. Acesso em: 1 nov. 2026.
+
+ELKINGTON, John. **Cannibals with forks**: the triple bottom line of 21st century business. Oxford: Capstone, 1997.
 
 ELLEN MACARTHUR FOUNDATION; WORLD ECONOMIC FORUM; MCKINSEY & COMPANY. **The New Plastics Economy**: rethinking the future of plastics. Cowes: Ellen MacArthur Foundation, 2016.
 
@@ -414,6 +434,8 @@ ESTADOS UNIDOS. Supreme Court. **New State Ice Co. v. Liebmann**, 285 U.S. 262, 
 
 EY. El nuevo impuesto especial sobre envases de plástico no reutilizables. **EY España**, Madrid, 2022. Disponível em: https://www.ey.com/es_es/the-cfo-agenda/el-nuevo-impuesto-especial-sobre-envases-de-plastico-no-reutilizables. Acesso em: 1 nov. 2026.
 
+FREITAS, Juarez. **Sustentabilidade**: direito ao futuro. 4. ed. Belo Horizonte: Fórum, 2019.
+
 GAJDOŠ KLJUSURIĆ, Jasenka; ČAČIĆ, Jasna. Mandatory tethered caps on plastic beverage bottles: Croatian consumer perception and acceptance pre- and post-implementation of the EU Single-Use Plastic Directive. **Beverages**, Basel, v. 12, n. 4, art. 43, 2026. DOI: 10.3390/beverages12040043.
 
 GARRIGUES. Nuevas medidas tributarias de la Ley de residuos y suelos contaminados para una economía circular. **Garrigues**, Madrid, 2022. Disponível em: https://www.garrigues.com/es_ES/noticia/nuevas-medidas-tributarias-ley-residuos-suelos-contaminados-economia-circular. Acesso em: 1 nov. 2026.
@@ -421,6 +443,10 @@ GARRIGUES. Nuevas medidas tributarias de la Ley de residuos y suelos contaminado
 GEYER, Roland; JAMBECK, Jenna R.; LAW, Kara Lavender. Production, use, and fate of all plastics ever made. **Science Advances**, Washington, v. 3, n. 7, e1700782, 2017. DOI: 10.1126/sciadv.1700782.
 
 GOUVÊA, Marcus de Freitas. **A extrafiscalidade no direito tributário**. Belo Horizonte: Del Rey, 2006.
+
+GRAU, Eros Roberto. **A ordem econômica na Constituição de 1988**: interpretação e crítica. 20. ed. atual. São Paulo: Malheiros; JusPodivm, 2023.
+
+GUERRA FILHO, Willis Santiago; TURQUETI, Daniele de Mattos Carreira; LIMA, Marcus Vinicius Rodrigues. A responsabilidade pelo enfrentamento de demandas sociais: a assimilação empresarial do conceito e a nova onda ESG. **Revista Jurídica**, Curitiba, v. 1, n. 63, p. 663-683, 2021. Disponível em: https://revista.unicuritiba.edu.br/index.php/RevJur/article/view/5348. Acesso em: 17 nov. 2026.
 
 GUNNINGHAM, Neil; GRABOSKY, Peter. **Smart regulation**: designing environmental policy. Com a colaboração de Darren Sinclair. Oxford: Clarendon Press, 1998.
 
@@ -470,6 +496,8 @@ PARANÁ. **Lei nº 12.493, de 22 de janeiro de 1999**. Estabelece princípios, p
 
 PARANÁ. **Lei nº 20.607, de 10 de junho de 2021**. Dispõe sobre o Plano Estadual de Resíduos Sólidos do Paraná. Curitiba: Assembleia Legislativa, 2021.
 
+PEREIRA, Flavio Felipe; PONZILACQUA, Marcio Henrique. Legislação fiscal-ambiental e a sustentabilidade como princípio na aplicação e interpretação das normas tributárias: análise da ADI 5.553. **Revista Jurídica**, Curitiba, v. 2, n. 78, 2024. Disponível em: https://revista.unicuritiba.edu.br/index.php/RevJur/article/view/6605. Acesso em: 17 nov. 2026.
+
 PORTUGAL. **Decreto-Lei n.º 78/2021, de 24 de setembro**. Transpõe a Diretiva (UE) 2019/904, relativa à redução do impacto de determinados produtos de plástico no ambiente. Diário da República, 1.ª série, n. 187, 24 set. 2021.
 
 PORTUGAL. **Decreto-Lei n.º 83/2022, de 9 de dezembro**. Diário da República, 1.ª série, 9 dez. 2022.
@@ -484,6 +512,8 @@ RENEWABLE MATTER. Plastic tax, nuovo rinvio al 2027. **Renewable Matter**, Milan
 
 RETHINK PLASTIC ALLIANCE. **Evaluation report on the implementation of the Single-Use Plastics Directive**. Brussels: Rethink Plastic Alliance, dez. 2024. Disponível em: https://rethinkplasticalliance.eu/wp-content/uploads/2024/12/Evaluation-report-SUP-final-text.pdf. Acesso em: 1 nov. 2026.
 
+SANTIAGO, Mariana Ribeiro; MEDEIROS, Elisângela Aparecida de. Função social e solidária da empresa: impactos na liberdade econômica versus benefícios no desenvolvimento nacional. **Revista Jurídica**, Curitiba, v. 2, n. 47, p. 99-122, 2017.
+
 SARLET, Ingo Wolfgang; FENSTERSEIFER, Tiago. **Curso de direito ambiental**. Rio de Janeiro: Forense, 2020.
 
 SCHNURR, Riley E. J. *et al.* Reducing marine pollution from single-use plastics (SUPs): a review. **Marine Pollution Bulletin**, v. 137, p. 157-171, 2018. DOI: 10.1016/j.marpolbul.2018.10.001.
@@ -491,6 +521,8 @@ SCHNURR, Riley E. J. *et al.* Reducing marine pollution from single-use plastics
 SCHUYLER, Qamar; HARDESTY, Britta Denise; LAWSON, T. J.; OPIE, Kimberley; WILCOX, Chris. Economic incentives reduce plastic inputs to the ocean. **Marine Policy**, v. 96, p. 250-255, 2018. DOI: 10.1016/j.marpol.2018.02.009.
 
 SIDEL. Survey on tethered caps: consumers prioritise product safety and user-friendliness. **Sidel**, 9 jun. 2021. Disponível em: https://www.sidel.com/about/media/press-releases/tethered-caps/. Acesso em: 1 nov. 2026.
+
+SILVA, Marcos Alves da; KNOERR, Viviane Coêlho de Séllos. Responsabilidade social da empresa e subcidadania: pautas para uma reflexão de índole constitucional. **Revista Jurídica**, Curitiba, v. 2, n. 31, p. 435-453, 2013. Disponível em: https://revista.unicuritiba.edu.br/index.php/RevJur/article/view/611. Acesso em: 17 nov. 2026.
 
 SURREY, Stanley S. **Pathways to tax reform**: the concept of tax expenditures. Cambridge, MA: Harvard University Press, 1973. DOI: 10.4159/harvard.9780674436503.
 
