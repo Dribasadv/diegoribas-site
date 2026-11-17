@@ -4,7 +4,7 @@ subtitle: "The cap that is not lost: the European tethered-cap requirement for p
 lang: pt-BR
 ---
 
-**Diego Antonio Ribas**[^autor]
+**Diego Antonio Ribas Gomes**[^autor]
 
 [^autor]: Advogado (OAB/PR 63.861; OAB/SC 65.175), Curitiba/PR.
 
