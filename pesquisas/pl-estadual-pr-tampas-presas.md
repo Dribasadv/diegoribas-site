@@ -4,7 +4,7 @@
 
 **Autoria:** Deputado(a) Estadual ____________________
 
-> *Minuta técnica elaborada por Diego Antonio Ribas Advocacia para apresentação por parlamentar. O texto é de iniciativa parlamentar e foi redigido para não criar órgãos, cargos ou atribuições novas no Poder Executivo (CF, art. 61, § 1º, II; STF, Tema 917).*
+> *Minuta técnica elaborada por Diego Antonio Ribas Advocacia para apresentação por parlamentar (versão 2, de 17/11/2026, alinhada ao artigo "A tampa que não se perde", v3). O texto é de iniciativa parlamentar e foi redigido para não criar órgãos, cargos ou atribuições novas no Poder Executivo (CF, art. 61, § 1º, II; STF, Tema 917).*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### CAPÍTULO I – DISPOSIÇÕES GERAIS
 
-**Art. 1º** Esta Lei estabelece normas suplementares de proteção do meio ambiente, de controle da poluição e de defesa do consumidor relativas às tampas e fechos plásticos de recipientes de bebidas. Ela se fundamenta no art. 24, incisos V, VI e VIII e §§ 2º e 3º, da Constituição Federal e concretiza, no território estadual, os arts. 6º, 30, 31 e 32 da Lei Federal nº 12.305, de 2 de agosto de 2010, a Lei Estadual nº 12.493, de 22 de janeiro de 1999, e o Plano Estadual de Resíduos Sólidos instituído pela Lei Estadual nº 20.607, de 10 de junho de 2021.
+**Art. 1º** Esta Lei estabelece normas suplementares de proteção do meio ambiente, de controle da poluição e de defesa do consumidor relativas às tampas e fechos plásticos de recipientes de bebidas. Ela se fundamenta no art. 24, incisos V, VI e VIII e § 2º, e no art. 170, inciso VI, da Constituição Federal e concretiza, no território estadual, os arts. 6º, 30, 31 e 32 da Lei Federal nº 12.305, de 2 de agosto de 2010, o Decreto Federal nº 12.688, de 21 de outubro de 2025, a Lei Estadual nº 12.493, de 22 de janeiro de 1999, e o Plano Estadual de Resíduos Sólidos instituído pela Lei Estadual nº 20.607, de 10 de junho de 2021.
 
 **Art. 2º** Para os fins desta Lei, considera-se:
 
@@ -50,7 +50,7 @@ I – permitir abertura, uso e fechamento seguros, inclusive por pessoas idosas,
 
 II – ser fabricada com material compatível com a reciclagem do recipiente, vedado o uso de componentes que comprometam a separação ou a qualidade do material reciclado;
 
-III – não prejudicar a segurança sanitária do produto nem a evidência de inviolabilidade exigida pelas normas sanitárias.
+III – não prejudicar a segurança sanitária do produto nem a evidência de inviolabilidade, observada a regulamentação sanitária federal sobre materiais plásticos em contato com alimentos.
 
 **Art. 4º** Presume-se conforme ao art. 3º a tampa ou fecho que atenda:
 
@@ -72,7 +72,7 @@ I – estímulo à adoção antecipada e voluntária de tampas presas pelos fabr
 
 II – integração entre o requisito desta Lei, a coleta seletiva e os sistemas de logística reversa de embalagens plásticas;
 
-III – valorização das cooperativas e associações de catadores de materiais recicláveis na recuperação de tampas e fechos;
+III – valorização das cooperativas e associações de catadores de materiais recicláveis na recuperação de tampas e fechos, inclusive em articulação com os programas estaduais de apoio aos catadores já existentes;
 
 IV – educação ambiental e informação ao consumidor sobre o descarte conjunto de recipiente e tampa;
 
@@ -100,7 +100,7 @@ I – o uso, em sua comunicação, da expressão "Tampa Presa – Paraná", veda
 
 II – o reconhecimento da adesão no âmbito dos planos e sistemas estaduais de logística reversa de embalagens;
 
-III – a redução de 50% (cinquenta por cento) nos valores das taxas estaduais de licenciamento e de controle ambiental relativas às suas unidades de envase localizadas no Estado;
+III – a redução de 50% (cinquenta por cento) nos valores das taxas estaduais de licenciamento e de controle ambiental relativas às suas unidades de envase localizadas no Estado, em razão da menor demanda de fiscalização sobre produtos com conformidade certificada;
 
 IV – o acesso a linhas de financiamento com condições favorecidas, oferecidas pelas instituições financeiras de fomento de que o Estado participe, para aquisição e adaptação de moldes, equipamentos e linhas de envase, com prioridade para as microempresas e empresas de pequeno porte.
 
@@ -112,11 +112,13 @@ IV – o acesso a linhas de financiamento com condições favorecidas, oferecida
 
 **§ 4º** A relação dos beneficiários e o custo estimado dos incentivos serão divulgados anualmente em formato aberto.
 
-**Art. 10.** Nas contratações públicas estaduais que tenham por objeto água mineral ou outras bebidas acondicionadas nos recipientes de que trata esta Lei, poderão ser adotados:
+**§ 5º** As condições do financiamento de que trata o inciso IV poderão variar conforme o cumprimento de metas verificáveis de conformidade dos fechos e de conteúdo reciclado das embalagens.
 
-I – a margem de preferência para bens reciclados, recicláveis ou biodegradáveis, nos termos do art. 26, inciso II, da Lei Federal nº 14.133, de 1º de abril de 2021, e de seu regulamento;
+**Art. 10.** Nas contratações públicas estaduais que tenham por objeto água mineral ou outras bebidas acondicionadas nos recipientes de que trata esta Lei, poderão ser adotados, em atenção ao objetivo de desenvolvimento nacional sustentável previsto no art. 11, inciso IV, da Lei Federal nº 14.133, de 1º de abril de 2021:
 
-II – critérios de sustentabilidade que considerem a utilização de tampa presa e o conteúdo reciclado da embalagem, em atenção ao art. 11, inciso IV, da Lei Federal nº 14.133, de 2021.
+I – a exigência de tampa presa como especificação do objeto, justificada no estudo técnico preliminar;
+
+II – a margem de preferência para bens reciclados, recicláveis ou biodegradáveis, nos termos do art. 26, inciso II e § 1º, inciso II, da Lei Federal nº 14.133, de 2021, e de seu regulamento, aplicada em razão do conteúdo reciclado da embalagem.
 
 **Art. 11.** O Poder Executivo poderá propor, no âmbito do Conselho Nacional de Política Fazendária (CONFAZ), a celebração de convênio que autorize as unidades federadas a conceder benefício fiscal de ICMS nas operações com recipientes de bebidas dotados de tampa presa, ou com tampas presas, moldes e equipamentos destinados à sua fabricação, observadas as seguintes diretrizes:
 
@@ -170,12 +172,13 @@ Senhoras e Senhores Deputados,
 
 **2. A solução já adotada no exterior.** Desde 3 de julho de 2024, a União Europeia, pelo art. 6º da Diretiva (UE) 2019/904, só admite a venda de recipientes plásticos de bebidas de até três litros se a tampa permanecer presa ao recipiente. Na Espanha, a regra foi incorporada pela Lei 7/2022 e convive com metas de coleta, conteúdo reciclado obrigatório, tributação do plástico não reciclado e sistema de depósito e devolução. A tecnologia está madura e é amplamente utilizada por fabricantes que atuam também no Brasil. Grandes envasadoras exportadoras já produzem para esse padrão.
 
-**3. A lacuna brasileira.** A Política Nacional de Resíduos Sólidos (Lei Federal 12.305/2010) exige que as embalagens sejam fabricadas com materiais que propiciem a reutilização ou a reciclagem (art. 32). O Decreto Federal 12.688/2025 fixou metas progressivas de recuperação e de conteúdo reciclado para embalagens plásticas. Não há, porém, norma federal sobre o desenho dos fechos. O PL 3.615/2024, que trata do tema no Senado, aguarda designação de relator. Pela Constituição, na falta de norma geral federal específica, cabe aos Estados exercer a competência legislativa para atender a suas peculiaridades (art. 24, §§ 2º e 3º).
+**3. A lacuna brasileira.** A Política Nacional de Resíduos Sólidos (Lei Federal 12.305/2010) exige que as embalagens sejam fabricadas com materiais que propiciem a reutilização ou a reciclagem (art. 32). O Decreto Federal 12.688/2025 fixou metas progressivas de recuperação e de conteúdo reciclado para embalagens plásticas. Não há, porém, norma federal sobre o desenho dos fechos. O PL 3.615/2024, que trata do tema no Senado, aguarda designação de relator. Pela Constituição, cabe aos Estados suplementar a legislação federal (art. 24, § 2º). O projeto faz exatamente isso: concretiza, quanto ao desenho dos fechos, a exigência de reciclabilidade do art. 32 da PNRS e as metas do Decreto 12.688/2025, sem criar regime paralelo.
 
-**4. Constitucionalidade.** A matéria é de competência concorrente (CF, art. 24, V, VI e VIII). O Supremo Tribunal Federal reconheceu, no Tema 970 da repercussão geral (RE 732.686), que é constitucional, formal e materialmente, a lei **municipal** que obriga à substituição de sacolas plásticas por biodegradáveis, por concretizar diretriz da Política Nacional de Resíduos Sólidos sem ofender a livre iniciativa ou a proporcionalidade. Com mais razão o Estado pode legislar sobre o tema no exercício da competência concorrente. Para atender aos limites fixados pela jurisprudência, que invalida normas estaduais desproporcionais ou que criem barreiras ao comércio interestadual, o projeto:
+**4. Constitucionalidade.** A matéria é de competência concorrente (CF, art. 24, V, VI e VIII). O Supremo Tribunal Federal reconheceu, no Tema 970 da repercussão geral (RE 732.686), que é constitucional, formal e materialmente, a lei **municipal** que obriga à substituição de sacolas plásticas por biodegradáveis, por concretizar diretriz da Política Nacional de Resíduos Sólidos sem ofender a livre iniciativa ou a proporcionalidade. O precedente confirma a legitimidade de exigir características ambientais de embalagens em concretização da PNRS. O STF, porém, também fixou limites: invalidou lei paranaense sobre rotulagem de transgênicos por inaugurar regulamentação paralela à federal (ADI 3.645) e, em sentido oposto, validou lei paulista apenas ligeiramente mais rigorosa que a norma federal (ADI 4.619). O critério que resulta desses julgados é claro: o Estado pode intensificar a proteção dentro da moldura federal, mas não impor requisito que obrigue a cadeia nacional a se reorganizar. Para atender a esse critério e aos demais limites fixados pela jurisprudência, que invalida normas estaduais desproporcionais ou que criem barreiras ao comércio interestadual, o projeto:
 
 - aplica-se igualmente a produtos fabricados no Paraná e fora dele;
-- aceita como conformes os produtos que atendam à norma técnica europeia (EN 17665) ou equivalente, de modo que quem já cumpre o padrão internacional não precisa de adaptação específica para o Paraná (art. 4º);
+- aceita como conformes os produtos que atendam à norma técnica europeia (EN 17665) ou equivalente, de modo que quem já cumpre o padrão internacional não precisa de adaptação específica para o Paraná (art. 4º). Basear o requisito em norma internacional também atende às regras do comércio internacional sobre barreiras técnicas, internalizadas pelo Decreto federal 1.355/1994;
+- preserva a regulamentação sanitária federal e do Mercosul sobre plásticos em contato com alimentos (art. 3º, § 2º, III);
 - prevê prazo de 24 meses, de 36 meses para micro e pequenas empresas, e de mais 12 meses para escoamento de estoques (art. 14);
 - exclui vidro, metal e embalagens retornáveis, em simetria com o modelo europeu (art. 3º, § 1º);
 - concentra a responsabilidade no fabricante e protege o pequeno comerciante de boa-fé (art. 12, § 2º);
@@ -184,15 +187,17 @@ Senhoras e Senhores Deputados,
 
 **5. Cuidados com o consumidor.** A experiência europeia mostrou queixas sobre a dificuldade de uso de algumas tampas presas, especialmente por idosos, crianças e pessoas com deficiência. Por isso o projeto exige usabilidade e acessibilidade (art. 3º, § 2º, I), além da compatibilidade com a reciclagem (inciso II), para que a solução não crie novos problemas.
 
-**6. Política baseada em evidências.** A avaliação europeia da medida ainda está em curso. Por isso o projeto institui monitoramento com linha de base e protocolos padronizados (art. 7º) e prevê avaliação em cinco anos (art. 17). O Paraná poderá produzir dados úteis a todo o país.
+**6. Política baseada em evidências.** A avaliação europeia da medida ainda está em curso. Estudo recente, baseado em cerca de cinco mil amostragens no litoral e em margens de rios europeus, estimou que medidas isoladas reduzem pouco o lixo disperso e que o efeito relevante vem da aplicação conjunta de desenho, coleta e informação, o que este projeto adota. A própria União Europeia já trata tampas e anéis plásticos como categoria específica de monitoramento do lixo de praia. Por isso o projeto institui monitoramento com linha de base e protocolos padronizados (art. 7º) e prevê avaliação em cinco anos (art. 17). O Paraná poderá produzir dados úteis a todo o país.
 
-**7. Inclusão produtiva.** O Programa Estadual Tampa Presa, Ciclo Fechado valoriza as cooperativas de catadores (art. 6º, III). Elas são as primeiras beneficiárias de um fluxo maior e mais limpo de material reciclável, em linha com os arts. 7º, XII, e 36, § 1º, da Política Nacional de Resíduos Sólidos.
+**7. Inclusão produtiva.** O Programa Estadual Tampa Presa, Ciclo Fechado valoriza as cooperativas de catadores (art. 6º, III). Elas são as primeiras beneficiárias de um fluxo maior e mais limpo de material reciclável, em linha com os arts. 7º, XII, e 36, § 1º, da Política Nacional de Resíduos Sólidos. O programa deve articular-se com as iniciativas estaduais já existentes de apoio aos catadores, como o Programa Ecocidadão Paraná.
 
-**8. Incentivos à adesão antecipada.** O projeto não se limita a obrigar: ele também estimula as empresas a se adaptarem antes do prazo (Capítulo IV). Quem comprovar a conformidade antecipadamente poderá usar o selo "Tampa Presa – Paraná", ter a adesão reconhecida na logística reversa, obter redução de 50% nas taxas estaduais de licenciamento e controle ambiental e acessar linhas de crédito favorecidas para a troca de moldes, com prioridade para micro e pequenas empresas (art. 9º). As compras públicas estaduais poderão dar preferência a esses produtos, nos termos da Lei de Licitações (art. 10).
+**8. Incentivos à adesão antecipada.** O projeto não se limita a obrigar: ele também estimula as empresas a se adaptarem antes do prazo (Capítulo IV). Quem comprovar a conformidade antecipadamente poderá usar o selo "Tampa Presa – Paraná", ter a adesão reconhecida na logística reversa, obter redução de 50% nas taxas estaduais de licenciamento e controle ambiental e acessar linhas de crédito favorecidas para a troca de moldes, com prioridade para micro e pequenas empresas (art. 9º). As compras públicas estaduais poderão exigir a tampa presa como especificação do objeto e aplicar a margem de preferência de até 10% ao conteúdo reciclado da embalagem, nos termos da Lei de Licitações (art. 10). As condições do crédito de fomento poderão variar conforme metas verificáveis de conformidade (art. 9º, § 5º).
 
 Quanto ao ICMS, o projeto respeita a Constituição. Benefícios de ICMS exigem convênio no CONFAZ (CF, art. 155, § 2º, XII, *g*; LC 24/1975), e o próprio Paraná já teve benefício concedido sem convênio declarado inconstitucional pelo STF (ADI 4.481). Além disso, a reforma tributária (EC 132/2023) extingue o ICMS em 2033 e veda incentivos no novo IBS. Por isso o projeto apenas orienta o Poder Executivo a propor no CONFAZ um convênio autorizativo, temporário e focalizado, e proíbe expressamente qualquer benefício de ICMS sem convênio (art. 11). Todos os incentivos são temporários e se extinguem quando a obrigação se torna geral (art. 9º, § 3º). O custo e os beneficiários serão divulgados anualmente (art. 9º, § 4º). Não há reserva de iniciativa do Executivo em matéria tributária (STF, Tema 682), e a redução de taxas produzirá efeitos apenas no exercício seguinte, observada a Lei de Responsabilidade Fiscal (art. 9º, § 2º).
 
-**9. Inovação e incentivos federais.** A Lei federal nº 11.196/2005 (Lei do Bem) permite às empresas do lucro real deduzir do IRPJ e da CSLL de 60% a 80% dos gastos com pesquisa e desenvolvimento, inclusive no desenvolvimento de tampas e lacres que não se desprendem. O Estado não pode alterar esse incentivo, que é federal. Pode, porém, ajudar as empresas paranaenses a acessá-lo e articular com universidades, institutos de ciência e tecnologia e agências de fomento (Finep, BNDES, Fomento Paraná, BRDE) o desenvolvimento dessas soluções (art. 6º, VII). O Paraná pode, assim, tornar-se um polo de inovação em fechos sustentáveis.
+**9. Inovação e incentivos federais.** A Lei federal nº 11.196/2005 (Lei do Bem) permite às empresas do lucro real excluir da base de cálculo do IRPJ e da CSLL de 60% a 80% dos gastos com pesquisa e desenvolvimento, inclusive no desenvolvimento de tampas e lacres que não se desprendem. O Estado não pode alterar esse incentivo, que é federal. Pode, porém, ajudar as empresas paranaenses a acessá-lo e articular com universidades, institutos de ciência e tecnologia e agências de fomento (Finep, BNDES, Fomento Paraná, BRDE) o desenvolvimento dessas soluções (art. 6º, VII). O Paraná pode, assim, tornar-se um polo de inovação em fechos sustentáveis.
+
+**10. Função social da empresa.** A Constituição funda a ordem econômica na livre iniciativa, mas a orienta pela defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos (art. 170, VI). O projeto não proíbe atividade econômica alguma: define uma característica do produto, de baixo custo e já dominada pela indústria, imposta a quem controla o desenho. É a função social da empresa aplicada ao objeto da produção.
 
 Pelas razões expostas, conto com o apoio dos nobres Pares para a aprovação deste Projeto de Lei.
 
@@ -210,7 +215,9 @@ Curitiba, ___ de __________ de 2026.
   - a vigência da Lei 12.493/1999;
   - o nome atual do fundo estadual de meio ambiente;
   - se há lei estadual ou PL na ALEP sobre tampas presas, para evitar duplicidade;
-  - a lei estadual que institui as taxas ambientais do IAT, para eventualmente citá-la no art. 9º, III, e calibrar o percentual de redução.
+  - a lei estadual que institui as taxas ambientais do IAT, para eventualmente citá-la no art. 9º, III, e calibrar o percentual de redução;
+  - a situação atual do Programa Ecocidadão Paraná (base legal e órgão gestor), citado na justificativa;
+  - os dados de ADI 3.645/PR e ADI 4.619/SP no portal do STF.
 - **Responsabilidade fiscal (obrigatório):** o art. 113 do ADCT exige que a proposição que crie renúncia de receita venha acompanhada de estimativa do impacto orçamentário e financeiro. Antes do protocolo, é preciso anexar a estimativa da redução das taxas (art. 9º, III), com base na arrecadação das taxas de licenciamento das unidades de envase de bebidas, ou retirar esse inciso. Os demais incentivos (selo, reconhecimento, crédito de fomento, compras públicas, proposta ao CONFAZ) não implicam renúncia de receita.
 - **Fomento:** contatar a Fomento Paraná e o BRDE para verificar se já existem linhas de crédito para economia circular que possam receber a prioridade do art. 9º, IV.
 - **Articulação sugerida:** audiência pública com ABIPET, Abiplast, Fiep, Sindicato das Indústrias de Bebidas, Procon-PR, IAT, Ministério Público (CAOP Meio Ambiente), cooperativas de catadores e universidades (UFPR, UTFPR) para validar prazos e protocolo de monitoramento.
