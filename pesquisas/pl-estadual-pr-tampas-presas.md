@@ -12,6 +12,8 @@
 
 ---
 
+[[SUMARIO]]
+
 **A ASSEMBLEIA LEGISLATIVA DO ESTADO DO PARANÁ decretou e eu sanciono a seguinte lei:**
 
 ### CAPÍTULO I – DISPOSIÇÕES GERAIS

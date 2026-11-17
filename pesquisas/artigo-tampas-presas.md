@@ -22,6 +22,9 @@ Since 3 July 2024, Directive (EU) 2019/904 has made the placing on the market of
 
 **Keywords:** tethered caps; design-based regulation; environmental federalism; concurrent legislative competence; circular economy.
 
+[[SUMARIO]]
+
+
 ---
 
 ## 1 Introdução
@@ -209,7 +212,7 @@ Fonte: elaborado pelo autor (2026), com base nas normas e fontes citadas.
 
 ## 6 Federalismo ambiental: pode o Estado legislar sobre tampas presas?
 
-### 6.1 Competência concorrente e competência plena supletiva
+### 6.1 Competência concorrente: suplementar, e não plena
 
 A matéria envolve produção e consumo, proteção do meio ambiente e controle da poluição, e responsabilidade por dano ao meio ambiente e ao consumidor. Todos esses temas estão no rol de competência legislativa concorrente da União, dos Estados e do Distrito Federal (CF, art. 24, V, VI e VIII). Nesse regime, à União cabem as normas gerais (§ 1º), e aos Estados, a competência suplementar (§ 2º). **Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena** para atender a suas peculiaridades (§ 3º), e a superveniência de lei federal suspende a eficácia da lei estadual no que lhe for contrário (§ 4º).
 

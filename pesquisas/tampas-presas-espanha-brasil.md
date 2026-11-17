@@ -7,6 +7,8 @@ Diego Antonio Ribas Advocacia · **versão 2, de 17/11/2026** (substitui a vers�
 
 ---
 
+[[SUMARIO]]
+
 ## 1. Síntese
 
 1. O que se observa na Espanha decorre do **art. 6º da Diretiva (UE) 2019/904**. Desde **3/7/2024**, recipientes de bebida de plástico de uso único de até **3 litros** só podem ser colocados no mercado se a tampa plástica **permanecer presa** durante o uso previsto. Na Espanha, a regra está no **art. 57 da Ley 7/2022** (conferido no BOE).
